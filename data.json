@@ -1,0 +1,599 @@
+{
+  "categories": [
+    {
+      "id": "tools",
+      "name": "SEO Tools",
+      "subcategories": [
+        {
+          "name": "All-in-One SEO Tools",
+          "items": [
+            {
+              "name": "Ahrefs",
+              "url": "https://ahrefs.com/",
+              "description": "Everything you need to rank higher & get more traffic."
+            },
+            {
+              "name": "SEMrush",
+              "url": "https://www.semrush.com/",
+              "description": "Comprehensive SEO and marketing platform."
+            },
+            {
+              "name": "Seodity",
+              "url": "https://seodity.com/",
+              "description": "Seodity is a complete SEO toolkit to grow your business."
+            },
+            {
+              "name": "Ubersuggest",
+              "url": "https://neilpatel.com/ubersuggest/",
+              "description": "Want more traffic? Ubersuggest shows you how to win the game of SEO."
+            },
+            {
+              "name": "Mangools",
+              "url": "https://mangools.com/",
+              "description": "Juicy SEO tools you will love."
+            },
+            {
+              "name": "SERanking",
+              "url": "https://seranking.com/",
+              "description": "All-in-one agency-tailored SEO platform."
+            },
+            {
+              "name": "Moz Pro",
+              "url": "https://moz.com/",
+              "description": "SEO software and data to help you increase traffic, rankings, and visibility in search results."
+            },
+            {
+              "name": "Serpstat",
+              "url": "https://serpstat.com/",
+              "description": "SEO management platform."
+            },
+            {
+              "name": "SEO PowerSuite",
+              "url": "https://www.link-assistant.com/",
+              "description": "Rankings, on-page, backlinks, and reports — all in one easy-to-use toolkit."
+            },
+            {
+              "name": "WebCEO",
+              "url": "https://www.webceo.com/",
+              "description": "SEO & digital marketing tools. For agency-level analysis, reports & lead generation."
+            },
+            {
+              "name": "SpyFu",
+              "url": "https://www.spyfu.com/",
+              "description": "SEO marketing suite, PPC analyzer, historic data, competitive analysis, backlink outreach, unlimited keyword & domain projects, custom reporting."
+            },
+            {
+              "name": "Zutrix",
+              "url": "https://zutrix.com/",
+              "description": "SEO Tools to boost your traffic."
+            },
+            {
+              "name": "BrightEdge",
+              "url": "https://www.brightedge.com/",
+              "description": "BrightEdge is an enterprise SEO platform for data-driven content optimization and competitive analysis, ideal for large businesses."
+            },
+            {
+              "name": "CognitiveSEO",
+              "url": "https://cognitiveseo.com/",
+              "description": "This tool provides comprehensive backlink analysis and content auditing to enhance your SEO strategy."
+            },
+            {
+              "name": "Keyword Insights",
+              "url": "https://www.keywordinsights.ai/",
+              "description": "Make Better Content Faster. Much Faster. Transform Your Content and SEO Strategy with AI."
+            },
+            {
+              "name": "Clicks.so",
+              "url": "https://www.clicks.so/",
+              "description": "The Beginner-Friendly Affordable SEO Tool."
+            },
+            {
+              "name": "SEO Utils",
+              "url": "https://seoutils.app/",
+              "description": "An SEO desktop application built for macOS, Windows, Linux."
+            },
+            {
+              "name": "Spexia",
+              "url": "https://getspexia.com",
+              "description": "All in one tool to create & optimize informational content (specialized on ECom shops)."
+            },
+            {
+              "name": "DiagnoSEO",
+              "url": "https://diagnoseo.com/",
+              "description": "AI-powered tools for SEO and content marketing, including a WordPress SEO plugin."
+            },
+            {
+              "name": "Telescope",
+              "url": "https://withtelescope.com/",
+              "description": "All-in-One, affordable SEO toolkit that features keyword research, technical SEO audits, keyword rank tracking, internal linking opportunities, and more."
+            },
+            {
+              "name": "DAXRM",
+              "url": "https://www.daxrm.com/",
+              "description": "DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform."
+            }
+          ]
+        },
+        {
+          "name": "Keyword Research",
+          "items": [
+            {
+              "name": "Google Keyword Planner",
+              "url": "https://ads.google.com/home/tools/keyword-planner/",
+              "description": "Free tool from Google Ads that provides keyword ideas and traffic estimates."
+            },
+            {
+              "name": "Keyword Tool",
+              "url": "https://keywordtool.io/",
+              "description": "Find great keywords using Google Autocomplete."
+            },
+            {
+              "name": "KeySearch LSI Keyword",
+              "url": "https://www.keysearch.co/tools/lsi-keywords-generator",
+              "description": "Enter any keyword to generate semantically related LSI keywords to improve your SEO."
+            },
+            {
+              "name": "WordStream",
+              "url": "https://www.wordstream.com/keywords",
+              "description": "One tool to discover and prioritize the best keywords to target."
+            },
+            {
+              "name": "Ahrefs' Keywords Generator",
+              "url": "https://ahrefs.com/keyword-generator",
+              "description": "Free keyword generator ideas by Ahref."
+            },
+            {
+              "name": "Semrush's Keyword Magic Tool",
+              "url": "https://www.semrush.com/analytics/keywordmagic/start",
+              "description": "Find millions of keyword suggestions for your SEO."
+            },
+            {
+              "name": "Long Tail Pro",
+              "url": "https://longtailpro.com/",
+              "description": "The best keyword research tool for long tail keywords."
+            },
+            {
+              "name": "Seoformulas",
+              "url": "https://www.seoformulas.com",
+              "description": "Discover untapped keywords and build powerful SEO formulas to rank higher in the SERPs."
+            },
+            {
+              "name": "Serp Miner",
+              "url": "https://serpminer.com/free-seo-tools",
+              "description": "Free Keyword Research Tools: Find long-tail keywords using Google Autocomplete and check the exact search volume of keywords in bulk."
+            },
+            {
+              "name": "kwrds.ai",
+              "url": "https://www.kwrds.ai",
+              "description": "Find great keywords & questions people are asking."
+            },
+            {
+              "name": "AnswerThePublic",
+              "url": "https://answerthepublic.com/",
+              "description": "AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas."
+            },
+            {
+              "name": "Keywordideas.xyz",
+              "url": "https://keywordideas.xyz/",
+              "description": "Get keyword suggestions based on a URL or example keyword from real Google search data."
+            }
+          ]
+        },
+        {
+          "name": "Backlink Analysis",
+          "items": [
+            {
+              "name": "Majestic",
+              "url": "https://majestic.com/",
+              "description": "Find out who links to your website."
+            },
+            {
+              "name": "Monitor Backlinks",
+              "url": "https://monitorbacklinks.com/",
+              "description": "Check the good and bad backlinks for you and the competition."
+            },
+            {
+              "name": "Respona",
+              "url": "https://respona.com/",
+              "description": "The all in one link building tool."
+            },
+            {
+              "name": "BacklinkGPT",
+              "url": "https://www.backlinkgpt.com/",
+              "description": "An AI-powered link-building platform that helps you find backlink prospects and generate personalized outreach messages for faster link building."
+            },
+            {
+              "name": "YouLinker",
+              "url": "https://youlinker.pro/",
+              "description": "Submit your product to multiple directories."
+            }
+          ]
+        },
+        {
+          "name": "Content Optimization",
+          "items": [
+            {
+              "name": "Clearscope",
+              "url": "https://www.clearscope.io/",
+              "description": "Clearscope is the best-in-class SEO content optimization platform that drives search traffic."
+            },
+            {
+              "name": "SurferSEO",
+              "url": "https://surferseo.com/",
+              "description": "Don't leave your SEO strategy up to chance. Surfer will give you a SEO workflow to boost your organic traffic, increase your visibility, and improve your rank."
+            },
+            {
+              "name": "NeuronWriter",
+              "url": "https://neuronwriter.com/",
+              "description": "Optimize your website content so Google adores it."
+            },
+            {
+              "name": "ContentSwift",
+              "url": "https://github.com/hilmansaki/contentswift",
+              "description": "An open source content research/optimization tool for SEO."
+            },
+            {
+              "name": "Market Muse",
+              "url": "https://www.marketmuse.com/",
+              "description": "Our AI analyzes your entire website to give you personalized, objective insights so you can confidently plan better and faster."
+            },
+            {
+              "name": "Frase io",
+              "url": "https://www.frase.io/",
+              "description": "Frase is the fastest and easiest way to create content that ranks on Google."
+            },
+            {
+              "name": "GrowthBar",
+              "url": "https://www.growthbarseo.com/",
+              "description": "Write and optimize SEO-friendly blog content. 10x faster with GrowthBar’s AI."
+            },
+            {
+              "name": "LSIGraph",
+              "url": "https://lsigraph.com/",
+              "description": "Write SEO content with confidence and 10X Your site's traffic."
+            },
+            {
+              "name": "Yoast SEO",
+              "url": "https://yoast.com/",
+              "description": "WordPress plugin for SEO optimization of posts and pages."
+            },
+            {
+              "name": "SearchSocket",
+              "url": "https://searchsocket.com/",
+              "description": "A free AI-powered tool that provides real-time SEO suggestions to improve content alignment with Google's guidelines."
+            },
+            {
+              "name": "BlogBud AI",
+              "url": "https://blogbud.ai",
+              "description": "Generate SEO-optimized articles and export directly to your CMS (WordPress, Webflow, Ghost, Shopify)."
+            },
+            {
+              "name": "GrackerAI",
+              "url": "https://gracker.ai/",
+              "description": "AI Editorial and Programtic SEO solution for B2B Cybersecurity SaaS companies."
+            },
+            {
+              "name": "TailorTask",
+              "url": "https://www.tailortask.ai/solutions/for-seo",
+              "description": "A.I. agents to automate internal linking, guest blog proposals, blog post creation, and more."
+            },
+            {
+              "name": "SearchAttention",
+              "url": "https://searchattention.com",
+              "description": "Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT."
+            }
+          ]
+        },
+        {
+          "name": "Rank Tracking",
+          "items": [
+            {
+              "name": "SerpBear",
+              "url": "https://docs.serpbear.com/",
+              "description": "An open source search engine position tracking app."
+            },
+            {
+              "name": "SERPWatcher",
+              "url": "https://serpwatch.io/",
+              "description": "The most advanced rank tracker for marketers and agencies."
+            },
+            {
+              "name": "AccuRanker",
+              "url": "https://www.accuranker.com/",
+              "description": "The world's fastest & most accurate rank tracker."
+            },
+            {
+              "name": "Nightwatch",
+              "url": "https://nightwatch.io/",
+              "description": "Nightwatch is a cloud-based SEO and analytics tool that focuses on rank tracking and reporting."
+            },
+            {
+              "name": "DAXRM",
+              "url": "https://www.daxrm.com/integrations/rank-tracker/",
+              "description": "Real-time SEO keyword rank tracking with multiple locations and devices."
+            }
+          ]
+        },
+        {
+          "name": "Technical SEO",
+          "items": [
+            {
+              "name": "Google Search Console",
+              "url": "https://search.google.com/search-console/about",
+              "description": "Free tool from Google to monitor and maintain site's presence in Google Search results."
+            },
+            {
+              "name": "Screaming Frog SEO Spider",
+              "url": "https://www.screamingfrog.co.uk/seo-spider/#spider-features",
+              "description": "SEO Spider is a website crawler that helps you improve onsite SEO by auditing for common SEO issues."
+            },
+            {
+              "name": "SiteAnalyzer",
+              "url": "https://site-analyzer.pro/",
+              "description": "Scan your websites and get detailed information about each page."
+            },
+            {
+              "name": "Screpy",
+              "url": "https://screpy.com/",
+              "description": "Stop worrying about missing important website metrics or checking multiple platforms!"
+            },
+            {
+              "name": "Sitebulb",
+              "url": "https://sitebulb.com/",
+              "description": "The website auditing tool for SEO consultants and agencies."
+            },
+            {
+              "name": "Moz On-Page Grader",
+              "url": "https://moz.com/tools/onpage-grader",
+              "description": "Analyzes individual page optimization."
+            },
+            {
+              "name": "BROWSEO",
+              "url": "https://www.browseo.net",
+              "description": "See your site through the eyes of a search engine. BROWSEO gives you the type of x-ray vision that search engines have."
+            },
+            {
+              "name": "linkok.com",
+              "url": "https://linkok.com",
+              "description": "A modern broken link checker."
+            },
+            {
+              "name": "PressProxy",
+              "url": "https://pressproxy.io/",
+              "description": "No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers."
+            },
+            {
+              "name": "Wizardstool",
+              "url": "https://wizardstool.com/",
+              "description": "A tool to check broken links."
+            },
+            {
+              "name": "SEOnaut",
+              "url": "https://seonaut.org",
+              "description": "Open source technical SEO auditing tool."
+            },
+            {
+              "name": "Siteliner",
+              "url": "https://www.siteliner.com/",
+              "description": "Siteliner is a free tool that helps identify duplicate content, broken links, and other issues that affect your site's quality and search engine rankings."
+            }
+          ]
+        },
+        {
+          "name": "SEO Browser Extensions",
+          "items": [
+            {
+              "name": "SEO Minion",
+              "url": "https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi",
+              "description": "SEO Minion helps you in your daily SEO tasks such as On-Page SEO analysis, Broken Link Checking, SERP Preview and more."
+            },
+            {
+              "name": "SEOquake",
+              "url": "https://www.seoquake.com/index.html",
+              "description": "A powerful SEO toolbox for your browser."
+            },
+            {
+              "name": "Woorank",
+              "url": "https://www.woorank.com/en/privacy",
+              "description": "Run your Review today to get an instant website analysis and learn what you need to do to improve."
+            },
+            {
+              "name": "Keyword Surfer",
+              "url": "https://surferseo.com/keyword-surfer-extension/",
+              "description": "Chrome Extension for content and keyword research."
+            },
+            {
+              "name": "MozBar",
+              "url": "https://moz.com/products/pro/seo-toolbar",
+              "description": "Provides instant metrics for any page or SERP."
+            },
+            {
+              "name": "Ahrefs' SEO Toolbar",
+              "url": "https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar-on-pag/hgmoccdbjhknikckedaaebbpdeebhiei",
+              "description": "On-page SEO report, broken link checker, redirect tracer, and country changer for search results in one extension."
+            },
+            {
+              "name": "Redirect Path",
+              "url": "https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en",
+              "description": "The HTTP header & redirect checker for SEO."
+            },
+            {
+              "name": "META SEO inspector",
+              "url": "https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef?hl=en",
+              "description": "Easily inspect the meta data found inside web pages, find issues and get advice to fix them."
+            },
+            {
+              "name": "Similarweb",
+              "url": "https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en",
+              "description": "Instant website analysis, including site rank, site traffic, sources and geography."
+            },
+            {
+              "name": "MST SERP Counter",
+              "url": "https://chrome.google.com/webstore/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn",
+              "description": "SERP Counter gives accurate search results of a searched keyword. We can see the position, result, and rank."
+            },
+            {
+              "name": "TextOptimizer",
+              "url": "https://chrome.google.com/webstore/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd",
+              "description": "It analyzes search results for relevant terms and extracts 'intent tables' to suggest other words that you can use in your copy 'to better match search engines' expectations.'"
+            },
+            {
+              "name": "SEO Search Simulator",
+              "url": "https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en",
+              "description": "With this extension, you can emulate Google searches from any location and check if a particular URL ranks in the top 100 results."
+            },
+            {
+              "name": "BuzzSumo",
+              "url": "https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en",
+              "description": "Browser Extension that packs a punch when it comes to content research, link analysis, and social media investigation."
+            },
+            {
+              "name": "Google Lighthouse",
+              "url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
+              "description": "Browser Extension that offers detailed reports and actionable tips for enhancing your site's SEO performance such as Page load speeds, Accessibility, SEO and more."
+            },
+            {
+              "name": "Checkbot SEO checker",
+              "url": "https://www.checkbot.io/",
+              "description": "Chrome extension that crawls 100s of pages at the same time checking for 50+ common website SEO, page speed and security problems."
+            }
+          ]
+        },
+        {
+          "name": "Validator / Checker",
+          "items": [
+            {
+              "name": "Broken Link Checker",
+              "url": "https://www.brokenlinkcheck.com/",
+              "description": "Detects and reports broken links on websites."
+            },
+            {
+              "name": "Robots.txt Checker",
+              "url": "https://support.google.com/webmasters/answer/6062598?hl=en",
+              "description": "Checks robots.txt files for errors."
+            },
+            {
+              "name": "Lighthouse Rich Result Checker",
+              "url": "https://search.google.com/test/rich-results",
+              "description": "Tests whether your website is eligible for rich results in Google Search."
+            },
+            {
+              "name": "XML Sitemap Checker",
+              "url": "https://www.xml-sitemaps.com/validate-xml-sitemap.html",
+              "description": "Validates XML sitemaps for errors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tutorials",
+      "name": "Tutorials and Guides",
+      "subcategories": [
+        {
+          "name": "Beginner Guides",
+          "items": [
+            {
+              "name": "The Beginner's Guide to SEO",
+              "url": "https://moz.com/beginners-guide-to-seo",
+              "description": "SEO beginners tutorial on the Moz web, helps you learn SEO systematically."
+            },
+            {
+              "name": "Google Webmaster Guidelines",
+              "url": "https://developers.google.com/search/docs/advanced/guidelines/overview",
+              "description": "Webmaster Guidelines, must-read for SEO."
+            }
+          ]
+        },
+        {
+          "name": "Books",
+          "items": [
+            {
+              "name": "The Art of SEO",
+              "url": "https://book.douban.com/subject/3780812/",
+              "description": "Proven guidelines and cutting-edge SEO techniques by noted experts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "case-studies",
+      "name": "Case Studies",
+      "subcategories": [
+        {
+          "name": "2020",
+          "items": [
+            {
+              "name": "Link Building Case Study",
+              "url": "https://ahrefs.com/blog/link-building-case-study/",
+              "description": "How Ahrefs built backlinks with a stats page and ranked #1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blogs-communities",
+      "name": "Blogs & Communities",
+      "subcategories": [
+        {
+          "name": "Blogs",
+          "items": [
+            {
+              "name": "Backlinko",
+              "url": "https://backlinko.com/",
+              "description": "Brian Dean’s blog with actionable SEO tips and strategies."
+            },
+            {
+              "name": "Google Search Central Blog",
+              "url": "https://developers.google.com/search/blog",
+              "description": "Official blog by Google with search updates and best practices."
+            }
+          ]
+        },
+        {
+          "name": "Communities",
+          "items": [
+            {
+              "name": "Reddit SEO",
+              "url": "https://www.reddit.com/r/SEO/",
+              "description": "A Reddit community dedicated to SEO discussions and case studies."
+            },
+            {
+              "name": "Black Hat World",
+              "url": "https://www.blackhatworld.com/",
+              "description": "Forum discussing advanced SEO techniques and strategies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "additional",
+      "name": "Additional Resources",
+      "subcategories": [
+        {
+          "name": "Courses",
+          "items": [
+            {
+              "name": "MOZ Academy",
+              "url": "https://academy.moz.com/",
+              "description": "Various topics covering a wide range of SEO education."
+            }
+          ]
+        },
+        {
+          "name": "Local SEO",
+          "items": [
+            {
+              "name": "Local SEO Audit Checklist Template",
+              "url": "https://docs.google.com/spreadsheets/d/1t5BVZwA_SnCXHqsBtLJTwo62I1c_tYgZV1SKXjCQUEg/edit#gid=0",
+              "description": "Google Sheet template for local SEO audit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
