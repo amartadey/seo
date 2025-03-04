@@ -133,27 +133,13 @@
             border-radius: 12px;
             background: var(--card-bg);
             border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.3s ease;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
             overflow: hidden;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-        }
-        .card::before {
-            content: '';
-            position: absolute;
-            inset: -2px;
-            border-radius: 12px;
-            background: linear-gradient(45deg, var(--primary), var(--secondary));
-            opacity: 0;
-            transition: opacity 0.3s ease;
-            z-index: -1;
-            filter: blur(8px);
         }
         .card:hover {
             transform: translateY(-5px);
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
-        }
-        .card:hover::before {
-            opacity: 0.5;
         }
         .card p {
             font-size: 1rem;
@@ -342,7 +328,6 @@
             particles.forEach(p => {
                 p.material.color.set(isLight ? 0xFFFFFF : 0x000000);
             });
-            godraysMaterial.uniforms.uColor.value.set(isLight ? 0x000000 : 0xFFFFFF);
         }
         if (localStorage.getItem('theme') === 'light') {
             document.body.setAttribute('data-theme', 'light');
@@ -360,61 +345,13 @@
         renderer.setSize(window.innerWidth, window.innerHeight);
         camera.position.z = 50;
 
-        // Godrays
-        const godraysGeometry = new THREE.PlaneGeometry(200, 200);
-        const godraysShader = {
-            uniforms: {
-                uTime: { value: 0 },
-                uColor: { value: new THREE.Color(document.body.getAttribute('data-theme') === 'light' ? 0x000000 : 0xFFFFFF) },
-                uResolution: { value: new THREE.Vector2(window.innerWidth, window.innerHeight) },
-                uOpacity: { value: 0.1 }
-            },
-            vertexShader: `
-                varying vec2 vUv;
-                void main() {
-                    vUv = uv;
-                    gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
-                }
-            `,
-            fragmentShader: `
-                uniform float uTime;
-                uniform vec3 uColor;
-                uniform vec2 uResolution;
-                uniform float uOpacity;
-                varying vec2 vUv;
-                
-                float noise(vec2 p) {
-                    return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453);
-                }
-                
-                void main() {
-                    vec2 uv = vUv;
-                    uv.y += uTime * 0.05;
-                    float n = noise(uv * 10.0 + uTime * 0.1);
-                    float rays = smoothstep(0.3, 0.7, sin(uv.y * 5.0 + n));
-                    rays *= smoothstep(0.0, 0.2, uv.x) * smoothstep(1.0, 0.8, uv.x);
-                    gl_FragColor = vec4(uColor * rays * 0.3, rays * uOpacity);
-                }
-            `
-        };
-        const godraysMaterial = new THREE.ShaderMaterial({
-            uniforms: godraysShader.uniforms,
-            vertexShader: godraysShader.vertexShader,
-            fragmentShader: godraysShader.fragmentShader,
-            transparent: true,
-            blending: THREE.AdditiveBlending
-        });
-        const godrays = new THREE.Mesh(godraysGeometry, godraysMaterial);
-        godrays.position.z = -10;
-        scene.add(godrays);
-
         // Particles
         const particles = [];
-        const gridSize = 20;
-        const spacing = 5;
+        const gridSize = 40;
+        const spacing = 2.5;
         const isLightTheme = document.body.getAttribute('data-theme') === 'light';
-        const containerWidth = 1200; // Matches .content max-width
-        const edgeThreshold = containerWidth / (2 * spacing); // Convert to grid units
+        const containerWidth = 1200;
+        const edgeThreshold = containerWidth / (2 * spacing);
 
         for (let x = -gridSize; x <= gridSize; x++) {
             for (let y = -gridSize; y <= gridSize; y++) {
@@ -427,8 +364,7 @@
                 const particle = new THREE.Mesh(geometry, material);
                 particle.position.set(x * spacing, y * spacing, 0);
                 particle.basePosition = particle.position.clone();
-                // Mark if particle is movable (not on extreme edges)
-                particle.isMovable = Math.abs(x) < edgeThreshold; 
+                particle.isMovable = Math.abs(x) < edgeThreshold;
                 scene.add(particle);
                 particles.push(particle);
             }
@@ -455,7 +391,6 @@
 
         function animateGrid() {
             requestAnimationFrame(animateGrid);
-            godraysMaterial.uniforms.uTime.value += 0.01;
             renderer.render(scene, camera);
         }
         animateGrid();
@@ -465,7 +400,6 @@
             renderer.setSize(window.innerWidth, window.innerHeight);
             camera.aspect = window.innerWidth / window.innerHeight;
             camera.updateProjectionMatrix();
-            godraysMaterial.uniforms.uResolution.value.set(window.innerWidth, window.innerHeight);
         });
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -477,6 +411,25 @@
                 .then(data => {
                     allData = data;
                     renderResources(data);
+
+                    // Card hover effect
+                    const cards = document.querySelectorAll('.card');
+                    cards.forEach(card => {
+                        card.addEventListener('mousemove', (e) => {
+                            const rect = card.getBoundingClientRect();
+                            const x = e.clientX - rect.left;
+                            const y = e.clientY - rect.top;
+                            const angle = Math.atan2(y - rect.height / 2, x - rect.width / 2);
+                            const gradient = `linear-gradient(${angle}rad, var(--primary), var(--secondary))`;
+                            card.style.border = '2px solid';
+                            card.style.borderImage = `${gradient} 1`;
+                        });
+
+                        card.addEventListener('mouseleave', () => {
+                            card.style.border = '1px solid rgba(255, 255, 255, 0.1)';
+                            card.style.borderImage = 'none';
+                        });
+                    });
                 })
                 .catch(error => {
                     console.error('Error fetching data:', error);
