@@ -111,6 +111,11 @@
               "name": "DAXRM",
               "url": "https://www.daxrm.com/",
               "description": "DAXRM is the all-in-one Digital Marketing CRM designed for agencies. Manage SEO, PPC, client reporting, and team collaboration in one seamless platform."
+            },
+            {
+              "name": "SEOmatic",
+              "url": "https://seomatic.ai",
+              "description": "AI-powered SEO automation platform for enterprise-level optimization."
             }
           ]
         },
@@ -176,6 +181,16 @@
               "name": "Keywordideas.xyz",
               "url": "https://keywordideas.xyz/",
               "description": "Get keyword suggestions based on a URL or example keyword from real Google search data."
+            },
+            {
+              "name": "KWFinder",
+              "url": "https://kwfinder.com",
+              "description": "Long-tail keyword research tool with difficulty scoring."
+            },
+            {
+              "name": "Keyword Chef",
+              "url": "https://keywordchef.com",
+              "description": "Find recipe-based keywords for food and lifestyle niches."
             }
           ]
         },
@@ -206,6 +221,16 @@
               "name": "YouLinker",
               "url": "https://youlinker.pro/",
               "description": "Submit your product to multiple directories."
+            },
+            {
+              "name": "LinkResearchTools",
+              "url": "https://www.linkresearchtools.com/",
+              "description": "Advanced backlink analysis and risk management suite."
+            },
+            {
+              "name": "Linkody",
+              "url": "https://www.linkody.com/",
+              "description": "Backlink tracker with automatic alerts and reporting."
             }
           ]
         },
@@ -281,6 +306,16 @@
               "name": "SearchAttention",
               "url": "https://searchattention.com",
               "description": "Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT."
+            },
+            {
+              "name": "WordLift",
+              "url": "https://wordlift.io",
+              "description": "AI-powered content optimization with semantic analysis."
+            },
+            {
+              "name": "PageOptimizer Pro",
+              "url": "https://pageoptimizer.pro",
+              "description": "Data-driven on-page optimization recommendations."
             }
           ]
         },
@@ -514,6 +549,21 @@
               "description": "Proven guidelines and cutting-edge SEO techniques by noted experts."
             }
           ]
+        },
+        {
+          "name": "Video Courses",
+          "items": [
+            {
+              "name": "SEO That Works",
+              "url": "https://seothatworks.com",
+              "description": "Comprehensive video course by Brian Dean."
+            },
+            {
+              "name": "Authority Hacker",
+              "url": "https://authorityhacker.com",
+              "description": "Advanced SEO and website growth strategies."
+            }
+          ]
         }
       ]
     },
@@ -590,6 +640,16 @@
               "name": "Local SEO Audit Checklist Template",
               "url": "https://docs.google.com/spreadsheets/d/1t5BVZwA_SnCXHqsBtLJTwo62I1c_tYgZV1SKXjCQUEg/edit#gid=0",
               "description": "Google Sheet template for local SEO audit."
+            },
+            {
+              "name": "BrightLocal",
+              "url": "https://www.brightlocal.com",
+              "description": "Local SEO tracking and citation building platform."
+            },
+            {
+              "name": "Whitespark",
+              "url": "https://www.whitespark.ca",
+              "description": "Local citation finder and tracker for businesses."
             }
           ]
         }
