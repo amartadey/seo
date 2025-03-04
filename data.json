@@ -537,6 +537,16 @@
               "name": "Google Webmaster Guidelines",
               "url": "https://developers.google.com/search/docs/advanced/guidelines/overview",
               "description": "Webmaster Guidelines, must-read for SEO."
+            },
+            {
+              "name": "The Ultimate Guide to Local SEO",
+              "url": "https://backlinko.com/local-seo-guide",
+              "description": "Comprehensive local SEO guide by Backlinko."
+            },
+            {
+              "name": "Google My Business Optimization Guide",
+              "url": "https://moz.com/learn/seo/google-my-business",
+              "description": "Step-by-step guide on optimizing Google My Business."
             }
           ]
         },
@@ -599,6 +609,16 @@
               "name": "Google Search Central Blog",
               "url": "https://developers.google.com/search/blog",
               "description": "Official blog by Google with search updates and best practices."
+            },
+            {
+              "name": "Sterling Sky Blog",
+              "url": "https://www.sterlingsky.ca/blog/",
+              "description": "Insights on local SEO trends and tactics."
+            },
+            {
+              "name": "Local SEO Guide Blog",
+              "url": "https://www.localseoguide.com/blog/",
+              "description": "Tips and strategies for improving local search rankings."
             }
           ]
         },
@@ -614,6 +634,11 @@
               "name": "Black Hat World",
               "url": "https://www.blackhatworld.com/",
               "description": "Forum discussing advanced SEO techniques and strategies."
+            },
+            {
+              "name": "Local SEO Subreddit",
+              "url": "https://www.reddit.com/r/LocalSEO/",
+              "description": "Discussions and case studies on local SEO."
             }
           ]
         }
@@ -630,6 +655,11 @@
               "name": "MOZ Academy",
               "url": "https://academy.moz.com/",
               "description": "Various topics covering a wide range of SEO education."
+            },
+            {
+              "name": "Local SEO Training Course",
+              "url": "https://www.udemy.com/course/local-seo/",
+              "description": "Local SEO course on Udemy."
             }
           ]
         },
@@ -650,6 +680,31 @@
               "name": "Whitespark",
               "url": "https://www.whitespark.ca",
               "description": "Local citation finder and tracker for businesses."
+            },
+            {
+              "name": "Google My Business",
+              "url": "https://www.google.com/business/",
+              "description": "Manage your business profile on Google."
+            },
+            {
+              "name": "Moz Local",
+              "url": "https://moz.com/products/local",
+              "description": "Manage your local listings across directories."
+            },
+            {
+              "name": "Yext",
+              "url": "https://www.yext.com/",
+              "description": "Manage business listings across multiple directories."
+            },
+            {
+              "name": "GeoRanker",
+              "url": "https://www.georanker.com/",
+              "description": "Track keyword rankings by city and region."
+            },
+            {
+              "name": "Local Falcon",
+              "url": "https://www.localfalcon.com/",
+              "description": "Google Maps rank tracking tool."
             }
           ]
         }
