@@ -1,0 +1,177 @@
+{
+  "categories": [
+    {
+      "id": "tools",
+      "name": "SEO Tools",
+      "subcategories": [
+        {
+          "name": "All-in-One SEO Tools",
+          "items": [
+            {
+              "name": "Ahrefs",
+              "url": "https://ahrefs.com/",
+              "description": "Everything you need to rank higher & get more traffic."
+            },
+            {
+              "name": "SEMrush",
+              "url": "https://www.semrush.com/",
+              "description": "Comprehensive SEO and marketing platform."
+            },
+            {
+              "name": "Moz Pro",
+              "url": "https://moz.com/",
+              "description": "SEO software to increase traffic and rankings."
+            }
+          ]
+        },
+        {
+          "name": "Keyword Research",
+          "items": [
+            {
+              "name": "Google Keyword Planner",
+              "url": "https://ads.google.com/home/tools/keyword-planner/",
+              "description": "Free tool for keyword ideas and traffic estimates."
+            },
+            {
+              "name": "Keyword Tool",
+              "url": "https://keywordtool.io/",
+              "description": "Find keywords using Google Autocomplete."
+            }
+          ]
+        },
+        {
+          "name": "Backlink Analysis",
+          "items": [
+            {
+              "name": "Majestic",
+              "url": "https://majestic.com/",
+              "description": "Find out who links to your website."
+            },
+            {
+              "name": "Monitor Backlinks",
+              "url": "https://monitorbacklinks.com/",
+              "description": "Check good and bad backlinks."
+            }
+          ]
+        },
+        {
+          "name": "Content Optimization",
+          "items": [
+            {
+              "name": "SurferSEO",
+              "url": "https://surferseo.com/",
+              "description": "SEO workflow to boost organic traffic."
+            },
+            {
+              "name": "Clearscope",
+              "url": "https://www.clearscope.io/",
+              "description": "SEO content optimization platform."
+            }
+          ]
+        },
+        {
+          "name": "Rank Tracking",
+          "items": [
+            {
+              "name": "AccuRanker",
+              "url": "https://www.accuranker.com/",
+              "description": "Fast and accurate rank tracker."
+            }
+          ]
+        },
+        {
+          "name": "Technical SEO",
+          "items": [
+            {
+              "name": "Google Search Console",
+              "url": "https://search.google.com/search-console/about",
+              "description": "Monitor site's presence in Google Search."
+            },
+            {
+              "name": "Screaming Frog SEO Spider",
+              "url": "https://www.screamingfrog.co.uk/seo-spider/",
+              "description": "Website crawler for onsite SEO auditing."
+            }
+          ]
+        },
+        {
+          "name": "SEO Browser Extensions",
+          "items": [
+            {
+              "name": "SEOquake",
+              "url": "https://www.seoquake.com/index.html",
+              "description": "Powerful SEO toolbox for your browser."
+            },
+            {
+              "name": "MozBar",
+              "url": "https://moz.com/products/pro/seo-toolbar",
+              "description": "Instant metrics for pages and SERPs."
+            }
+          ]
+        },
+        {
+          "name": "Validator / Checker",
+          "items": [
+            {
+              "name": "Broken Link Checker",
+              "url": "https://www.brokenlinkcheck.com/",
+              "description": "Detects broken links on websites."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tutorials",
+      "name": "Tutorials and Guides",
+      "subcategories": [
+        {
+          "name": "Beginner Guides",
+          "items": [
+            {
+              "name": "The Beginner's Guide to SEO",
+              "url": "https://moz.com/beginners-guide-to-seo",
+              "description": "SEO beginners tutorial by Moz."
+            }
+          ]
+        },
+        {
+          "name": "Video Courses",
+          "items": [
+            {
+              "name": "SEO That Works",
+              "url": "https://seothatworks.com",
+              "description": "Comprehensive video course by Brian Dean."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blogs-communities",
+      "name": "Blogs & Communities",
+      "subcategories": [
+        {
+          "name": "Blogs",
+          "items": [
+            {
+              "name": "Backlinko",
+              "url": "https://backlinko.com/",
+              "description": "Actionable SEO tips by Brian Dean."
+            }
+          ]
+        },
+        {
+          "name": "Communities",
+          "items": [
+            {
+              "name": "Reddit SEO",
+              "url": "https://www.reddit.com/r/SEO/",
+              "description": "SEO discussions and case studies."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
