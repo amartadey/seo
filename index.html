@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Amarta's SEO List - A vibrant, modern hub for SEO tools, tutorials, and strategies to skyrocket your rankings.">
     <meta name="keywords" content="SEO tools, SEO tutorials, search engine optimization, SEO strategies, digital marketing, SEO resources">
-    <meta name="author" content="Amarta Dey">
+    <meta name="author" content="Amarta">
     <meta name="robots" content="index, follow">
     <meta property="og:title" content="Amarta's SEO List">
     <meta property="og:description" content="A curated, dynamic collection of SEO tools, tutorials, and strategies to dominate search rankings.">
@@ -19,13 +19,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg-color: #0D1626;
-            --text-color: #FFFFFF;
+            --bg-color: #0a0a0a;
+            --text-color: #e0e0e0;
             --primary: #FF6F61;
             --secondary: #6B48FF;
             --accent: #FFD166;
-            --card-bg: #1A2742;
-            --header-bg: rgba(13, 22, 38, 0.9);
+            --card-bg: #1a1a1a;
+            --header-bg: rgba(10, 10, 10, 0.9);
         }
         [data-theme="light"] {
             --bg-color: #F8F9FA;
@@ -47,6 +47,7 @@
             line-height: 1.6;
             overflow-x: hidden;
             position: relative;
+            background: var(--bg-color);
         }
         #canvas {
             position: fixed;
@@ -55,9 +56,9 @@
             width: 100%;
             height: 100%;
             z-index: 0;
-            background: var(--bg-color);
+            background: transparent;
             transition: background 0.3s ease;
-            pointer-events: auto; /* Allow interaction with the grid */
+            pointer-events: auto;
         }
         header {
             position: sticky;
@@ -82,11 +83,11 @@
         h2, h3 {
             font-weight: 600;
         }
-        h2 { font-size: 2.5rem; }
+        h2 { font-size: 2rem; }
         h3 { font-size: 1.5rem; }
         .hero {
             text-align: center;
-            padding: 6rem 2rem;
+            padding: 3rem 2rem;
             background: linear-gradient(135deg, var(--primary), var(--secondary));
             position: relative;
             overflow: hidden;
@@ -94,16 +95,16 @@
         }
         .hero h2 {
             color: #FFFFFF;
-            margin-bottom: 1rem;
+            margin-bottom: 0.75rem;
         }
         .hero p {
-            font-size: 1.25rem;
+            font-size: 1rem;
             color: var(--accent);
             max-width: 700px;
             margin: 0 auto 1.5rem;
         }
         .hero .download-btn {
-            display: inline-block;
+            display: inline;
             padding: 0.75rem 1.5rem;
             background: var(--accent);
             color: var(--bg-color);
@@ -114,7 +115,7 @@
         }
         .hero .download-btn:hover {
             transform: scale(1.05);
-            background: #FFFFFF;
+            background: var(--primary);
         }
         .content {
             max-width: 1200px;
@@ -126,35 +127,39 @@
         .section { margin-bottom: 3rem; }
         .subcategory { margin: 1.5rem 0; }
         .card {
-            background: var(--card-bg);
+            position: relative;
             padding: 2rem;
             margin: 1rem 0;
-            border-radius: 16px;
-            border: 2px solid var(--primary);
-            position: relative;
+            border-radius: 12px;
+            background: var(--card-bg);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.3s ease;
             overflow: hidden;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            z-index: 11;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
         }
         .card::before {
             content: '';
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(45deg, rgba(255, 111, 97, 0.1), rgba(107, 72, 255, 0.1));
+            inset: -2px;
+            border-radius: 12px;
+            background: linear-gradient(45deg, var(--primary), var(--secondary));
             opacity: 0;
             transition: opacity 0.3s ease;
+            z-index: -1;
+            filter: blur(8px);
         }
-        .card:hover::before { opacity: 1; }
         .card:hover {
-            transform: translateY(-5px) scale(1.03);
-            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        }
+        .card:hover::before {
+            opacity: 0.5;
         }
         .card p {
             font-size: 1rem;
             color: var(--text-color);
+            position: relative;
+            z-index: 1;
         }
         .card a {
             color: var(--accent);
@@ -234,8 +239,25 @@
             header { flex-direction: column; padding: 1rem; }
             nav { margin-top: 1.5rem; }
             nav a { margin: 0 0.75rem; }
-            .hero { padding: 3rem 1rem; }
+            .hero { padding: 2rem 1rem; }
             .content { padding: 1.5rem; }
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(45deg, rgba(255, 111, 97, 0.05), rgba(107, 72, 255, 0.05));
+            animation: gradientShift 15s ease infinite;
+            z-index: -1;
+            pointer-events: none;
+        }
+        @keyframes gradientShift {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
         }
     </style>
 </head>
@@ -265,7 +287,6 @@
         <div id="no-results">No results found.</div>
     </section>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
     <script>
         let allData = null;
 
@@ -315,13 +336,13 @@
 
         function toggleTheme() {
             const body = document.body;
-            if (body.getAttribute('data-theme') === 'light') {
-                body.removeAttribute('data-theme');
-                localStorage.setItem('theme', 'dark');
-            } else {
-                body.setAttribute('data-theme', 'light');
-                localStorage.setItem('theme', 'light');
-            }
+            const isLight = body.getAttribute('data-theme') === 'light';
+            body.setAttribute('data-theme', isLight ? '' : 'light');
+            localStorage.setItem('theme', isLight ? 'dark' : 'light');
+            particles.forEach(p => {
+                p.material.color.set(isLight ? 0xFFFFFF : 0x000000);
+            });
+            godraysMaterial.uniforms.uColor.value.set(isLight ? 0x000000 : 0xFFFFFF);
         }
         if (localStorage.getItem('theme') === 'light') {
             document.body.setAttribute('data-theme', 'light');
@@ -332,23 +353,82 @@
             renderResources(allData, input);
         }
 
-        // Three.js Interactive Grid Animation
+        // Three.js setup
         const scene = new THREE.Scene();
         const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
         const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('canvas'), alpha: true });
         renderer.setSize(window.innerWidth, window.innerHeight);
         camera.position.z = 50;
 
+        // Godrays
+        const godraysGeometry = new THREE.PlaneGeometry(200, 200);
+        const godraysShader = {
+            uniforms: {
+                uTime: { value: 0 },
+                uColor: { value: new THREE.Color(document.body.getAttribute('data-theme') === 'light' ? 0x000000 : 0xFFFFFF) },
+                uResolution: { value: new THREE.Vector2(window.innerWidth, window.innerHeight) },
+                uOpacity: { value: 0.1 }
+            },
+            vertexShader: `
+                varying vec2 vUv;
+                void main() {
+                    vUv = uv;
+                    gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+                }
+            `,
+            fragmentShader: `
+                uniform float uTime;
+                uniform vec3 uColor;
+                uniform vec2 uResolution;
+                uniform float uOpacity;
+                varying vec2 vUv;
+                
+                float noise(vec2 p) {
+                    return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453);
+                }
+                
+                void main() {
+                    vec2 uv = vUv;
+                    uv.y += uTime * 0.05;
+                    float n = noise(uv * 10.0 + uTime * 0.1);
+                    float rays = smoothstep(0.3, 0.7, sin(uv.y * 5.0 + n));
+                    rays *= smoothstep(0.0, 0.2, uv.x) * smoothstep(1.0, 0.8, uv.x);
+                    gl_FragColor = vec4(uColor * rays * 0.3, rays * uOpacity);
+                }
+            `
+        };
+        const godraysMaterial = new THREE.ShaderMaterial({
+            uniforms: godraysShader.uniforms,
+            vertexShader: godraysShader.vertexShader,
+            fragmentShader: godraysShader.fragmentShader,
+            transparent: true,
+            blending: THREE.AdditiveBlending
+        });
+        const godrays = new THREE.Mesh(godraysGeometry, godraysMaterial);
+        godrays.position.z = -10;
+        scene.add(godrays);
+
+        // Particles
         const particles = [];
         const gridSize = 20;
         const spacing = 5;
+        const isLightTheme = document.body.getAttribute('data-theme') === 'light';
+        const containerWidth = 1200; // Matches .content max-width
+        const edgeThreshold = containerWidth / (2 * spacing); // Convert to grid units
+
         for (let x = -gridSize; x <= gridSize; x++) {
             for (let y = -gridSize; y <= gridSize; y++) {
-                const geometry = new THREE.SphereGeometry(0.2, 16, 16);
-                const material = new THREE.MeshBasicMaterial({ color: 0xFFFFFF, transparent: true, opacity: 0.3 });
+                const geometry = new THREE.SphereGeometry(0.1, 16, 16);
+                const material = new THREE.MeshBasicMaterial({ 
+                    color: isLightTheme ? 0x000000 : 0xFFFFFF, 
+                    transparent: true, 
+                    opacity: 0.2 
+                });
                 const particle = new THREE.Mesh(geometry, material);
                 particle.position.set(x * spacing, y * spacing, 0);
                 particle.basePosition = particle.position.clone();
+                // Mark if particle is movable (not on extreme edges)
+                particle.isMovable = Math.abs(x) < edgeThreshold; 
                 scene.add(particle);
                 particles.push(particle);
             }
@@ -361,23 +441,22 @@
             mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
             mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
             raycaster.setFromCamera(mouse, camera);
-            const intersects = raycaster.intersectObjects(particles);
             particles.forEach(p => {
-                const dist = p.position.distanceTo(new THREE.Vector3(mouse.x * 50, mouse.y * 50, 0));
-                if (dist < 10) {
-                    p.position.z = Math.min(5, 10 - dist);
-                } else {
-                    p.position.lerp(p.basePosition, 0.1);
+                if (p.isMovable) {
+                    const dist = p.position.distanceTo(new THREE.Vector3(mouse.x * 50, mouse.y * 50, 0));
+                    if (dist < 10) {
+                        p.position.z = Math.min(5, 10 - dist);
+                    } else {
+                        p.position.lerp(p.basePosition, 0.1);
+                    }
                 }
             });
         }
 
         function animateGrid() {
-            particles.forEach(p => {
-                p.material.color.setHSL(Math.sin(Date.now() * 0.001 + p.position.x * 0.1), 0.8, 0.6);
-            });
-            renderer.render(scene, camera);
             requestAnimationFrame(animateGrid);
+            godraysMaterial.uniforms.uTime.value += 0.01;
+            renderer.render(scene, camera);
         }
         animateGrid();
 
@@ -386,6 +465,7 @@
             renderer.setSize(window.innerWidth, window.innerHeight);
             camera.aspect = window.innerWidth / window.innerHeight;
             camera.updateProjectionMatrix();
+            godraysMaterial.uniforms.uResolution.value.set(window.innerWidth, window.innerHeight);
         });
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -397,23 +477,6 @@
                 .then(data => {
                     allData = data;
                     renderResources(data);
-
-                    gsap.from('.hero h2', { opacity: 0, y: 100, duration: 1.2, ease: 'power4.out' });
-                    gsap.from('.hero p', { opacity: 0, y: 50, duration: 1, delay: 0.3, ease: 'power4.out' });
-                    gsap.from('.hero .download-btn', { opacity: 0, y: 50, duration: 1, delay: 0.5, ease: 'power4.out' });
-                    gsap.from('.card', { opacity: 0, y: 50, duration: 1, stagger: 0.2, ease: 'back.out(1.7)' });
-                    gsap.from('header', { y: -100, duration: 1, ease: 'bounce.out' });
-                    gsap.from('nav a', { opacity: 0, x: -20, duration: 0.8, stagger: 0.1, ease: 'power2.out' });
-                    gsap.from('.toggle-btn', { rotation: 360, opacity: 0, duration: 1, ease: 'elastic.out(1, 0.5)' });
-
-                    document.querySelectorAll('.card').forEach(card => {
-                        card.addEventListener('mouseenter', () => {
-                            gsap.to(card, { scale: 1.03, y: -5, duration: 0.3, ease: 'power2.out' });
-                        });
-                        card.addEventListener('mouseleave', () => {
-                            gsap.to(card, { scale: 1, y: 0, duration: 0.3, ease: 'power2.out' });
-                        });
-                    });
                 })
                 .catch(error => {
                     console.error('Error fetching data:', error);
