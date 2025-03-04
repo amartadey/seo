@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Amarta's SEO List - A vibrant, modern hub for SEO tools, tutorials, and strategies to skyrocket your rankings.">
     <meta name="keywords" content="SEO tools, SEO tutorials, search engine optimization, SEO strategies, digital marketing, SEO resources">
-    <meta name="author" content="Amarta Dey">
+    <meta name="author" content="Amarta">
     <meta name="robots" content="index, follow">
     <meta property="og:title" content="Amarta's SEO List">
     <meta property="og:description" content="A curated, dynamic collection of SEO tools, tutorials, and strategies to dominate search rankings.">
@@ -26,6 +26,8 @@
             --accent: #FFD166;
             --card-bg: #1a1a1a;
             --header-bg: rgba(10, 10, 10, 0.9);
+            --border-color: #FFFFFF; /* Bright white for dark mode */
+            --border-width: 2px; /* Increased for visibility */
         }
         [data-theme="light"] {
             --bg-color: #F8F9FA;
@@ -35,6 +37,8 @@
             --accent: #FFD166;
             --card-bg: #FFFFFF;
             --header-bg: rgba(248, 249, 250, 0.9);
+            --border-color: #000000; /* Bright black for light mode */
+            --border-width: 2px; /* Match dark mode */
         }
         * {
             margin: 0;
@@ -64,7 +68,7 @@
             position: sticky;
             top: 0;
             background: var(--header-bg);
-            padding: 1.5rem 3rem;
+            padding: 1rem 2rem;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -73,7 +77,7 @@
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
-            font-size: 2rem;
+            font-size: 1.5rem;
             font-weight: 700;
             background: linear-gradient(90deg, var(--primary), var(--secondary));
             -webkit-background-clip: text;
@@ -92,6 +96,9 @@
             position: relative;
             overflow: hidden;
             z-index: 10;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .hero h2 {
             color: #FFFFFF;
@@ -103,8 +110,14 @@
             max-width: 700px;
             margin: 0 auto 1.5rem;
         }
+        .hero .actions {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
         .hero .download-btn {
-            display: inline;
             padding: 0.75rem 1.5rem;
             background: var(--accent);
             color: var(--bg-color);
@@ -117,6 +130,29 @@
             transform: scale(1.05);
             background: var(--primary);
         }
+        .hero .search-bar {
+            position: relative;
+            width: 300px;
+            max-width: 100%;
+        }
+        .hero #searchInput {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: none;
+            border-radius: 50px;
+            background: rgba(255, 255, 255, 0.2);
+            color: #FFFFFF;
+            font-size: 1rem;
+            box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+        .hero #searchInput:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.5);
+        }
+        .hero #searchInput::placeholder {
+            color: rgba(255, 255, 255, 0.7);
+        }
         .content {
             max-width: 1200px;
             margin: 0 auto;
@@ -126,26 +162,68 @@
         }
         .section { margin-bottom: 3rem; }
         .subcategory { margin: 1.5rem 0; }
+
+        /* Card styles with glowing border */
         .card {
             position: relative;
             padding: 2rem;
             margin: 1rem 0;
             border-radius: 12px;
-            background: var(--card-bg);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            overflow: hidden;
+/*            background: var(--card-bg);*/
+            border: var(--border-width) solid transparent; /* Transparent base border */
+            transition: box-shadow 0.3s ease;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            overflow: hidden; /* Ensure border isn’t clipped */
+        }
+        .card::before {
+            content: "";
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            z-index: -1;
+            border-radius: inherit;
+            background: conic-gradient(
+                var(--border-color),
+                rgba(255, 255, 255, 0.1),
+                var(--border-color),
+                rgba(255, 255, 255, 0.1)
+            ); /* Simplified gradient for visibility */
+            animation: spin 10s linear infinite;
+        }
+        .card::after { 
+            content: "";
+            position: absolute;
+            top: 1px;
+            left: 1px;
+            right: 1px;
+            bottom: 1px;
+            z-index: 1;
+            background: var(--card-bg);
         }
         .card:hover {
-            transform: translateY(-5px);
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
         }
+        .card:hover::before {
+            animation-play-state: paused; /* Pause animation on hover */
+        }
+
+        /* Animation keyframes using transform */
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
         .card p {
             font-size: 1rem;
             color: var(--text-color);
             position: relative;
-            z-index: 1;
+            z-index: 3;
         }
         .card a {
             color: var(--accent);
@@ -155,7 +233,9 @@
             position: relative;
             z-index: 12;
         }
-        .card a:hover { color: #FFFFFF; }
+        .card a:hover {
+            color: var(--primary);
+        }
         .toggle-btn {
             padding: 0.75rem 1.5rem;
             background: var(--secondary);
@@ -168,19 +248,25 @@
             text-transform: uppercase;
             box-shadow: 0 4px 15px rgba(107, 72, 255, 0.4);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
+            white-space: nowrap;
         }
         .toggle-btn:hover {
             transform: scale(1.05);
             box-shadow: 0 6px 20px rgba(107, 72, 255, 0.6);
         }
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
         nav a {
             color: var(--text-color);
             text-decoration: none;
-            margin: 0 1.5rem;
             font-weight: 600;
             font-size: 1rem;
             position: relative;
             transition: color 0.3s ease;
+            white-space: nowrap;
         }
         nav a:hover { color: var(--primary); }
         nav a::after {
@@ -194,13 +280,29 @@
             transition: width 0.4s ease;
         }
         nav a:hover::after { width: 100%; }
-        .search-bar {
-            margin: 2rem 0;
-            position: relative;
+        .hamburger {
+            display: none;
+            font-size: 1.5rem;
+            background: none;
+            border: none;
+            color: var(--text-color);
+            cursor: pointer;
         }
-        #searchInput {
+        .nav-menu {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+        .nav-menu.active {
+            display: flex;
+        }
+        .nav-menu .search-bar {
             width: 100%;
-            padding: 1rem;
+            margin: 0.5rem 0;
+        }
+        .nav-menu #searchInput {
+            width: 100%;
+            padding: 0.75rem 1rem;
             border: none;
             border-radius: 50px;
             background: var(--card-bg);
@@ -208,11 +310,14 @@
             font-size: 1rem;
             box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.1);
             transition: all 0.3s ease;
-            z-index: 10;
         }
-        #searchInput:focus {
+        .nav-menu #searchInput:focus {
             outline: none;
             box-shadow: 0 0 0 3px var(--primary);
+        }
+        .nav-menu #searchInput::placeholder {
+            color: var(--text-color);
+            opacity: 0.7;
         }
         #no-results {
             text-align: center;
@@ -222,11 +327,51 @@
             z-index: 10;
         }
         @media (max-width: 768px) {
-            header { flex-direction: column; padding: 1rem; }
-            nav { margin-top: 1.5rem; }
-            nav a { margin: 0 0.75rem; }
-            .hero { padding: 2rem 1rem; }
-            .content { padding: 1.5rem; }
+            header {
+                padding: 1rem;
+                justify-content: space-between;
+            }
+            .hamburger {
+                display: block;
+            }
+            .nav-menu {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 100%;
+                background: rgba(10, 10, 10, 0.95);
+                padding: 1rem;
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+                backdrop-filter: blur(12px);
+                -webkit-backdrop-filter: blur(12px);
+                gap: 0.25rem;
+                z-index: 1000;
+            }
+            .nav-menu.active {
+                display: flex;
+            }
+            nav a {
+                font-size: 0.9rem;
+                margin: 0;
+            }
+            .toggle-btn {
+                margin: 0;
+            }
+            .hero {
+                padding: 2rem 1rem;
+            }
+            .hero .actions {
+                flex-direction: column;
+                gap: 0.75rem;
+            }
+            .hero .search-bar {
+                display: none;
+            }
+            .content {
+                padding: 1.5rem;
+            }
         }
         body::before {
             content: '';
@@ -251,24 +396,30 @@
     <canvas id="canvas"></canvas>
     <header>
         <h1>Amarta's SEO List</h1>
-        <nav>
+        <button class="hamburger" aria-label="Toggle menu">☰</button>
+        <nav class="nav-menu">
             <a href="#tools">Tools</a>
             <a href="#tutorials">Tutorials</a>
             <a href="#case-studies">Case Studies</a>
             <a href="#blogs-communities">Blogs & Communities</a>
             <a href="#additional">Additional</a>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search SEO resources..." onkeyup="searchResources(event)">
+            </div>
             <button class="toggle-btn" onclick="toggleTheme()">Toggle Mode</button>
         </nav>
     </header>
     <section class="hero">
         <h2>Your SEO Powerhouse</h2>
         <p>Unleash a world of tools, tutorials, and strategies to dominate the search game.</p>
-        <a href="seo-mindmap.png" download="SEO_Mindmap.png" class="download-btn">Download SEO Mindmap</a>
+        <div class="actions">
+            <a href="https://img.bmpi.dev/4351f5c8-cc00-d2a8-a75f-9010c9367893.png" download="SEO_Mindmap.png" target="_blank" class="download-btn">Download SEO Mindmap</a>
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search SEO resources..." onkeyup="searchResources(event)">
+            </div>
+        </div>
     </section>
     <section class="content">
-        <div class="search-bar">
-            <input type="text" id="searchInput" placeholder="Search SEO resources..." onkeyup="searchResources(event)">
-        </div>
         <div id="resources"></div>
         <div id="no-results">No results found.</div>
     </section>
@@ -334,9 +485,14 @@
         }
 
         function searchResources(event) {
-            const input = document.getElementById('searchInput').value.toLowerCase();
+            const input = event.target.value.toLowerCase();
             renderResources(allData, input);
         }
+
+        // Hamburger Menu Toggle
+        document.querySelector('.hamburger').addEventListener('click', () => {
+            document.querySelector('.nav-menu').classList.toggle('active');
+        });
 
         // Three.js setup
         const scene = new THREE.Scene();
@@ -411,25 +567,6 @@
                 .then(data => {
                     allData = data;
                     renderResources(data);
-
-                    // Card hover effect
-                    const cards = document.querySelectorAll('.card');
-                    cards.forEach(card => {
-                        card.addEventListener('mousemove', (e) => {
-                            const rect = card.getBoundingClientRect();
-                            const x = e.clientX - rect.left;
-                            const y = e.clientY - rect.top;
-                            const angle = Math.atan2(y - rect.height / 2, x - rect.width / 2);
-                            const gradient = `linear-gradient(${angle}rad, var(--primary), var(--secondary))`;
-                            card.style.border = '2px solid';
-                            card.style.borderImage = `${gradient} 1`;
-                        });
-
-                        card.addEventListener('mouseleave', () => {
-                            card.style.border = '1px solid rgba(255, 255, 255, 0.1)';
-                            card.style.borderImage = 'none';
-                        });
-                    });
                 })
                 .catch(error => {
                     console.error('Error fetching data:', error);
