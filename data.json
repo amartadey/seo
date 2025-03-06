@@ -133,6 +133,11 @@
               "description": "Find great keywords using Google Autocomplete."
             },
             {
+              "name": "Mangools KWFinder",
+              "url": "https://mangools.com/kwfinder/",
+              "description": "Find long tail keywords with low SEO difficulty"
+            },
+            {
               "name": "KeySearch LSI Keyword",
               "url": "https://www.keysearch.co/tools/lsi-keywords-generator",
               "description": "Enter any keyword to generate semantically related LSI keywords to improve your SEO."
@@ -151,11 +156,6 @@
               "name": "Semrush's Keyword Magic Tool",
               "url": "https://www.semrush.com/analytics/keywordmagic/start",
               "description": "Find millions of keyword suggestions for your SEO."
-            },
-            {
-              "name": "Long Tail Pro",
-              "url": "https://longtailpro.com/",
-              "description": "The best keyword research tool for long tail keywords."
             },
             {
               "name": "Seoformulas",
@@ -181,11 +181,6 @@
               "name": "Keywordideas.xyz",
               "url": "https://keywordideas.xyz/",
               "description": "Get keyword suggestions based on a URL or example keyword from real Google search data."
-            },
-            {
-              "name": "KWFinder",
-              "url": "https://kwfinder.com",
-              "description": "Long-tail keyword research tool with difficulty scoring."
             },
             {
               "name": "Keyword Chef",
