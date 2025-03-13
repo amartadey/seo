@@ -133,6 +133,16 @@
               "description": "Find great keywords using Google Autocomplete."
             },
             {
+              "name": "Spark Toro",
+              "url": "https://sparktoro.com/",
+              "description": "Content, SEO, Social, PR, and Performance Marketing"
+            },
+            {
+              "name": "Also Asked",
+              "url": "https://alsoasked.com/",
+              "description": "Enter a question, brand or search query"
+            },
+            {
               "name": "Mangools KWFinder",
               "url": "https://mangools.com/kwfinder/",
               "description": "Find long tail keywords with low SEO difficulty"
