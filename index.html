@@ -3,15 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Amarta's SEO List - A vibrant, modern hub for SEO tools, tutorials, and strategies to skyrocket your rankings.">
-
-    <!-- Meta tags to Block Robots -->
-    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
-    <meta name="googlebot" content="noindex, nofollow, unavailable_after: 14-Mar-2025">
-    <meta http-equiv="X-Robots-Tag" content="noindex, nofollow">
-    <!-- Meta tags to Block Robots -->
-
-    
+    <meta name="description" content="Amarta's SEO List - A vibrant, modern hub for SEO tools, tutorials, and strategies to skyrocket your rankings.">    
     <title>Amarta's SEO List</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -573,107 +565,22 @@
     </script>
 
 
-    <script>
-        // Comprehensive robot blocking and link management function
-        function blockRobotsAndLinks() {
-            // 1. Dynamically ensure meta tags are present
-            const metaTags = [
-                { name: "robots", content: "noindex, nofollow, noarchive, nosnippet" },
-                { name: "googlebot", content: "noindex, nofollow" },
-                { name: "bingbot", content: "noindex, nofollow" }
-            ];
-        
-            metaTags.forEach(tag => {
-                if (!document.querySelector(`meta[name="${tag.name}"]`)) {
-                    const meta = document.createElement('meta');
-                    meta.name = tag.name;
-                    meta.content = tag.content;
-                    document.head.appendChild(meta);
-                }
-            });
-        
-            // 2. Handle all existing and future links
-            function processLinks() {
-                const links = document.getElementsByTagName('a');
-                for (let link of links) {
-                    // Add rel attributes
-                    link.setAttribute('rel', 'nofollow noopener noreferrer');
-                    
-                    // Prevent crawling through click event interception
-                    link.addEventListener('click', (e) => {
-                        if (e.isTrusted) { // Check if event is human-initiated
-                            return true;
-                        }
-                        e.preventDefault();
-                        return false;
-                    });
-                }
-            }
-        
-            // 3. Block common bot patterns
-            function detectAndBlockBots() {
-                const botPatterns = [
-                    /googlebot/i,
-                    /bingbot/i,
-                    /slurp/i,
-                    /duckduckbot/i,
-                    /baiduspider/i,
-                    /yandexbot/i
-                ];
-        
-                const userAgent = navigator.userAgent.toLowerCase();
-                if (botPatterns.some(pattern => pattern.test(userAgent))) {
-                    // Redirect bots or show empty content
-                    document.body.innerHTML = '';
-                    window.stop();
-                }
-            }
-        
-            // 4. Prevent right-click and content scraping
-            document.addEventListener('contextmenu', (e) => e.preventDefault());
-            
-            // 5. Disable text selection
-            document.addEventListener('selectstart', (e) => e.preventDefault());
-        
-            // 6. Observe DOM changes for new links
-            const observer = new MutationObserver((mutations) => {
-                mutations.forEach(() => processLinks());
-            });
-            observer.observe(document.body, { 
-                childList: true, 
-                subtree: true 
-            });
-        
-            // Initial execution
-            processLinks();
-            detectAndBlockBots();
-        
-            // 7. Prevent iframe embedding
-            if (window.top !== window.self) {
-                window.top.location = window.self.location;
-            }
-        
-            // 8. Add robots.txt-like behavior via JS
-            const xhr = new XMLHttpRequest();
-            xhr.open('HEAD', window.location.href);
-            xhr.setRequestHeader('X-Robots-Tag', 'noindex, nofollow');
-            xhr.send();
-        }
-        
-        // Execute the function
-        document.addEventListener('DOMContentLoaded', blockRobotsAndLinks);
-        
-        // Additional protection: obscure window.location
-        Object.defineProperty(window, 'location', {
-            get: function() {
-                return {
-                    href: '',
-                    pathname: '',
-                    toString: function() { return '' }
-                };
-            },
-            configurable: false
-        });
-     </script>
+<script>
+    window.RobotBlockerConfig = {
+        blockBots: true,
+        noIndex: true,
+        noFollowLinks: true,
+        blockRightClick: true,
+        blockSelection: true,
+        preventFraming: true,
+        botPatterns: [
+            /googlebot/i,
+            /bingbot/i,
+            /slurp/i,
+            /mysecretbot/i
+        ]
+    };
+</script>
+<script src="https://cdn.jsdelivr.net/gh/amartadey/robotBlocker@main/robotBlocker.js"></script>
 </body>
 </html>
