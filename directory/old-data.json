@@ -211,6 +211,13 @@
     },
     {
         "category": "blog",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "blog",
         "name": "Scoop.it",
         "url": "https://www.scoop.it/",
         "da": 92,
@@ -295,6 +302,13 @@
     },
     {
         "category": "blog",
+        "name": "APSense",
+        "url": "https://www.thefreelibrary.com/",
+        "da": 80,
+        "pa": 62
+    },
+    {
+        "category": "blog",
         "name": "bcz",
         "url": "https://bcz.com/",
         "da": 76,
@@ -358,7 +372,7 @@
     },
     {
         "category": "blog",
-        "name": "Let\u2019s Diskuss",
+        "name": "Let’s Diskuss",
         "url": "https://www.letsdiskuss.com/",
         "da": 62,
         "pa": 49
@@ -771,6 +785,13 @@
     },
     {
         "category": "infographic",
+        "name": "SlideShare",
+        "url": "https://www.slideshare.net/",
+        "da": 95,
+        "pa": 86
+    },
+    {
+        "category": "infographic",
         "name": "Instagram",
         "url": "https://www.instagram.com/",
         "da": 94,
@@ -782,6 +803,13 @@
         "url": "https://www.pinterest.com/",
         "da": 94,
         "pa": 97
+    },
+    {
+        "category": "infographic",
+        "name": "X (formerly Twitter)",
+        "url": "https://twitter.com/",
+        "da": 94,
+        "pa": 100
     },
     {
         "category": "infographic",
@@ -831,6 +859,13 @@
         "url": "https://www.reddit.com/r/Infographics/",
         "da": 92,
         "pa": 71
+    },
+    {
+        "category": "infographic",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
     },
     {
         "category": "infographic",
@@ -986,801 +1021,896 @@
         "da": 38,
         "pa": 41
     },
+    
+{
+    "category": "infographic",
+    "name": "Shit Hot Infographics",
+    "url": "https://www.shithot.co.uk/",
+    "da": 36,
+    "pa": 36
+},
+{
+    "category": "infographic",
+    "name": "InfoCarnivore.com",
+    "url": "https://infocarnivore.com/submit-an-infographic/",
+    "da": 35,
+    "pa": 31
+},
+{
+    "category": "infographic",
+    "name": "Infographic Website",
+    "url": "https://infographicsite.com/submit-infographic/",
+    "da": 32,
+    "pa": 40
+},
+{
+    "category": "infographic",
+    "name": "Infographics Posters",
+    "url": "https://www.infographicsposters.com/",
+    "da": 30,
+    "pa": 46
+},
+{
+    "category": "infographic",
+    "name": "Infographic Plaza",
+    "url": "https://infographicplaza.com/",
+    "da": 30,
+    "pa": 45
+},
+{
+    "category": "infographic",
+    "name": "Infographic Post",
+    "url": "https://www.infographicpost.com/",
+    "da": 30,
+    "pa": 47
+},
+{
+    "category": "infographic",
+    "name": "Cool Daily Infographics",
+    "url": "https://www.cooldailyinfographics.com/",
+    "da": 28,
+    "pa": 51
+},
+{
+    "category": "infographic",
+    "name": "dumbfunded",
+    "url": "https://www.dumbfunded.co.uk/infographics/submit-your-infographic/",
+    "da": 27,
+    "pa": 29
+},
+{
+    "category": "infographic",
+    "name": "The Infographics",
+    "url": "https://theinfographics.blogspot.com/",
+    "da": 26,
+    "pa": 35
+},
+{
+    "category": "infographic",
+    "name": "Video Infographic",
+    "url": "https://videoinfographic.com/",
+    "da": 24,
+    "pa": 41
+},
+{
+    "category": "infographic",
+    "name": "Infographic Database",
+    "url": "https://infographicdatabase.com/",
+    "da": 24,
+    "pa": 39
+},
+{
+    "category": "infographic",
+    "name": "VISUALLATIC",
+    "url": "https://www.visulattic.com/",
+    "da": 24,
+    "pa": 36
+},
+{
+    "category": "social",
+    "name": "Facebook",
+    "url": "https://www.facebook.com/",
+    "da": 96,
+    "pa": 100,
+    "extra": "Year: 2004, MAU: 2.9 billion, Founders: Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz & Chris Hughes"
+},
+{
+    "category": "social",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "da": 100,
+    "pa": 100,
+    "extra": "Year: 2005, MAU: 2.2 billion, Founders: Chad Hurley, Steve Chen & Jawed Karim"
+},
+{
+    "category": "social",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/",
+    "da": 94,
+    "pa": 100,
+    "extra": "Year: 2010, MAU: 1.2 billion, Founders: Kevin Systrom & Mike Krieger (Presently owned by Meta)"
+},
+{
+    "category": "social",
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/",
+    "da": 94,
+    "pa": 97,
+    "extra": "Year: 2009, MAU: 459 million, Founders: Ben Silbermann, Paul Sciarra & Evan Sharp"
+},
+{
+    "category": "social",
+    "name": "Quora",
+    "url": "https://www.quora.com/",
+    "da": 93,
+    "pa": 79,
+    "extra": "Year: 2009, MAU: 300 million, Founders: Adam D’Angelo & Charlie Cheever"
+},
+{
+    "category": "social",
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/",
+    "da": 99,
+    "pa": 86,
+    "extra": "Year: 2003, MAU: 310 million, Founders: Reid Hoffman & Eric Ly"
+},
+{
+    "category": "social",
+    "name": "Twitter",
+    "url": "https://twitter.com/",
+    "da": 94,
+    "pa": 100,
+    "extra": "Year: 2006, MAU: 396 million, Founders: Jack Dorsey, Noah Glass, Biz Stone & Evan Williams"
+},
+{
+    "category": "social",
+    "name": "WhatsApp",
+    "url": "https://www.whatsapp.com/",
+    "da": 91,
+    "pa": 76,
+    "extra": "Year: 2009, MAU: 2 billion, Founders: Brian Acton, Jan Koum (Presently owned by Meta)"
+},
+{
+    "category": "social",
+    "name": "Telegram",
+    "url": "https://telegram.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2013, MAU: 700 million, Founders: Nikolai & Pavel Durov"
+},
+{
+    "category": "social",
+    "name": "Reddit",
+    "url": "https://www.reddit.com/",
+    "da": 92,
+    "pa": 91,
+    "extra": "Year: 2005, MAU: 430 million, Founders: Steve Huffman, Aaron Swartz & Alexis Ohanian"
+},
+{
+    "category": "social",
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com/",
+    "da": 86,
+    "pa": 100,
+    "extra": "Year: 2007, MAU: 376 million, Founders: David Karp"
+},
+{
+    "category": "social",
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com/",
+    "da": 92,
+    "pa": 74,
+    "extra": "Year: 2011, MAU: 528 million, Founders: Evan Spiegel, Bobby Murphy & Reggie Brown (Presently owned by Snap Inc.)"
+},
+{
+    "category": "social",
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/",
+    "da": 92,
+    "pa": 67,
+    "extra": "Year: 2017, MAU: 732 million, Founders: Zhang Yiming (Presently owned by ByteDance)"
+},
+{
+    "category": "social",
+    "name": "Skype",
+    "url": "https://www.skype.com/",
+    "da": 91,
+    "pa": 74,
+    "extra": "Year: 2003, MAU: 300 million, Founders: Priit Kasesalu & Jaan Tallinn (Presently owned by Microsoft)"
+},
+{
+    "category": "social",
+    "name": "Messenger",
+    "url": "https://www.messenger.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.3 billion, Founders: Meta"
+},
+{
+    "category": "social",
+    "name": "WeChat",
+    "url": "https://www.wechat.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.2 billion, Founders: Tencent"
+},
+{
+    "category": "social",
+    "name": "Douyin",
+    "url": "https://www.douyin.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2016, MAU: 600 million, Founders: ByteDance"
+},
+{
+    "category": "social",
+    "name": "QQ",
+    "url": "https://www.qq.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 595 million, Founders: Tencent"
+},
+{
+    "category": "social",
+    "name": "Weibo",
+    "url": "https://www.weibo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 521 million, Founders: Sina Corporation"
+},
+{
+    "category": "social",
+    "name": "Teams",
+    "url": "https://www.microsoft.com/en-us/microsoft-teams/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2016, MAU: 250 million, Founders: Microsoft"
+},
+{
+    "category": "social",
+    "name": "Likee",
+    "url": "https://likee.video/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2017, MAU: 150 million, Founders: Jason Hu (Presently owned by Bigo Live)"
+},
+{
+    "category": "social",
+    "name": "Viber",
+    "url": "https://www.viber.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2010, MAU: 260 million, Founders: Igor Magazinnik & Talmon Marco (Presently owned by Rakuten Group Inc.)"
+},
+{
+    "category": "social",
+    "name": "Zoom",
+    "url": "https://zoom.us/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2012, MAU: 300 million, Founders: Eric Yuan (Presently owned by Zoom Video Communications)"
+},
+{
+    "category": "social",
+    "name": "FaceTime",
+    "url": "https://www.apple.com/facetime/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.4 billion, Founders: Apple"
+},
+{
+    "category": "social",
+    "name": "iMessage",
+    "url": "https://www.apple.com/imessage/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.4 billion, Founders: Apple"
+},
+{
+    "category": "social",
+    "name": "Google Meet",
+    "url": "https://meet.google.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2017, MAU: 100 million, Founders: Google"
+},
+{
+    "category": "social",
+    "name": "Photobucket",
+    "url": "https://photobucket.com/",
+    "da": 93,
+    "pa": 88,
+    "extra": "Year: 2003, MAU: 100 million, Founders: Allex Welch & Darren Crystal (Presently owned by Photobucket Corporation)"
+},
+{
+    "category": "social",
+    "name": "Qzone",
+    "url": "https://qzone.qq.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 517 million, Founders: Tencent"
+},
+{
+    "category": "social",
+    "name": "Kuaishou",
+    "url": "https://www.kuaishou.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 481 million, Founders: Beijing Kuaishou Technology Co."
+},
+{
+    "category": "social",
+    "name": "imo",
+    "url": "https://imo.im/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2007, MAU: 200 million, Founders: PageBites"
+},
+{
+    "category": "social",
+    "name": "Tieba",
+    "url": "https://tieba.baidu.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 300 million, Founders: Robin Li Yanhong (Presently owned by Baidu)"
+},
+{
+    "category": "social",
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 140 million, Founders: Justin Kan, Emmett Shear, Michael Seibel, Kyle Vogt & Kevin Lin (Presently owned by Amazon)"
+},
+{
+    "category": "social",
+    "name": "Picsart",
+    "url": "https://picsart.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 150 million, Founders: Hovhannes Avoyan, Artavazd Mehrabyan & Mikayel Vardanyan"
+},
+{
+    "category": "social",
+    "name": "Line",
+    "url": "https://line.me/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 178 million, Founders: NHN Japan (Presently owned by Line Corporation)"
+},
+{
+    "category": "social",
+    "name": "Medium",
+    "url": "https://medium.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2012, MAU: 100 million, Founders: Evan Williams"
+},
+{
+    "category": "social",
+    "name": "Stack Exchange",
+    "url": "https://stackexchange.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 100 million, Founders: Jeff Atwood & Joel Spolsky (Presently owned by Stack Exchange Inc.)"
+},
+{
+    "category": "social",
+    "name": "Discord",
+    "url": "https://discord.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2015, MAU: 140 million, Founders: Discord Inc."
+},
+{
+    "category": "social",
+    "name": "Flickr",
+    "url": "https://www.flickr.com/",
+    "da": 92,
+    "pa": 95,
+    "extra": "Year: 2005, MAU: 100 million, Founders: Stewart Butterfield & Caterina Fake"
+},
+{
+    "category": "social",
+    "name": "Foursquare",
+    "url": "https://foursquare.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 100 million, Founders: Dennis Crowley & Naveen Selvadurai"
+},
+{
+    "category": "social",
+    "name": "Badoo",
+    "url": "https://badoo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 115 million, Founders: Andrey Andreev (Presently owned by Bumble Inc.)"
+},
+{
+    "category": "social",
+    "name": "Vimeo",
+    "url": "https://vimeo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 200 million, Founders: Zach Klein & Jake Lodwick (Presently owned by Connected Ventures)"
+},
+{
+    "category": "social",
+    "name": "Google+",
+    "url": "https://plus.google.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 198 million, Founders: Vic Gundotra & Bradley Horowitz (Presently owned by Google)"
+},
+{
+    "category": "social",
+    "name": "Digg",
+    "url": "https://digg.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 100 million, Founders: Kevin Rose (Presently owned by BuySellAds Inc.)"
+},
+{
+    "category": "social",
+    "name": "Taringa",
+    "url": "https://www.taringa.net/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 60 million, Founders: Fernando Sanz (Presently owned by Hernán Botbol & Matías Botbol)"
+},
+{
+    "category": "social",
+    "name": "Myspace",
+    "url": "https://myspace.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 15 million, Founders: Chris DeWolfe, Tom Anderson & Jon Hart (Presently owned by Viant Technology LLC)"
+},
+{
+    "category": "social",
+    "name": "Steemit",
+    "url": "https://steemit.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2016, MAU: 1 million, Founders: Steemit Inc."
+},
+{
+    "category": "social",
+    "name": "Scribd",
+    "url": "https://www.scribd.com/",
+    "da": 94,
+    "pa": 81,
+    "extra": "Year: 2007, MAU: 100 million, Founders: Trip Alder, Jared Friedman & Tikhon Bernstam"
+},
+{
+    "category": "social",
+    "name": "Yelp",
+    "url": "https://www.yelp.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 178 million, Founders: Jeremy Stoppelman & Russel Simmons"
+},
+{
+    "category": "social",
+    "name": "Triller",
+    "url": "https://triller.co/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2015, MAU: 65 million, Founders: David Leiberman & Sammy Rubin (Presently owned by TrillerNet)"
+},
+{
+    "category": "social",
+    "name": "Academia",
+    "url": "https://www.academia.edu/",
+    "da": 93,
+    "pa": 75,
+    "extra": "Year: 2008, MAU: 71 million, Founders: Richard Price"
+},
+{
+    "category": "social",
+    "name": "Slashdot",
+    "url": "https://slashdot.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1997, MAU: 3.7 million, Founders: Rob Malda & Jeff Bates (Presently owned by Slashdot Media)"
+},
+{
+    "category": "social",
+    "name": "Goodreads",
+    "url": "https://www.goodreads.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 125 million, Founders: Otis Chandler & Elizabeth Khuri (Presently owned by Amazon)"
+},
+{
+    "category": "social",
+    "name": "Habbo",
+    "url": "https://www.habbo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2000, MAU: 800000, Founders: Sampo Karjalainen & Aapo Kyrölä (Presently owned by Sulake Oy)"
+},
+{
+    "category": "social",
+    "name": "NING",
+    "url": "https://www.ning.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 90000, Founders: Marc Andreessen & Gina Bianchini"
+},
+{
+    "category": "social",
+    "name": "Classmates",
+    "url": "https://www.classmates.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1995, MAU: 70 million, Founders: Randy Conrads (Presently owned by H.I.G. Capital)"
+},
+{
+    "category": "social",
+    "name": "Tagged",
+    "url": "https://www.tagged.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 10 million, Founders: Greg Tseng & Johann Schleier-Smith"
+},
+{
+    "category": "social",
+    "name": "MeetUp",
+    "url": "https://www.meetup.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2002, MAU: 28 million, Founders: AlleyCorp"
+},
+{
+    "category": "social",
+    "name": "Flixster",
+    "url": "https://www.flixster.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 2.98 million, Founders: Joe Greenstien & Saran Chari (Presently owned by Fandango Media)"
+},
+{
+    "category": "social",
+    "name": "MyHeritage",
+    "url": "https://www.myheritage.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 80 million, Founders: Gilad Japhet (Presently owned by MyHeritage ltd.)"
+},
+{
+    "category": "social",
+    "name": "Multiply",
+    "url": "https://multiply.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 11 million, Founders: Peter Pezaris, Michael Gersh, & David Hersh (Presently owned by Stefan Magdalinski)"
+},
+{
+    "category": "social",
+    "name": "Renren",
+    "url": "https://www.renren.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 30 million, Founders: Wang Xing, Wang Huiwen & Lai Binqiang"
+},
+{
+    "category": "social",
+    "name": "Imgur",
+    "url": "https://imgur.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 300 million, Founders: Alan Schaaf (Presently owned by Medialab AI Inc.)"
+},
+{
+    "category": "social",
+    "name": "SkyRock",
+    "url": "https://skyrock.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2002, MAU: 21 million, Founders: Téléfun"
+},
+{
+    "category": "social",
+    "name": "Fotki",
+    "url": "https://www.fotki.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1998, MAU: 1 million, Founders: Fotki Inc."
+},
+{
+    "category": "social",
+    "name": "Zorpia",
+    "url": "https://www.zorpia.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 2 million, Founders: Jeffrey Ng (Presently owned by Zorpia Co. Ltd.)"
+},
+{
+    "category": "social",
+    "name": "Ello",
+    "url": "https://ello.co/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2014, MAU: 1 million, Founders: Talenthouse"
+},
+{
+    "category": "social",
+    "name": "MocoSpace",
+    "url": "https://www.mocospace.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 3.27 million, Founders: Jamie Hall and Justin Siegel"
+},
+{
+    "category": "social",
+    "name": "Netlog",
+    "url": "https://www.netlog.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 92 million, Founders: Lorenz Bogaert and Toon Coppens"
+},
+{
+    "category": "social",
+    "name": "Xing",
+    "url": "https://www.xing.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 10 million, Founders: New Work SE"
+},
+{
+    "category": "social",
+    "name": "Giphy",
+    "url": "https://giphy.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2013, MAU: 250 million, Founders: Jace Cooke & Alex Chung (Presently owned by Meta)"
+},
+{
+    "category": "social",
+    "name": "DeviantArt",
+    "url": "https://www.deviantart.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2000, MAU: 45 million, Founders: Scott Jarkoff, Matthew Stephens & Angelo Sotira (Presently owned by Wix.com)"
+},
+{
+    "category": "social",
+    "name": "Bebo",
+    "url": "https://www.bebo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 10.7 million, Founders: Michael Birch & Xochi Birch (Presently owned by The Monkey Inferno)"
+},
+{
+    "category": "social",
+    "name": "Cyworld",
+    "url": "https://www.cyworld.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2014, MAU: 35 million, Founders: CyworldZ"
+},
+{
+    "category": "social",
+    "name": "SixDegrees",
+    "url": "https://www.sixdegrees.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1997, MAU: 3500000, Founders: Andrew Weinreich"
+},
+{
+    "category": "social",
+    "name": "LiveJournal",
+    "url": "https://www.livejournal.com/",
+    "da": 93,
+    "pa": 99,
+    "extra": "Year: 1999, MAU: 30 million, Founders: Brad Fitzpatrick (Presently owned by Rambler Media Group)"
+},
+{
+    "category": "social",
+    "name": "Tuenti",
+    "url": "https://www.tuenti.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 15 million, Founders: Zaryn Dentzel, Félix Ruiz Hernández, Kenny Bentley, Adeyemi Ajao & Joaquín Ayuso de Pául (Presently owned by Telefonica)"
+},
+{
+    "category": "social",
+    "name": "Mixi",
+    "url": "https://mixi.jp/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 14 million, Founders: Kenji Kasahara & Batara Eto (Presently owned by Mixi Inc.)"
+},
+{
+    "category": "social",
+    "name": "Buffer",
+    "url": "https://buffer.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 4.5 million, Founders: Joel Gascoigne (Presently owned by Buffer Inc.)"
+},
+{
+    "category": "social",
+    "name": "Nextdoor",
+    "url": "https://nextdoor.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 58 million, Founders: Nirav Tolia, Prakash Janakiraman, David Wiesen & Sarah Leary (Presently owned by Nextdoor Holdings, Inc.)"
+},
+{
+    "category": "social",
+    "name": "8tracks.com",
+    "url": "https://8tracks.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 1 million, Founders: David Porter & Remi Gabillet"
+},
+{
+    "category": "social",
+    "name": "Ravelry",
+    "url": "https://www.ravelry.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2007, MAU: 1 million, Founders: Cassidy & Jessica Forbes (Presently owned by Ravelry LLC)"
+},
+{
+    "category": "social",
+    "name": "Athlinks",
+    "url": "https://www.athlinks.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2001, MAU: 591900, Founders: Life Time Fitness"
+},
+{
+    "category": "social",
+    "name": "beBee",
+    "url": "https://www.bebee.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2020, MAU: 1.4 million, Founders: Rafael García, Juan Imaz & Javier CR"
+},
+{
+    "category": "social",
+    "name": "Brainly",
+    "url": "https://brainly.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 350 million, Founders: Michał Borkowski, Łukasz Haluch & Tomasz Kraus"
+},
+{
+    "category": "social",
+    "name": "Buzznet",
+    "url": "https://buzznet.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 1 million, Founders: Anthony Batt, Steve Haldane, Marc Brown & Kevin Woolery"
+},
+{
+    "category": "social",
+    "name": "CaringBridge",
+    "url": "https://www.caringbridge.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1997, MAU: 1.3 million, Founders: Sona Mehring"
+},
+{
+    "category": "social",
+    "name": "Fishbrain",
+    "url": "https://fishbrain.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2010, MAU: 8 million, Founders: Jens Persson & Johan Attby"
+},
+{
+    "category": "social",
+    "name": "CafeMom",
+    "url": "https://www.cafemom.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 8.6 million, Founders: Michael Sanchez & Andrew Shue (Presently owned by Wild Sky Media)"
+},
+{
+    "category": "social",
+    "name": "LinguaLeo",
+    "url": "https://lingualeo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2010, MAU: 20 million, Founders: Aynur Abdulnasurov"
+},
+{
+    "category": "social",
+    "name": "LibraryThing",
+    "url": "https://www.librarything.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 2.5 million, Founders: Tim Spalding (Presently owned by AbeBooks, CIG & Tim Spalding)"
+},
+{
+    "category": "social",
+    "name": "Open Diary",
+    "url": "https://www.opendiary.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1998, MAU: 1 million, Founders: Bruce Ableson (Presently owned by Blather Inc.)"
+},
+{
+    "category": "social",
+    "name": "We Heart It",
+    "url": "https://weheartit.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 45 million, Founders: Fabio Giolito (Presently owned by Super Basic LLC)"
+},
+{
+    "category": "social",
+    "name": "Viadeo",
+    "url": "https://www.viadeo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 8 million, Founders: Dan Serfaty & Thierry Lunati"
+},
+{
+    "category": "social",
+    "name": "Delicious",
+    "url": "https://del.icio.us/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 1 million, Founders: Joshua Schachter & Peter Gadjokov (Presently owned by Maciej Ceglowski)"
+},
+{
+    "category": "social",
+    "name": "Yammer",
+    "url": "https://www.yammer.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 1 million, Founders: David O. Sacks & Adam Pisoni (Presently owned by Microsoft Corp.)"
+},
+{
+    "category": "social",
+    "name": "Reverbnation",
+    "url": "https://www.reverbnation.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 4 million, Founders: BandLab"
+},
+{
+    "category": "social",
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2013, MAU: 175 million, Founders: Alexander Ljung & Eric Wahlforss (Presently owned by SoundCloud Ltd.)"
+},
+{
+    "category": "social",
+    "name": "Cellufun",
+    "url": "https://www.cellufun.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 2 million, Founders: Stephene Dacek, Cary Torkelson & Arthur Goikhman"
+},
+{
+    "category": "social",
+    "name": "DailyStrength",
+    "url": "https://www.dailystrength.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 1 million, Founders: Doug Hirsch, Lars Nilsen & Josh DeFord"
+},
     {
-        "category": "infographic",
-        "name": "Shit Hot Infographics",
-        "url": "https://www.shithot.co.uk/",
-        "da": 36,
-        "pa": 36
-    },
-    {
-        "category": "infographic",
-        "name": "InfoCarnivore.com",
-        "url": "https://infocarnivore.com/submit-an-infographic/",
-        "da": 35,
-        "pa": 31
-    },
-    {
-        "category": "infographic",
-        "name": "Infographic Website",
-        "url": "https://infographicsite.com/submit-infographic/",
-        "da": 32,
-        "pa": 40
-    },
-    {
-        "category": "infographic",
-        "name": "Infographics Posters",
-        "url": "https://www.infographicsposters.com/",
-        "da": 30,
-        "pa": 46
-    },
-    {
-        "category": "infographic",
-        "name": "Infographic Plaza",
-        "url": "https://infographicplaza.com/",
-        "da": 30,
-        "pa": 45
-    },
-    {
-        "category": "infographic",
-        "name": "Infographic Post",
-        "url": "https://www.infographicpost.com/",
-        "da": 30,
-        "pa": 47
-    },
-    {
-        "category": "infographic",
-        "name": "Cool Daily Infographics",
-        "url": "https://www.cooldailyinfographics.com/",
-        "da": 28,
-        "pa": 51
-    },
-    {
-        "category": "infographic",
-        "name": "dumbfunded",
-        "url": "https://www.dumbfunded.co.uk/infographics/submit-your-infographic/",
-        "da": 27,
-        "pa": 29
-    },
-    {
-        "category": "infographic",
-        "name": "The Infographics",
-        "url": "https://theinfographics.blogspot.com/",
-        "da": 26,
-        "pa": 35
-    },
-    {
-        "category": "infographic",
-        "name": "Video Infographic",
-        "url": "https://videoinfographic.com/",
-        "da": 24,
-        "pa": 41
-    },
-    {
-        "category": "infographic",
-        "name": "Infographic Database",
-        "url": "https://infographicdatabase.com/",
-        "da": 24,
-        "pa": 39
-    },
-    {
-        "category": "infographic",
-        "name": "VISUALLATIC",
-        "url": "https://www.visulattic.com/",
-        "da": 24,
-        "pa": 36
-    },
-    {
-        "category": "social",
-        "name": "YouTube",
-        "url": "https://www.youtube.com/",
+        "category": "article_submission",
+        "name": "Blogger",
+        "url": "https://www.blogger.com/",
         "da": 100,
-        "pa": 100,
-        "extra": "Year: 2005, MAU: 2.2 billion, Founders: Chad Hurley, Steve Chen & Jawed Karim"
+        "pa": 100
     },
     {
-        "category": "social",
-        "name": "Quora",
-        "url": "https://www.quora.com/",
-        "da": 93,
-        "pa": 79,
-        "extra": "Year: 2009, MAU: 300 million, Founders: Adam D\u2019Angelo & Charlie Cheever"
-    },
-    {
-        "category": "social",
+        "category": "article_submission",
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://in.linkedin.com/",
         "da": 99,
-        "pa": 86,
-        "extra": "Year: 2003, MAU: 310 million, Founders: Reid Hoffman & Eric Ly"
-    },
-    {
-        "category": "social",
-        "name": "WhatsApp",
-        "url": "https://www.whatsapp.com/",
-        "da": 91,
-        "pa": 76,
-        "extra": "Year: 2009, MAU: 2 billion, Founders: Brian Acton, Jan Koum (Presently owned by Meta)"
-    },
-    {
-        "category": "social",
-        "name": "Telegram",
-        "url": "https://telegram.org/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2013, MAU: 700 million, Founders: Nikolai & Pavel Durov"
-    },
-    {
-        "category": "social",
-        "name": "Reddit",
-        "url": "https://www.reddit.com/",
-        "da": 92,
-        "pa": 91,
-        "extra": "Year: 2005, MAU: 430 million, Founders: Steve Huffman, Aaron Swartz & Alexis Ohanian"
-    },
-    {
-        "category": "social",
-        "name": "Snapchat",
-        "url": "https://www.snapchat.com/",
-        "da": 92,
-        "pa": 74,
-        "extra": "Year: 2011, MAU: 528 million, Founders: Evan Spiegel, Bobby Murphy & Reggie Brown (Presently owned by Snap Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "TikTok",
-        "url": "https://www.tiktok.com/",
-        "da": 92,
-        "pa": 67,
-        "extra": "Year: 2017, MAU: 732 million, Founders: Zhang Yiming (Presently owned by ByteDance)"
-    },
-    {
-        "category": "social",
-        "name": "Skype",
-        "url": "https://www.skype.com/",
-        "da": 91,
-        "pa": 74,
-        "extra": "Year: 2003, MAU: 300 million, Founders: Priit Kasesalu & Jaan Tallinn (Presently owned by Microsoft)"
-    },
-    {
-        "category": "social",
-        "name": "Messenger",
-        "url": "https://www.messenger.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 1.3 billion, Founders: Meta"
-    },
-    {
-        "category": "social",
-        "name": "WeChat",
-        "url": "https://www.wechat.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 1.2 billion, Founders: Tencent"
-    },
-    {
-        "category": "social",
-        "name": "Douyin",
-        "url": "https://www.douyin.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2016, MAU: 600 million, Founders: ByteDance"
-    },
-    {
-        "category": "social",
-        "name": "QQ",
-        "url": "https://www.qq.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1999, MAU: 595 million, Founders: Tencent"
-    },
-    {
-        "category": "social",
-        "name": "Weibo",
-        "url": "https://www.weibo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2009, MAU: 521 million, Founders: Sina Corporation"
-    },
-    {
-        "category": "social",
-        "name": "Teams",
-        "url": "https://www.microsoft.com/en-us/microsoft-teams/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2016, MAU: 250 million, Founders: Microsoft"
-    },
-    {
-        "category": "social",
-        "name": "Likee",
-        "url": "https://likee.video/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2017, MAU: 150 million, Founders: Jason Hu (Presently owned by Bigo Live)"
-    },
-    {
-        "category": "social",
-        "name": "Viber",
-        "url": "https://www.viber.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2010, MAU: 260 million, Founders: Igor Magazinnik & Talmon Marco (Presently owned by Rakuten Group Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "Zoom",
-        "url": "https://zoom.us/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2012, MAU: 300 million, Founders: Eric Yuan (Presently owned by Zoom Video Communications)"
-    },
-    {
-        "category": "social",
-        "name": "FaceTime",
-        "url": "https://www.apple.com/facetime/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 1.4 billion, Founders: Apple"
-    },
-    {
-        "category": "social",
-        "name": "iMessage",
-        "url": "https://www.apple.com/imessage/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 1.4 billion, Founders: Apple"
-    },
-    {
-        "category": "social",
-        "name": "Google Meet",
-        "url": "https://meet.google.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2017, MAU: 100 million, Founders: Google"
-    },
-    {
-        "category": "social",
-        "name": "Qzone",
-        "url": "https://qzone.qq.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 517 million, Founders: Tencent"
-    },
-    {
-        "category": "social",
-        "name": "Kuaishou",
-        "url": "https://www.kuaishou.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 481 million, Founders: Beijing Kuaishou Technology Co."
-    },
-    {
-        "category": "social",
-        "name": "imo",
-        "url": "https://imo.im/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2007, MAU: 200 million, Founders: PageBites"
-    },
-    {
-        "category": "social",
-        "name": "Tieba",
-        "url": "https://tieba.baidu.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 300 million, Founders: Robin Li Yanhong (Presently owned by Baidu)"
-    },
-    {
-        "category": "social",
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 140 million, Founders: Justin Kan, Emmett Shear, Michael Seibel, Kyle Vogt & Kevin Lin (Presently owned by Amazon)"
-    },
-    {
-        "category": "social",
-        "name": "Picsart",
-        "url": "https://picsart.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 150 million, Founders: Hovhannes Avoyan, Artavazd Mehrabyan & Mikayel Vardanyan"
-    },
-    {
-        "category": "social",
-        "name": "Line",
-        "url": "https://line.me/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 178 million, Founders: NHN Japan (Presently owned by Line Corporation)"
-    },
-    {
-        "category": "social",
-        "name": "Medium",
-        "url": "https://medium.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2012, MAU: 100 million, Founders: Evan Williams"
-    },
-    {
-        "category": "social",
-        "name": "Stack Exchange",
-        "url": "https://stackexchange.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2008, MAU: 100 million, Founders: Jeff Atwood & Joel Spolsky (Presently owned by Stack Exchange Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "Discord",
-        "url": "https://discord.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2015, MAU: 140 million, Founders: Discord Inc."
-    },
-    {
-        "category": "social",
-        "name": "Foursquare",
-        "url": "https://foursquare.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2009, MAU: 100 million, Founders: Dennis Crowley & Naveen Selvadurai"
-    },
-    {
-        "category": "social",
-        "name": "Badoo",
-        "url": "https://badoo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 115 million, Founders: Andrey Andreev (Presently owned by Bumble Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "Vimeo",
-        "url": "https://vimeo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2004, MAU: 200 million, Founders: Zach Klein & Jake Lodwick (Presently owned by Connected Ventures)"
-    },
-    {
-        "category": "social",
-        "name": "Google+",
-        "url": "https://plus.google.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2011, MAU: 198 million, Founders: Vic Gundotra & Bradley Horowitz (Presently owned by Google)"
-    },
-    {
-        "category": "social",
-        "name": "Digg",
-        "url": "https://digg.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2004, MAU: 100 million, Founders: Kevin Rose (Presently owned by BuySellAds Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "Taringa",
-        "url": "https://www.taringa.net/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2004, MAU: 60 million, Founders: Fernando Sanz (Presently owned by Hern\u00e1n Botbol & Mat\u00edas Botbol)"
-    },
-    {
-        "category": "social",
-        "name": "Myspace",
-        "url": "https://myspace.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 15 million, Founders: Chris DeWolfe, Tom Anderson & Jon Hart (Presently owned by Viant Technology LLC)"
-    },
-    {
-        "category": "social",
-        "name": "Steemit",
-        "url": "https://steemit.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2016, MAU: 1 million, Founders: Steemit Inc."
-    },
-    {
-        "category": "social",
-        "name": "Yelp",
-        "url": "https://www.yelp.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2004, MAU: 178 million, Founders: Jeremy Stoppelman & Russel Simmons"
-    },
-    {
-        "category": "social",
-        "name": "Triller",
-        "url": "https://triller.co/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2015, MAU: 65 million, Founders: David Leiberman & Sammy Rubin (Presently owned by TrillerNet)"
-    },
-    {
-        "category": "social",
-        "name": "Slashdot",
-        "url": "https://slashdot.org/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1997, MAU: 3.7 million, Founders: Rob Malda & Jeff Bates (Presently owned by Slashdot Media)"
-    },
-    {
-        "category": "social",
-        "name": "Goodreads",
-        "url": "https://www.goodreads.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 125 million, Founders: Otis Chandler & Elizabeth Khuri (Presently owned by Amazon)"
-    },
-    {
-        "category": "social",
-        "name": "Habbo",
-        "url": "https://www.habbo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2000, MAU: 800000, Founders: Sampo Karjalainen & Aapo Kyr\u00f6l\u00e4 (Presently owned by Sulake Oy)"
-    },
-    {
-        "category": "social",
-        "name": "NING",
-        "url": "https://www.ning.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 90000, Founders: Marc Andreessen & Gina Bianchini"
-    },
-    {
-        "category": "social",
-        "name": "Classmates",
-        "url": "https://www.classmates.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1995, MAU: 70 million, Founders: Randy Conrads (Presently owned by H.I.G. Capital)"
-    },
-    {
-        "category": "social",
-        "name": "Tagged",
-        "url": "https://www.tagged.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2004, MAU: 10 million, Founders: Greg Tseng & Johann Schleier-Smith"
-    },
-    {
-        "category": "social",
-        "name": "MeetUp",
-        "url": "https://www.meetup.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2002, MAU: 28 million, Founders: AlleyCorp"
-    },
-    {
-        "category": "social",
-        "name": "Flixster",
-        "url": "https://www.flixster.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 2.98 million, Founders: Joe Greenstien & Saran Chari (Presently owned by Fandango Media)"
-    },
-    {
-        "category": "social",
-        "name": "MyHeritage",
-        "url": "https://www.myheritage.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 80 million, Founders: Gilad Japhet (Presently owned by MyHeritage ltd.)"
-    },
-    {
-        "category": "social",
-        "name": "Multiply",
-        "url": "https://multiply.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 11 million, Founders: Peter Pezaris, Michael Gersh, & David Hersh (Presently owned by Stefan Magdalinski)"
-    },
-    {
-        "category": "social",
-        "name": "Renren",
-        "url": "https://www.renren.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 30 million, Founders: Wang Xing, Wang Huiwen & Lai Binqiang"
-    },
-    {
-        "category": "social",
-        "name": "Imgur",
-        "url": "https://imgur.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2009, MAU: 300 million, Founders: Alan Schaaf (Presently owned by Medialab AI Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "SkyRock",
-        "url": "https://skyrock.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2002, MAU: 21 million, Founders: T\u00e9l\u00e9fun"
-    },
-    {
-        "category": "social",
-        "name": "Fotki",
-        "url": "https://www.fotki.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1998, MAU: 1 million, Founders: Fotki Inc."
-    },
-    {
-        "category": "social",
-        "name": "Zorpia",
-        "url": "https://www.zorpia.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 2 million, Founders: Jeffrey Ng (Presently owned by Zorpia Co. Ltd.)"
-    },
-    {
-        "category": "social",
-        "name": "Ello",
-        "url": "https://ello.co/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2014, MAU: 1 million, Founders: Talenthouse"
-    },
-    {
-        "category": "social",
-        "name": "MocoSpace",
-        "url": "https://www.mocospace.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 3.27 million, Founders: Jamie Hall and Justin Siegel"
-    },
-    {
-        "category": "social",
-        "name": "Netlog",
-        "url": "https://www.netlog.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1999, MAU: 92 million, Founders: Lorenz Bogaert and Toon Coppens"
-    },
-    {
-        "category": "social",
-        "name": "Xing",
-        "url": "https://www.xing.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 10 million, Founders: New Work SE"
-    },
-    {
-        "category": "social",
-        "name": "Giphy",
-        "url": "https://giphy.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2013, MAU: 250 million, Founders: Jace Cooke & Alex Chung (Presently owned by Meta)"
-    },
-    {
-        "category": "social",
-        "name": "DeviantArt",
-        "url": "https://www.deviantart.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2000, MAU: 45 million, Founders: Scott Jarkoff, Matthew Stephens & Angelo Sotira (Presently owned by Wix.com)"
-    },
-    {
-        "category": "social",
-        "name": "Bebo",
-        "url": "https://www.bebo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 10.7 million, Founders: Michael Birch & Xochi Birch (Presently owned by The Monkey Inferno)"
-    },
-    {
-        "category": "social",
-        "name": "Cyworld",
-        "url": "https://www.cyworld.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2014, MAU: 35 million, Founders: CyworldZ"
-    },
-    {
-        "category": "social",
-        "name": "SixDegrees",
-        "url": "https://www.sixdegrees.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1997, MAU: 3500000, Founders: Andrew Weinreich"
-    },
-    {
-        "category": "social",
-        "name": "Tuenti",
-        "url": "https://www.tuenti.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 15 million, Founders: Zaryn Dentzel, F\u00e9lix Ruiz Hern\u00e1ndez, Kenny Bentley, Adeyemi Ajao & Joaqu\u00edn Ayuso de P\u00e1ul (Presently owned by Telefonica)"
-    },
-    {
-        "category": "social",
-        "name": "Mixi",
-        "url": "https://mixi.jp/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1999, MAU: 14 million, Founders: Kenji Kasahara & Batara Eto (Presently owned by Mixi Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "Buffer",
-        "url": "https://buffer.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1999, MAU: 4.5 million, Founders: Joel Gascoigne (Presently owned by Buffer Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "Nextdoor",
-        "url": "https://nextdoor.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2008, MAU: 58 million, Founders: Nirav Tolia, Prakash Janakiraman, David Wiesen & Sarah Leary (Presently owned by Nextdoor Holdings, Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "8tracks.com",
-        "url": "https://8tracks.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2008, MAU: 1 million, Founders: David Porter & Remi Gabillet"
-    },
-    {
-        "category": "social",
-        "name": "Ravelry",
-        "url": "https://www.ravelry.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2007, MAU: 1 million, Founders: Cassidy & Jessica Forbes (Presently owned by Ravelry LLC)"
-    },
-    {
-        "category": "social",
-        "name": "Athlinks",
-        "url": "https://www.athlinks.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2001, MAU: 591900, Founders: Life Time Fitness"
-    },
-    {
-        "category": "social",
-        "name": "beBee",
-        "url": "https://www.bebee.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2020, MAU: 1.4 million, Founders: Rafael Garc\u00eda, Juan Imaz & Javier CR"
-    },
-    {
-        "category": "social",
-        "name": "Brainly",
-        "url": "https://brainly.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2009, MAU: 350 million, Founders: Micha\u0142 Borkowski, \u0141ukasz Haluch & Tomasz Kraus"
-    },
-    {
-        "category": "social",
-        "name": "Buzznet",
-        "url": "https://buzznet.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 1 million, Founders: Anthony Batt, Steve Haldane, Marc Brown & Kevin Woolery"
-    },
-    {
-        "category": "social",
-        "name": "CaringBridge",
-        "url": "https://www.caringbridge.org/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1997, MAU: 1.3 million, Founders: Sona Mehring"
-    },
-    {
-        "category": "social",
-        "name": "Fishbrain",
-        "url": "https://fishbrain.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2010, MAU: 8 million, Founders: Jens Persson & Johan Attby"
-    },
-    {
-        "category": "social",
-        "name": "CafeMom",
-        "url": "https://www.cafemom.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 8.6 million, Founders: Michael Sanchez & Andrew Shue (Presently owned by Wild Sky Media)"
-    },
-    {
-        "category": "social",
-        "name": "LinguaLeo",
-        "url": "https://lingualeo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2010, MAU: 20 million, Founders: Aynur Abdulnasurov"
-    },
-    {
-        "category": "social",
-        "name": "LibraryThing",
-        "url": "https://www.librarything.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 2.5 million, Founders: Tim Spalding (Presently owned by AbeBooks, CIG & Tim Spalding)"
-    },
-    {
-        "category": "social",
-        "name": "Open Diary",
-        "url": "https://www.opendiary.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 1998, MAU: 1 million, Founders: Bruce Ableson (Presently owned by Blather Inc.)"
-    },
-    {
-        "category": "social",
-        "name": "We Heart It",
-        "url": "https://weheartit.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2008, MAU: 45 million, Founders: Fabio Giolito (Presently owned by Super Basic LLC)"
-    },
-    {
-        "category": "social",
-        "name": "Viadeo",
-        "url": "https://www.viadeo.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2004, MAU: 8 million, Founders: Dan Serfaty & Thierry Lunati"
-    },
-    {
-        "category": "social",
-        "name": "Delicious",
-        "url": "https://del.icio.us/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2003, MAU: 1 million, Founders: Joshua Schachter & Peter Gadjokov (Presently owned by Maciej Ceglowski)"
-    },
-    {
-        "category": "social",
-        "name": "Yammer",
-        "url": "https://www.yammer.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2008, MAU: 1 million, Founders: David O. Sacks & Adam Pisoni (Presently owned by Microsoft Corp.)"
-    },
-    {
-        "category": "social",
-        "name": "Reverbnation",
-        "url": "https://www.reverbnation.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 4 million, Founders: BandLab"
-    },
-    {
-        "category": "social",
-        "name": "SoundCloud",
-        "url": "https://soundcloud.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2013, MAU: 175 million, Founders: Alexander Ljung & Eric Wahlforss (Presently owned by SoundCloud Ltd.)"
-    },
-    {
-        "category": "social",
-        "name": "Cellufun",
-        "url": "https://www.cellufun.com/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2005, MAU: 2 million, Founders: Stephene Dacek, Cary Torkelson & Arthur Goikhman"
-    },
-    {
-        "category": "social",
-        "name": "DailyStrength",
-        "url": "https://www.dailystrength.org/",
-        "da": 91,
-        "pa": 67,
-        "extra": "Year: 2006, MAU: 1 million, Founders: Doug Hirsch, Lars Nilsen & Josh DeFord"
+        "pa": 86
     },
     {
         "category": "article_submission",
@@ -1791,10 +1921,129 @@
     },
     {
         "category": "article_submission",
+        "name": "Github",
+        "url": "https://github.com/",
+        "da": 96,
+        "pa": 92
+    },
+    {
+        "category": "article_submission",
+        "name": "Live Journal",
+        "url": "https://www.livejournal.com/",
+        "da": 93,
+        "pa": 99
+    },
+    {
+        "category": "article_submission",
+        "name": "Quora",
+        "url": "https://www.quora.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "article_submission",
+        "name": "Instructables",
+        "url": "https://www.instructables.com/",
+        "da": 93,
+        "pa": 76
+    },
+    {
+        "category": "article_submission",
+        "name": "Academia",
+        "url": "https://www.academia.edu/",
+        "da": 93,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "da": 92,
+        "pa": 91
+    },
+    {
+        "category": "article_submission",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "Scoop.it",
+        "url": "https://www.scoop.it/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "ehow",
+        "url": "https://www.ehow.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
         "name": "Patreon",
         "url": "https://www.patreon.com/c/writing",
         "da": 92,
         "pa": 57
+    },
+    {
+        "category": "article_submission",
+        "name": "Bored Panda",
+        "url": "https://www.boredpanda.com/",
+        "da": 91,
+        "pa": 71
+    },
+    {
+        "category": "article_submission",
+        "name": "Patch",
+        "url": "https://patch.com/",
+        "da": 91,
+        "pa": 70
+    },
+    {
+        "category": "article_submission",
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/",
+        "da": 90,
+        "pa": 72
+    },
+    {
+        "category": "article_submission",
+        "name": "Your Story",
+        "url": "https://yourstory.com/",
+        "da": 87,
+        "pa": 63
+    },
+    {
+        "category": "article_submission",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "article_submission",
+        "name": "DZone",
+        "url": "https://dzone.com/",
+        "da": 84,
+        "pa": 66
+    },
+    {
+        "category": "article_submission",
+        "name": "HubPages",
+        "url": "https://discover.hubpages.com/",
+        "da": 81,
+        "pa": 57
+    },
+    {
+        "category": "article_submission",
+        "name": "The Free Library",
+        "url": "https://www.thefreelibrary.com/",
+        "da": 80,
+        "pa": 67
     },
     {
         "category": "article_submission",
@@ -1805,10 +2054,87 @@
     },
     {
         "category": "article_submission",
+        "name": "buzzle",
+        "url": "https://buzzle.com/",
+        "da": 77,
+        "pa": 61
+    },
+    {
+        "category": "article_submission",
         "name": "ARTICLESBASE",
         "url": "https://articlesbase.com/",
         "da": 77,
         "pa": 60
+    },
+    {
+        "category": "article_submission",
+        "name": "penzu",
+        "url": "https://penzu.com/",
+        "da": 76,
+        "pa": 68
+    },
+    {
+        "category": "article_submission",
+        "name": "bcz",
+        "url": "https://bcz.com/",
+        "da": 76,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "My Trending Stories",
+        "url": "https://mytrendingstories.com/",
+        "da": 75,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "e27",
+        "url": "https://e27.co/",
+        "da": 71,
+        "pa": 58
+    },
+    {
+        "category": "article_submission",
+        "name": "wakelet",
+        "url": "https://wakelet.com/",
+        "da": 71,
+        "pa": 68
+    },
+    {
+        "category": "article_submission",
+        "name": "write.as",
+        "url": "https://write.as/",
+        "da": 69,
+        "pa": 61
+    },
+    {
+        "category": "article_submission",
+        "name": "Vocal",
+        "url": "https://vocal.media/",
+        "da": 69,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "Nouw",
+        "url": "https://nouw.com/",
+        "da": 65,
+        "pa": 58
+    },
+    {
+        "category": "article_submission",
+        "name": "Let’s Diskuss",
+        "url": "https://www.letsdiskuss.com/",
+        "da": 61,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "TeLeType",
+        "url": "https://teletype.in/",
+        "da": 61,
+        "pa": 59
     },
     {
         "category": "article_submission",
@@ -1840,10 +2166,164 @@
     },
     {
         "category": "article_submission",
+        "name": "busika",
+        "url": "https://bukisa.com/",
+        "da": 56,
+        "pa": 52
+    },
+    {
+        "category": "article_submission",
+        "name": "uberant.com",
+        "url": "https://uberant.com/",
+        "da": 56,
+        "pa": 58
+    },
+    {
+        "category": "article_submission",
+        "name": "MindsMag",
+        "url": "https://mindsmag.com/",
+        "da": 54,
+        "pa": 36
+    },
+    {
+        "category": "article_submission",
+        "name": "News To Buzz",
+        "url": "https://newstobuzz.com/",
+        "da": 54,
+        "pa": 34
+    },
+    {
+        "category": "article_submission",
+        "name": "Apkevents",
+        "url": "https://apkevents.com/",
+        "da": 54,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "Easy Business Tricks",
+        "url": "https://easybusinesstricks.com/",
+        "da": 54,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "MarketBusinessTimes",
+        "url": "https://marketbusinesstimes.com/",
+        "da": 53,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "The Publishing Herald",
+        "url": "https://thepublishingherald.com/",
+        "da": 53,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "Know World",
+        "url": "https://knowworld365.com/",
+        "da": 53,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "TechFoodTrip",
+        "url": "https://techfoodtrip.com/",
+        "da": 53,
+        "pa": 39
+    },
+    {
+        "category": "article_submission",
+        "name": "Technolf",
+        "url": "https://technolf.com/",
+        "da": 53,
+        "pa": 39
+    },
+    {
+        "category": "article_submission",
+        "name": "HitUponViews",
+        "url": "https://www.hituponviews.com/",
+        "da": 52,
+        "pa": 33
+    },
+    {
+        "category": "article_submission",
+        "name": "Articleinon",
+        "url": "https://articleinon.com/",
+        "da": 52,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
         "name": "Tiago Martinho",
         "url": "www.tiagomartinho.com/",
         "da": 52,
         "pa": 27
+    },
+    {
+        "category": "article_submission",
+        "name": "The Mega News",
+        "url": "https://themeganews.com/",
+        "da": 52,
+        "pa": 37
+    },
+    {
+        "category": "article_submission",
+        "name": "SooperArticles",
+        "url": "https://www.sooperarticles.com/",
+        "da": 51,
+        "pa": 60
+    },
+    {
+        "category": "article_submission",
+        "name": "TECHNOLOS",
+        "url": "https://technoloss.com/",
+        "da": 51,
+        "pa": 42
+    },
+    {
+        "category": "article_submission",
+        "name": "Mcnezu",
+        "url": "https://mcnezu.com/",
+        "da": 51,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "Amazines",
+        "url": "https://www.amazines.com/",
+        "da": 49,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "Fabsswing",
+        "url": "https://fabsswing.com/",
+        "da": 49,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "PromotionWorld",
+        "url": "https://www.promotionworld.com/",
+        "da": 45,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "Article Biz",
+        "url": "https://articlebiz.com/",
+        "da": 43,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "FORTUNE",
+        "url": "https://fortunetelleroracle.com/",
+        "da": 43,
+        "pa": 53
     },
     {
         "category": "article_submission",
@@ -1854,10 +2334,94 @@
     },
     {
         "category": "article_submission",
+        "name": "Fuzia",
+        "url": "https://www.fuzia.com/",
+        "da": 41,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "CompleteConnection",
+        "url": "https://www.completeconnection.ca/",
+        "da": 41,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
         "name": "Author Magazine",
         "url": "https://www.authormagazine.org/",
         "da": 39,
         "pa": 40
+    },
+    {
+        "category": "article_submission",
+        "name": "123ArticleOnline.com",
+        "url": "https://www.123articleonline.com/",
+        "da": 39,
+        "pa": 52
+    },
+    {
+        "category": "article_submission",
+        "name": "Area19Delegate",
+        "url": "https://www.area19delegate.org/",
+        "da": 37,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles For Website",
+        "url": "https://articlesforwebsite.com/",
+        "da": 36,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "POPULARARTICLES",
+        "url": "https://popularticles.com/",
+        "da": 36,
+        "pa": 46
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles@PR3",
+        "url": "https://www.pr3-articles.com/",
+        "da": 34,
+        "pa": 46
+    },
+    {
+        "category": "article_submission",
+        "name": "Other Articles",
+        "url": "https://www.otherarticles.com/",
+        "da": 33,
+        "pa": 50
+    },
+    {
+        "category": "article_submission",
+        "name": "Article Pedia",
+        "url": "https://articlepedia.xyz/",
+        "da": 33,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "Prolink Directory",
+        "url": "https://www.prolinkdirectory.com/",
+        "da": 32,
+        "pa": 54
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles Reader",
+        "url": "https://www.articlesreader.com/",
+        "da": 30,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "Article Seen",
+        "url": "https://www.articleseen.com/",
+        "da": 30,
+        "pa": 48
     },
     {
         "category": "article_submission",
@@ -1868,10 +2432,52 @@
     },
     {
         "category": "article_submission",
+        "name": "My Articles",
+        "url": "https://myarticles.io/",
+        "da": 26,
+        "pa": 39
+    },
+    {
+        "category": "article_submission",
+        "name": "Travel & Tourism Directory",
+        "url": "https://www.traveltourismdirectory.net/",
+        "da": 25,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "The ARTICLE Trunk",
+        "url": "https://www.articletrunk.com/",
+        "da": 23,
+        "pa": 51
+    },
+    {
+        "category": "article_submission",
+        "name": "H1 Ad",
+        "url": "https://articles.h1ad.com/",
+        "da": 22,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "Storify",
+        "url": "https://storify.me/",
+        "da": 20,
+        "pa": 36
+    },
+    {
+        "category": "article_submission",
         "name": "Your Tech Guru",
         "url": "https://yourtechguru.co/",
         "da": 20,
         "pa": 15
+    },
+    {
+        "category": "article_submission_paid",
+        "name": "Medium",
+        "url": "https://medium.com/",
+        "da": 95,
+        "pa": 84
     },
     {
         "category": "article_submission_paid",
@@ -1900,6 +2506,20 @@
         "url": "https://www.writershub.org/",
         "da": 23,
         "pa": 40
+    },
+     {
+        "category": "directory_submission",
+        "name": "Yelp",
+        "url": "https://www.yelp.com/",
+        "da": 93,
+        "pa": 85
+    },
+    {
+        "category": "directory_submission",
+        "name": "FOURSQUARE",
+        "url": "https://foursquare.com/",
+        "da": 92,
+        "pa": 78
     },
     {
         "category": "directory_submission",
@@ -2138,6 +2758,13 @@
         "url": "https://www.websquash.com/search/",
         "da": 35,
         "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "ProLinkDirectory",
+        "url": "https://www.prolinkdirectory.com/",
+        "da": 32,
+        "pa": 53
     },
     {
         "category": "directory_submission",
@@ -2666,7 +3293,7 @@
     },
     {
         "category": "directory_submission_uk",
-        "name": "YES, IT\u2019S FREE!",
+        "name": "YES, IT’S FREE!",
         "url": "https://yesitsfree.co.uk/",
         "da": 23,
         "pa": 35
@@ -2685,7 +3312,7 @@
         "da": 21,
         "pa": 43
     },
-    {
+     {
         "category": "directory_submission_australia",
         "name": "TRUE LOCAL",
         "url": "https://www.truelocal.com.au/",
@@ -2799,10 +3426,73 @@
     },
     {
         "category": "image_submission",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
         "name": "VK",
         "url": "https://vk.com/",
         "da": 96,
         "pa": 87
+    },
+    {
+        "category": "image_submission",
+        "name": "SlideShare",
+        "url": "https://www.slideshare.net/",
+        "da": 95,
+        "pa": 86
+    },
+    {
+        "category": "image_submission",
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/",
+        "da": 94,
+        "pa": 97
+    },
+    {
+        "category": "image_submission",
+        "name": "Twitter",
+        "url": "https://twitter.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "Pixabay",
+        "url": "https://pixabay.com/",
+        "da": 94,
+        "pa": 84
+    },
+    {
+        "category": "image_submission",
+        "name": "Photobucket",
+        "url": "https://photobucket.com/",
+        "da": 93,
+        "pa": 88
+    },
+    {
+        "category": "image_submission",
+        "name": "Pexels",
+        "url": "https://www.pexels.com/",
+        "da": 93,
+        "pa": 80
+    },
+    {
+        "category": "image_submission",
+        "name": "Freepik",
+        "url": "https://www.freepik.com/",
+        "da": 93,
+        "pa": 80
     },
     {
         "category": "image_submission",
@@ -2813,10 +3503,52 @@
     },
     {
         "category": "image_submission",
+        "name": "Flickr",
+        "url": "https://www.flickr.com/",
+        "da": 92,
+        "pa": 95
+    },
+    {
+        "category": "image_submission",
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "da": 92,
+        "pa": 84
+    },
+    {
+        "category": "image_submission",
+        "name": "Imgur",
+        "url": "https://imgur.com/",
+        "da": 92,
+        "pa": 84
+    },
+    {
+        "category": "image_submission",
         "name": "Reddit images",
         "url": "https://www.reddit.com/r/Images/",
         "da": 92,
         "pa": 55
+    },
+    {
+        "category": "image_submission",
+        "name": "Deviant Art",
+        "url": "https://www.deviantart.com/",
+        "da": 90,
+        "pa": 86
+    },
+    {
+        "category": "image_submission",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "9GAG",
+        "url": "https://9gag.com/",
+        "da": 86,
+        "pa": 73
     },
     {
         "category": "image_submission",
@@ -2830,6 +3562,20 @@
         "name": "Shutterfly",
         "url": "https://www.shutterfly.com/",
         "da": 83,
+        "pa": 71
+    },
+    {
+        "category": "image_submission",
+        "name": "Daily Infographics",
+        "url": "https://dailyinfographic.com/",
+        "da": 81,
+        "pa": 58
+    },
+    {
+        "category": "image_submission",
+        "name": "Infogram",
+        "url": "https://infogram.com/",
+        "da": 80,
         "pa": 71
     },
     {
@@ -2848,10 +3594,24 @@
     },
     {
         "category": "image_submission",
+        "name": "MorgueFile",
+        "url": "https://morguefile.com/",
+        "da": 77,
+        "pa": 66
+    },
+    {
+        "category": "image_submission",
         "name": "Snapfish",
         "url": "https://www.snapfish.com/home",
         "da": 76,
         "pa": 58
+    },
+    {
+        "category": "image_submission",
+        "name": "Fotki",
+        "url": "https://www.fotki.com/",
+        "da": 75,
+        "pa": 66
     },
     {
         "category": "image_submission",
@@ -2869,8 +3629,29 @@
     },
     {
         "category": "image_submission",
+        "name": "Cool Infographics",
+        "url": "https://coolinfographics.com/",
+        "da": 60,
+        "pa": 52
+    },
+    {
+        "category": "image_submission",
+        "name": "Visualistan",
+        "url": "https://www.visualistan.com/",
+        "da": 59,
+        "pa": 48
+    },
+    {
+        "category": "image_submission",
         "name": "Elearning images",
         "url": "https://elearninginfographics.com/",
+        "da": 59,
+        "pa": 55
+    },
+    {
+        "category": "image_submission",
+        "name": "Rankfrog",
+        "url": "https://rankfrog.com/infographic-submission-sites/",
         "da": 59,
         "pa": 55
     },
@@ -2883,6 +3664,13 @@
     },
     {
         "category": "image_submission",
+        "name": "I Love Charts",
+        "url": "https://ilovecharts.tumblr.com/",
+        "da": 52,
+        "pa": 75
+    },
+    {
+        "category": "image_submission",
         "name": "Infographics Archive",
         "url": "https://www.infographicsarchive.com/",
         "da": 53,
@@ -2890,10 +3678,59 @@
     },
     {
         "category": "image_submission",
+        "name": "Infographics Zone",
+        "url": "https://www.infographicszone.com/",
+        "da": 47,
+        "pa": 45
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Portal",
+        "url": "https://www.infographicportal.com/",
+        "da": 47,
+        "pa": 42
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic List",
+        "url": "https://infographiclist.com/",
+        "da": 45,
+        "pa": 47
+    },
+    {
+        "category": "image_submission",
+        "name": "Submit Infographics",
+        "url": "https://submitinfographics.com/",
+        "da": 43,
+        "pa": 50
+    },
+    {
+        "category": "image_submission",
         "name": "Infographic BEE",
         "url": "https://www.infographicbee.com/",
         "da": 42,
         "pa": 41
+    },
+    {
+        "category": "image_submission",
+        "name": "InfographicLabs",
+        "url": "https://infographiclabs.com/",
+        "da": 41,
+        "pa": 47
+    },
+    {
+        "category": "image_submission",
+        "name": "Love Infographics",
+        "url": "https://www.loveinfographics.com/",
+        "da": 40,
+        "pa": 46
+    },
+    {
+        "category": "image_submission",
+        "name": "Shit Hot images",
+        "url": "https://www.shithot.co.uk/",
+        "da": 36,
+        "pa": 36
     },
     {
         "category": "image_submission",
@@ -2910,6 +3747,27 @@
         "pa": 56
     },
     {
+        "category": "image_submission",
+        "name": "Gifographics",
+        "url": "https://gifographics.co/",
+        "da": 31,
+        "pa": 40
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Posters",
+        "url": "https://www.infographicsposters.com/",
+        "da": 30,
+        "pa": 46
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Plaza",
+        "url": "https://infographicplaza.com/",
+        "da": 30,
+        "pa": 45
+    },
+     {
         "category": "health_forums",
         "name": "Bodybuilding Forums",
         "url": "https://forum.bodybuilding.com/",
@@ -3009,7 +3867,7 @@
     },
     {
         "category": "tech_forums",
-        "name": "tom\u2019sHARDWARE",
+        "name": "tom’sHARDWARE",
         "url": "https://forums.tomshardware.com/",
         "da": 90,
         "pa": 59
@@ -3294,7 +4152,7 @@
         "da": 32,
         "pa": 38
     },
-    {
+     {
         "category": "parenting_forums",
         "name": "mumsnet",
         "url": "https://www.mumsnet.com/talk",
@@ -3454,6 +4312,13 @@
         "url": "https://www.pricescope.com/community/",
         "da": 59,
         "pa": 47
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Discord",
+        "url": "https://discord.com/",
+        "da": 94,
+        "pa": 75
     },
     {
         "category": "national_international_forums",
@@ -3737,6 +4602,13 @@
     },
     {
         "category": "classified_websites",
+        "name": "FREE ADS TIME",
+        "url": "https://www.freeadstime.org/",
+        "da": 35,
+        "pa": 53
+    },
+    {
+        "category": "classified_websites",
         "name": "Classifieds For Free",
         "url": "https://classifiedsforfree.com/",
         "da": 35,
@@ -3952,6 +4824,14 @@
         "da": 23,
         "pa": 37
     },
+
+    {
+        "category": "social_bookmarking",
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "da": 99,
+        "pa": 100
+    },
     {
         "category": "social_bookmarking",
         "name": "X (formerly Twitter)",
@@ -3975,6 +4855,20 @@
     },
     {
         "category": "social_bookmarking",
+        "name": "Quora",
+        "url": "https://www.quora.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "da": 92,
+        "pa": 91
+    },
+    {
+        "category": "social_bookmarking",
         "name": "Trello",
         "url": "https://trello.com/",
         "da": 92,
@@ -3986,6 +4880,20 @@
         "url": "https://evernote.com/",
         "da": 92,
         "pa": 79
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Scoop.it!",
+        "url": "https://www.scoop.it/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Slashdot",
+        "url": "https://slashdot.org/",
+        "da": 91,
+        "pa": 76
     },
     {
         "category": "social_bookmarking",
@@ -4045,6 +4953,13 @@
     },
     {
         "category": "social_bookmarking",
+        "name": "steemit",
+        "url": "https://steemit.com/",
+        "da": 89,
+        "pa": 68
+    },
+    {
+        "category": "social_bookmarking",
         "name": "plurk",
         "url": "https://www.plurk.com/portal/",
         "da": 89,
@@ -4080,10 +4995,24 @@
     },
     {
         "category": "social_bookmarking",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "social_bookmarking",
         "name": "pearltrees",
         "url": "https://www.pearltrees.com/",
         "da": 86,
         "pa": 72
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "DZone",
+        "url": "https://dzone.com/",
+        "da": 84,
+        "pa": 66
     },
     {
         "category": "social_bookmarking",
@@ -4101,6 +5030,13 @@
     },
     {
         "category": "social_bookmarking",
+        "name": "We Heart It",
+        "url": "https://weheartit.com/",
+        "da": 79,
+        "pa": 95
+    },
+    {
+        "category": "social_bookmarking",
         "name": "Mind Meister",
         "url": "https://www.mindmeister.com/",
         "da": 79,
@@ -4112,6 +5048,13 @@
         "url": "https://www.techdirt.com/",
         "da": 79,
         "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Tagged",
+        "url": "https://www.tagged.com/",
+        "da": 77,
+        "pa": 65
     },
     {
         "category": "social_bookmarking",
@@ -4140,6 +5083,13 @@
         "url": "https://bubbl.us/",
         "da": 73,
         "pa": 67
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Wakelet",
+        "url": "https://wakelet.com/",
+        "da": 71,
+        "pa": 68
     },
     {
         "category": "social_bookmarking",
@@ -4196,6 +5146,13 @@
         "url": "https://citeulike.org/",
         "da": 62,
         "pa": 56
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "storeboard.com",
+        "url": "https://www.storeboard.com/home.asp",
+        "da": 62,
+        "pa": 44
     },
     {
         "category": "social_bookmarking",
@@ -4528,6 +5485,13 @@
     },
     {
         "category": "business_listing_india",
+        "name": "Yelp",
+        "url": "https://www.yelp.com/",
+        "da": 93,
+        "pa": 84
+    },
+    {
+        "category": "business_listing_india",
         "name": "Foursquare Business",
         "url": "https://business.foursquare.com/",
         "da": 92,
@@ -4584,6 +5548,13 @@
     },
     {
         "category": "business_listing_india",
+        "name": "FreeListingIndia",
+        "url": "https://www.freelistingindia.in/",
+        "da": 36,
+        "pa": 45
+    },
+    {
+        "category": "business_listing_india",
         "name": "PoweredIndia",
         "url": "https://www.poweredindia.com/register/",
         "da": 21,
@@ -4598,10 +5569,24 @@
     },
     {
         "category": "business_listing_india",
+        "name": "Facebook Business",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "business_listing_india",
         "name": "LinkedIn Business",
         "url": "https://business.linkedin.com/",
         "da": 99,
         "pa": 78
+    },
+    {
+        "category": "business_listing_india",
+        "name": "EIndiaBusiness",
+        "url": "https://www.eindiabusiness.com/",
+        "da": 31,
+        "pa": 51
     },
     {
         "category": "business_listing_india",
@@ -4633,10 +5618,31 @@
     },
     {
         "category": "profile_creation",
+        "name": "YouTube",
+        "url": "https://www.youtube.com/",
+        "da": 100,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
         "name": "WordPress",
         "url": "https://wordpress.org/",
         "da": 99,
         "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/",
+        "da": 99,
+        "pa": 86
+    },
+    {
+        "category": "profile_creation",
+        "name": "WhatsApp",
+        "url": "https://www.whatsapp.com/",
+        "da": 97,
+        "pa": 87
     },
     {
         "category": "profile_creation",
@@ -4647,6 +5653,34 @@
     },
     {
         "category": "profile_creation",
+        "name": "Vimeo",
+        "url": "https://vimeo.com/",
+        "da": 96,
+        "pa": 97
+    },
+    {
+        "category": "profile_creation",
+        "name": "Github",
+        "url": "https://github.com/",
+        "da": 96,
+        "pa": 92
+    },
+    {
+        "category": "profile_creation",
+        "name": "vk",
+        "url": "https://vk.com/",
+        "da": 96,
+        "pa": 87
+    },
+    {
+        "category": "profile_creation",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
         "name": "Gravatar",
         "url": "https://gravatar.com/",
         "da": 95,
@@ -4654,10 +5688,31 @@
     },
     {
         "category": "profile_creation",
+        "name": "slide share",
+        "url": "https://www.slideshare.net/",
+        "da": 95,
+        "pa": 86
+    },
+    {
+        "category": "profile_creation",
+        "name": "Medium",
+        "url": "https://medium.com/",
+        "da": 95,
+        "pa": 84
+    },
+    {
+        "category": "profile_creation",
         "name": "Dailymotion",
         "url": "https://www.dailymotion.com/in",
         "da": 95,
         "pa": 83
+    },
+    {
+        "category": "profile_creation",
+        "name": "Myspace",
+        "url": "https://myspace.com/",
+        "da": 95,
+        "pa": 82
     },
     {
         "category": "profile_creation",
@@ -4682,10 +5737,45 @@
     },
     {
         "category": "profile_creation",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
         "name": "X (previously Twitter)",
         "url": "https://about.twitter.com/en",
         "da": 94,
         "pa": 91
+    },
+    {
+        "category": "profile_creation",
+        "name": "Pinterest",
+        "url": "https://in.pinterest.com/",
+        "da": 94,
+        "pa": 97
+    },
+    {
+        "category": "profile_creation",
+        "name": "Scribd",
+        "url": "https://www.scribd.com/",
+        "da": 94,
+        "pa": 81
+    },
+    {
+        "category": "profile_creation",
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com/",
+        "da": 94,
+        "pa": 86
+    },
+    {
+        "category": "profile_creation",
+        "name": "issuu",
+        "url": "https://issuu.com/",
+        "da": 94,
+        "pa": 83
     },
     {
         "category": "profile_creation",
@@ -4700,6 +5790,13 @@
         "url": "https://www.change.org/",
         "da": 94,
         "pa": 77
+    },
+    {
+        "category": "profile_creation",
+        "name": "Discord",
+        "url": "https://discord.com/",
+        "da": 94,
+        "pa": 75
     },
     {
         "category": "profile_creation",
@@ -4721,6 +5818,20 @@
         "url": "https://dropbox.com",
         "da": 93,
         "pa": 82
+    },
+    {
+        "category": "profile_creation",
+        "name": "Goodreads",
+        "url": "https://www.goodreads.com/",
+        "da": 93,
+        "pa": 84
+    },
+    {
+        "category": "profile_creation",
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/",
+        "da": 93,
+        "pa": 81
     },
     {
         "category": "profile_creation",
@@ -4752,6 +5863,13 @@
     },
     {
         "category": "profile_creation",
+        "name": "Academia",
+        "url": "https://www.academia.edu/",
+        "da": 93,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
         "name": "QQ",
         "url": "https://im.qq.com/",
         "da": 93,
@@ -4780,10 +5898,66 @@
     },
     {
         "category": "profile_creation",
+        "name": "Quora",
+        "url": "https://www.quora.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "profile_creation",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "da": 92,
+        "pa": 91
+    },
+    {
+        "category": "profile_creation",
         "name": "Mixcloud",
         "url": "https://www.mixcloud.com/",
         "da": 92,
         "pa": 77
+    },
+    {
+        "category": "profile_creation",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "Snapchat",
+        "url": "https://www.snapchat.com/",
+        "da": 92,
+        "pa": 76
+    },
+    {
+        "category": "profile_creation",
+        "name": "Messenger",
+        "url": "https://www.messenger.com/",
+        "da": 92,
+        "pa": 71
+    },
+    {
+        "category": "profile_creation",
+        "name": "Stack Exchange",
+        "url": "https://stackexchange.com/",
+        "da": 91,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "Foursquare",
+        "url": "https://foursquare.com/",
+        "da": 94,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "da": 92,
+        "pa": 84
     },
     {
         "category": "profile_creation",
@@ -4864,6 +6038,13 @@
     },
     {
         "category": "profile_creation",
+        "name": "Smashwords",
+        "url": "https://www.smashwords.com/",
+        "da": 88,
+        "pa": 70
+    },
+    {
+        "category": "profile_creation",
         "name": "Techinasia",
         "url": "https://www.pbworks.com/",
         "da": 88,
@@ -4892,6 +6073,20 @@
     },
     {
         "category": "profile_creation",
+        "name": "Listly",
+        "url": "https://list.ly/",
+        "da": 87,
+        "pa": 67
+    },
+    {
+        "category": "profile_creation",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 73
+    },
+    {
+        "category": "profile_creation",
         "name": "Pexels",
         "url": "https://pexels.com",
         "da": 86,
@@ -4906,10 +6101,24 @@
     },
     {
         "category": "profile_creation",
+        "name": "Speaker Deck",
+        "url": "https://speakerdeck.com/",
+        "da": 85,
+        "pa": 65
+    },
+    {
+        "category": "profile_creation",
         "name": "Getpocket",
         "url": "https://getpocket.com",
         "da": 85,
         "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "500px",
+        "url": "https://500px.com/",
+        "da": 85,
+        "pa": 78
     },
     {
         "category": "profile_creation",
@@ -4927,6 +6136,27 @@
     },
     {
         "category": "profile_creation",
+        "name": "We Chat",
+        "url": "https://www.wechat.com/",
+        "da": 84,
+        "pa": 65
+    },
+    {
+        "category": "profile_creation",
+        "name": "Douyin",
+        "url": "https://www.douyin.com/",
+        "da": 81,
+        "pa": 66
+    },
+    {
+        "category": "profile_creation",
+        "name": "Picsart",
+        "url": "https://picsart.com/",
+        "da": 83,
+        "pa": 68
+    },
+    {
+        "category": "profile_creation",
         "name": "MagCloud",
         "url": "https://www.magcloud.com/",
         "da": 82,
@@ -4941,6 +6171,13 @@
     },
     {
         "category": "profile_creation",
+        "name": "APSense",
+        "url": "https://www.apsense.com/",
+        "da": 80,
+        "pa": 62
+    },
+    {
+        "category": "profile_creation",
         "name": "Parallels",
         "url": "https://parallels.com",
         "da": 78,
@@ -4948,10 +6185,38 @@
     },
     {
         "category": "profile_creation",
+        "name": "Free-Ebooks.net",
+        "url": "https://www.free-ebooks.net/",
+        "da": 73,
+        "pa": 67
+    },
+    {
+        "category": "profile_creation",
         "name": "IDEA",
         "url": "https://www.ideafit.com/",
         "da": 72,
         "pa": 61
+    },
+    {
+        "category": "profile_creation",
+        "name": "YUDU",
+        "url": "https://www.yudu.com/",
+        "da": 71,
+        "pa": 62
+    },
+    {
+        "category": "profile_creation",
+        "name": "imo",
+        "url": "https://imo.im/",
+        "da": 71,
+        "pa": 60
+    },
+    {
+        "category": "profile_creation",
+        "name": "Telegram",
+        "url": "https://telegram.org/",
+        "da": 69,
+        "pa": 91
     },
     {
         "category": "profile_creation",
@@ -5001,6 +6266,20 @@
         "url": "https://mewe.com/register",
         "da": 65,
         "pa": 64
+    },
+    {
+        "category": "profile_creation",
+        "name": "Blogger",
+        "url": "https://www.blogger.com/",
+        "da": 58,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "Likee",
+        "url": "https://likee.video/",
+        "da": 53,
+        "pa": 54
     },
     {
         "category": "profile_creation",
