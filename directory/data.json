@@ -1,0 +1,6998 @@
+[
+    {
+        "category": "doc",
+        "name": "SlideShare",
+        "url": "https://www.slideshare.net/",
+        "da": 94,
+        "pa": 86
+    },
+    {
+        "category": "doc",
+        "name": "Issuu",
+        "url": "https://issuu.com/",
+        "da": 94,
+        "pa": 83
+    },
+    {
+        "category": "doc",
+        "name": "Scribd",
+        "url": "https://www.scribd.com/",
+        "da": 94,
+        "pa": 81
+    },
+    {
+        "category": "doc",
+        "name": "4shared",
+        "url": "https://www.4shared.com/",
+        "da": 94,
+        "pa": 78
+    },
+    {
+        "category": "doc",
+        "name": "SendSpace",
+        "url": "https://www.sendspace.com/",
+        "da": 93,
+        "pa": 71
+    },
+    {
+        "category": "doc",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "doc",
+        "name": "Calameo",
+        "url": "https://www.calameo.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "doc",
+        "name": "DepositFiles",
+        "url": "https://depositfiles.com/",
+        "da": 92,
+        "pa": 68
+    },
+    {
+        "category": "doc",
+        "name": "Yumpu",
+        "url": "https://www.yumpu.com/en",
+        "da": 90,
+        "pa": 62
+    },
+    {
+        "category": "doc",
+        "name": "Speaker Deck",
+        "url": "https://speakerdeck.com/",
+        "da": 85,
+        "pa": 65
+    },
+    {
+        "category": "doc",
+        "name": "DocDroid",
+        "url": "https://www.docdroid.net/",
+        "da": 83,
+        "pa": 64
+    },
+    {
+        "category": "doc",
+        "name": "MediaFire",
+        "url": "https://www.mediafire.com/",
+        "da": 80,
+        "pa": 94
+    },
+    {
+        "category": "doc",
+        "name": "Emaze",
+        "url": "https://www.emaze.com/",
+        "da": 80,
+        "pa": 68
+    },
+    {
+        "category": "doc",
+        "name": "Edocr",
+        "url": "https://www.edocr.com/",
+        "da": 76,
+        "pa": 62
+    },
+    {
+        "category": "doc",
+        "name": "Free-Ebooks.net",
+        "url": "https://www.free-ebooks.net/",
+        "da": 73,
+        "pa": 67
+    },
+    {
+        "category": "doc",
+        "name": "DivShare",
+        "url": "https://www.divshare.com/",
+        "da": 71,
+        "pa": 63
+    },
+    {
+        "category": "doc",
+        "name": "Yudu",
+        "url": "https://www.yudu.com/",
+        "da": 71,
+        "pa": 62
+    },
+    {
+        "category": "doc",
+        "name": "PDF Archive.ConcurrentHashMap",
+        "url": "https://www.pdf-archive.com/",
+        "da": 70,
+        "pa": 56
+    },
+    {
+        "category": "doc",
+        "name": "SlideServe",
+        "url": "https://www.slideserve.com/",
+        "da": 69,
+        "pa": 67
+    },
+    {
+        "category": "doc",
+        "name": "Mirrored.to",
+        "url": "https://www.mirrored.to/",
+        "da": 65,
+        "pa": 48
+    },
+    {
+        "category": "doc",
+        "name": "PowerShow.com",
+        "url": "https://www.powershow.com/",
+        "da": 58,
+        "pa": 59
+    },
+    {
+        "category": "doc",
+        "name": "Share Presentation",
+        "url": "https://www.sharepresentation.com/",
+        "da": 31,
+        "pa": 42
+    },
+    {
+        "category": "doc",
+        "name": "Ping PDF",
+        "url": "https://pingpdf.com/",
+        "da": 25,
+        "pa": 48
+    },
+    {
+        "category": "blog",
+        "name": "Blogger",
+        "url": "https://www.blogger.com/",
+        "da": 100,
+        "pa": 100
+    },
+    {
+        "category": "blog",
+        "name": "LinkedIn",
+        "url": "https://in.linkedin.com/",
+        "da": 99,
+        "pa": 86
+    },
+    {
+        "category": "blog",
+        "name": "Github",
+        "url": "https://github.com/",
+        "da": 96,
+        "pa": 92
+    },
+    {
+        "category": "blog",
+        "name": "Live Journal",
+        "url": "https://www.livejournal.com/",
+        "da": 93,
+        "pa": 99
+    },
+    {
+        "category": "blog",
+        "name": "OverBlog",
+        "url": "https://www.over-blog.com/",
+        "da": 93,
+        "pa": 90
+    },
+    {
+        "category": "blog",
+        "name": "Instructables",
+        "url": "https://www.instructables.com/",
+        "da": 93,
+        "pa": 76
+    },
+    {
+        "category": "blog",
+        "name": "Academia",
+        "url": "https://www.academia.edu/",
+        "da": 93,
+        "pa": 75
+    },
+    {
+        "category": "blog",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "blog",
+        "name": "Scoop.it",
+        "url": "https://www.scoop.it/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "blog",
+        "name": "eHow",
+        "url": "https://www.ehow.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "blog",
+        "name": "Patreon",
+        "url": "https://www.patreon.com/",
+        "da": 92,
+        "pa": 76
+    },
+    {
+        "category": "blog",
+        "name": "Bored Panda",
+        "url": "https://www.boredpanda.com/",
+        "da": 91,
+        "pa": 71
+    },
+    {
+        "category": "blog",
+        "name": "Patch",
+        "url": "https://patch.com/",
+        "da": 91,
+        "pa": 70
+    },
+    {
+        "category": "blog",
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/",
+        "da": 91,
+        "pa": 72
+    },
+    {
+        "category": "blog",
+        "name": "Boing Boing",
+        "url": "https://boingboing.net/blog",
+        "da": 89,
+        "pa": 56
+    },
+    {
+        "category": "blog",
+        "name": "Your Story",
+        "url": "https://yourstory.com/",
+        "da": 87,
+        "pa": 63
+    },
+    {
+        "category": "blog",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "blog",
+        "name": "DZone",
+        "url": "https://dzone.com/",
+        "da": 84,
+        "pa": 66
+    },
+    {
+        "category": "blog",
+        "name": "HubPages",
+        "url": "https://discover.hubpages.com/",
+        "da": 82,
+        "pa": 57
+    },
+    {
+        "category": "blog",
+        "name": "The Free Library",
+        "url": "https://www.thefreelibrary.com/",
+        "da": 80,
+        "pa": 67
+    },
+    {
+        "category": "blog",
+        "name": "APSense",
+        "url": "https://www.thefreelibrary.com/",
+        "da": 80,
+        "pa": 62
+    },
+    {
+        "category": "blog",
+        "name": "bcz",
+        "url": "https://bcz.com/",
+        "da": 76,
+        "pa": 59
+    },
+    {
+        "category": "blog",
+        "name": "buzzle",
+        "url": "https://buzzle.com/",
+        "da": 77,
+        "pa": 61
+    },
+    {
+        "category": "blog",
+        "name": "penzu",
+        "url": "https://penzu.com/",
+        "da": 76,
+        "pa": 68
+    },
+    {
+        "category": "blog",
+        "name": "My Trending Stories",
+        "url": "https://mytrendingstories.com/",
+        "da": 75,
+        "pa": 53
+    },
+    {
+        "category": "blog",
+        "name": "write.as",
+        "url": "https://write.as/",
+        "da": 70,
+        "pa": 61
+    },
+    {
+        "category": "blog",
+        "name": "e27",
+        "url": "https://e27.co/",
+        "da": 71,
+        "pa": 58
+    },
+    {
+        "category": "blog",
+        "name": "wakelet",
+        "url": "https://wakelet.com/",
+        "da": 71,
+        "pa": 68
+    },
+    {
+        "category": "blog",
+        "name": "Vocal",
+        "url": "https://vocal.media/",
+        "da": 70,
+        "pa": 59
+    },
+    {
+        "category": "blog",
+        "name": "Blog Directory Submission",
+        "url": "https://www.blogdirectorysubmission.com/",
+        "da": 70,
+        "pa": 48
+    },
+    {
+        "category": "blog",
+        "name": "Let’s Diskuss",
+        "url": "https://www.letsdiskuss.com/",
+        "da": 62,
+        "pa": 49
+    },
+    {
+        "category": "blog",
+        "name": "Nouw",
+        "url": "https://nouw.com/",
+        "da": 65,
+        "pa": 58
+    },
+    {
+        "category": "blog",
+        "name": "Blog Engage",
+        "url": "https://blogengage.com/",
+        "da": 68,
+        "pa": 53
+    },
+    {
+        "category": "blog",
+        "name": "TeLeType",
+        "url": "https://teletype.in/",
+        "da": 61,
+        "pa": 59
+    },
+    {
+        "category": "blog",
+        "name": "storeboard.com",
+        "url": "https://www.storeboard.com/",
+        "da": 62,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "MindsMag",
+        "url": "https://mindsmag.com/",
+        "da": 54,
+        "pa": 36
+    },
+    {
+        "category": "blog",
+        "name": "News To Buzz",
+        "url": "https://newstobuzz.com/",
+        "da": 54,
+        "pa": 33
+    },
+    {
+        "category": "blog",
+        "name": "uberant.com",
+        "url": "https://uberant.com/",
+        "da": 56,
+        "pa": 58
+    },
+    {
+        "category": "blog",
+        "name": "AbiLogic",
+        "url": "https://articles.abilogic.com/",
+        "da": 57,
+        "pa": 52
+    },
+    {
+        "category": "blog",
+        "name": "busika",
+        "url": "https://bukisa.com/",
+        "da": 56,
+        "pa": 52
+    },
+    {
+        "category": "blog",
+        "name": "MarketBusiness Times",
+        "url": "https://marketbusinesstimes.com/",
+        "da": 53,
+        "pa": 43
+    },
+    {
+        "category": "blog",
+        "name": "Apkevents",
+        "url": "https://apkevents.com/",
+        "da": 54,
+        "pa": 45
+    },
+    {
+        "category": "blog",
+        "name": "The Publishing Herald",
+        "url": "https://thepublishingherald.com/",
+        "da": 53,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "Easy Business Tricks",
+        "url": "https://easybusinesstricks.com/",
+        "da": 54,
+        "pa": 43
+    },
+    {
+        "category": "blog",
+        "name": "Know World",
+        "url": "https://knowworld365.com/",
+        "da": 52,
+        "pa": 45
+    },
+    {
+        "category": "blog",
+        "name": "Mcnezu",
+        "url": "https://mcnezu.com/",
+        "da": 51,
+        "pa": 43
+    },
+    {
+        "category": "blog",
+        "name": "TechFoodTrip",
+        "url": "https://techfoodtrip.com/",
+        "da": 53,
+        "pa": 39
+    },
+    {
+        "category": "blog",
+        "name": "Technolf",
+        "url": "https://technolf.com/",
+        "da": 53,
+        "pa": 39
+    },
+    {
+        "category": "blog",
+        "name": "HitUponViews",
+        "url": "https://www.hituponviews.com/",
+        "da": 52,
+        "pa": 33
+    },
+    {
+        "category": "blog",
+        "name": "Articleinon",
+        "url": "https://articleinon.com/",
+        "da": 52,
+        "pa": 43
+    },
+    {
+        "category": "blog",
+        "name": "Tiago Martinho",
+        "url": "https://www.tiagomartinho.com/",
+        "da": 52,
+        "pa": 27
+    },
+    {
+        "category": "blog",
+        "name": "The Mega News",
+        "url": "https://themeganews.com/",
+        "da": 51,
+        "pa": 37
+    },
+    {
+        "category": "blog",
+        "name": "SooperArticles",
+        "url": "https://www.sooperarticles.com/",
+        "da": 51,
+        "pa": 60
+    },
+    {
+        "category": "blog",
+        "name": "TECHNOLOS",
+        "url": "https://technoloss.com/",
+        "da": 52,
+        "pa": 42
+    },
+    {
+        "category": "blog",
+        "name": "Amazines",
+        "url": "https://www.amazines.com/",
+        "da": 49,
+        "pa": 59
+    },
+    {
+        "category": "blog",
+        "name": "Fabsswing",
+        "url": "https://fabsswing.com/",
+        "da": 48,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "Blogadda",
+        "url": "https://www.blogadda.com/",
+        "da": 45,
+        "pa": 64
+    },
+    {
+        "category": "blog",
+        "name": "PromotionWorld",
+        "url": "https://www.promotionworld.com/",
+        "da": 45,
+        "pa": 53
+    },
+    {
+        "category": "blog",
+        "name": "ArticleBiz",
+        "url": "https://articlebiz.com/",
+        "da": 43,
+        "pa": 53
+    },
+    {
+        "category": "blog",
+        "name": "FORTUNE",
+        "url": "https://fortunetelleroracle.com/",
+        "da": 43,
+        "pa": 53
+    },
+    {
+        "category": "blog",
+        "name": "Indiblogger",
+        "url": "https://www.indiblogger.in/",
+        "da": 40,
+        "pa": 64
+    },
+    {
+        "category": "blog",
+        "name": "Fuzia",
+        "url": "https://www.fuzia.com/",
+        "da": 43,
+        "pa": 50
+    },
+    {
+        "category": "blog",
+        "name": "Business Net",
+        "url": "https://ny.biznet-us.com/s",
+        "da": 42,
+        "pa": 43
+    },
+    {
+        "category": "blog",
+        "name": "Author",
+        "url": "https://www.authormagazine.org/index",
+        "da": 39,
+        "pa": 27
+    },
+    {
+        "category": "blog",
+        "name": "123ArticleOnline.com",
+        "url": "https://www.123articleonline.com/",
+        "da": 39,
+        "pa": 52
+    },
+    {
+        "category": "blog",
+        "name": "CompleteConnection",
+        "url": "https://www.completeconnection.ca/",
+        "da": 41,
+        "pa": 45
+    },
+    {
+        "category": "blog",
+        "name": "Bloggeries",
+        "url": "https://www.bloggeries.com/",
+        "da": 36,
+        "pa": 52
+    },
+    {
+        "category": "blog",
+        "name": "Blog Ville",
+        "url": "https://www.blog-ville.com/",
+        "da": 38,
+        "pa": 36
+    },
+    {
+        "category": "blog",
+        "name": "Articles For Website",
+        "url": "https://articlesforwebsite.com/",
+        "da": 36,
+        "pa": 48
+    },
+    {
+        "category": "blog",
+        "name": "Area19Delegate",
+        "url": "https://www.area19delegate.org/",
+        "da": 37,
+        "pa": 43
+    },
+    {
+        "category": "blog",
+        "name": "Article Wood",
+        "url": "https://www.articlewood.com/",
+        "da": 34,
+        "pa": 34
+    },
+    {
+        "category": "blog",
+        "name": "POPULARARTICLES",
+        "url": "https://popularticles.com/",
+        "da": 38,
+        "pa": 47
+    },
+    {
+        "category": "blog",
+        "name": "Other Articles",
+        "url": "https://www.otherarticles.com/",
+        "da": 31,
+        "pa": 51
+    },
+    {
+        "category": "blog",
+        "name": "Articles@PR3",
+        "url": "https://www.pr3-articles.com/",
+        "da": 54,
+        "pa": 47
+    },
+    {
+        "category": "blog",
+        "name": "Prolink Directory",
+        "url": "https://www.prolinkdirectory.com/",
+        "da": 32,
+        "pa": 54
+    },
+    {
+        "category": "blog",
+        "name": "Blog Collection",
+        "url": "https://www.blogs-collection.com/submit/",
+        "da": 33,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "Article Pedia",
+        "url": "https://articlepedia.xyz/",
+        "da": 35,
+        "pa": 45
+    },
+    {
+        "category": "blog",
+        "name": "Blog Directory",
+        "url": "https://www.blogdirs.com/",
+        "da": 30,
+        "pa": 55
+    },
+    {
+        "category": "blog",
+        "name": "Articles Reader",
+        "url": "https://www.articlesreader.com/",
+        "da": 32,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "Article Seen",
+        "url": "https://www.articleseen.com/",
+        "da": 30,
+        "pa": 48
+    },
+    {
+        "category": "blog",
+        "name": "Travel & Tourism Directory",
+        "url": "https://www.traveltourismdirectory.net/",
+        "da": 25,
+        "pa": 48
+    },
+    {
+        "category": "blog",
+        "name": "My Articles",
+        "url": "https://myarticles.io/",
+        "da": 26,
+        "pa": 39
+    },
+    {
+        "category": "blog",
+        "name": "Blog Certified",
+        "url": "https://www.blogcertified.com/",
+        "da": 25,
+        "pa": 32
+    },
+    {
+        "category": "blog",
+        "name": "The ARTICLE Trunk",
+        "url": "https://www.articletrunk.com/",
+        "da": 22,
+        "pa": 51
+    },
+    {
+        "category": "blog",
+        "name": "Finder Master Blogs",
+        "url": "https://blogs.findermaster.com/",
+        "da": 24,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "H1 Ad",
+        "url": "https://articles.h1ad.com/",
+        "da": 21,
+        "pa": 44
+    },
+    {
+        "category": "blog",
+        "name": "Storify",
+        "url": "https://storify.me/",
+        "da": 21,
+        "pa": 36
+    },
+    {
+        "category": "blog",
+        "name": "Blog Dir",
+        "url": "https://blogdir.co.uk/",
+        "da": 21,
+        "pa": 42
+    },
+    {
+        "category": "infographic",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "infographic",
+        "name": "SlideShare",
+        "url": "https://www.slideshare.net/",
+        "da": 95,
+        "pa": 86
+    },
+    {
+        "category": "infographic",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "infographic",
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/",
+        "da": 94,
+        "pa": 97
+    },
+    {
+        "category": "infographic",
+        "name": "X (formerly Twitter)",
+        "url": "https://twitter.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "infographic",
+        "name": "Pixabay",
+        "url": "https://pixabay.com/",
+        "da": 94,
+        "pa": 84
+    },
+    {
+        "category": "infographic",
+        "name": "Photobucket",
+        "url": "https://photobucket.com/",
+        "da": 93,
+        "pa": 88
+    },
+    {
+        "category": "infographic",
+        "name": "Pexels",
+        "url": "https://www.pexels.com/",
+        "da": 93,
+        "pa": 80
+    },
+    {
+        "category": "infographic",
+        "name": "Freepik",
+        "url": "https://www.freepik.com/",
+        "da": 93,
+        "pa": 81
+    },
+    {
+        "category": "infographic",
+        "name": "Flickr",
+        "url": "https://www.flickr.com/",
+        "da": 92,
+        "pa": 95
+    },
+    {
+        "category": "infographic",
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "da": 92,
+        "pa": 84
+    },
+    {
+        "category": "infographic",
+        "name": "Reddit Infographics",
+        "url": "https://www.reddit.com/r/Infographics/",
+        "da": 92,
+        "pa": 71
+    },
+    {
+        "category": "infographic",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "infographic",
+        "name": "9GAG",
+        "url": "https://9gag.com/",
+        "da": 86,
+        "pa": 73
+    },
+    {
+        "category": "infographic",
+        "name": "Daily Infographic",
+        "url": "https://dailyinfographic.com/",
+        "da": 80,
+        "pa": 58
+    },
+    {
+        "category": "infographic",
+        "name": "Infogram",
+        "url": "https://infogram.com/",
+        "da": 80,
+        "pa": 71
+    },
+    {
+        "category": "infographic",
+        "name": "MorgueFile",
+        "url": "https://morguefile.com/",
+        "da": 76,
+        "pa": 66
+    },
+    {
+        "category": "infographic",
+        "name": "Cool Infographics",
+        "url": "https://coolinfographics.com/",
+        "da": 60,
+        "pa": 52
+    },
+    {
+        "category": "infographic",
+        "name": "Visualistan",
+        "url": "https://www.visualistan.com/",
+        "da": 59,
+        "pa": 48
+    },
+    {
+        "category": "infographic",
+        "name": "Elearning Infographics",
+        "url": "https://elearninginfographics.com/submit-education-infographics/",
+        "da": 59,
+        "pa": 42
+    },
+    {
+        "category": "infographic",
+        "name": "Infographic Journal",
+        "url": "https://infographicjournal.com/",
+        "da": 57,
+        "pa": 53
+    },
+    {
+        "category": "infographic",
+        "name": "Rankfrog",
+        "url": "https://rankfrog.com/infographic-submission-sites/",
+        "da": 54,
+        "pa": 23
+    },
+    {
+        "category": "infographic",
+        "name": "Infographics Archive",
+        "url": "https://www.infographicsarchive.com/submitinfographics/",
+        "da": 54,
+        "pa": 45
+    },
+    {
+        "category": "infographic",
+        "name": "I Love Charts",
+        "url": "https://ilovecharts.tumblr.com/",
+        "da": 52,
+        "pa": 75
+    },
+    {
+        "category": "infographic",
+        "name": "graphs.net",
+        "url": "https://graphs.net/",
+        "da": 52,
+        "pa": 53
+    },
+    {
+        "category": "infographic",
+        "name": "Info Graphics Mania",
+        "url": "https://infographicsmania.com/infographic-submission/",
+        "da": 50,
+        "pa": 35
+    },
+    {
+        "category": "infographic",
+        "name": "Infographics Zone",
+        "url": "https://www.infographicszone.com/",
+        "da": 48,
+        "pa": 45
+    },
+    {
+        "category": "infographic",
+        "name": "Infographic Portal",
+        "url": "https://www.infographicportal.com/",
+        "da": 47,
+        "pa": 42
+    },
+    {
+        "category": "infographic",
+        "name": "Submit Infographics",
+        "url": "https://submitinfographics.com/",
+        "da": 47,
+        "pa": 50
+    },
+    {
+        "category": "infographic",
+        "name": "Infographic List",
+        "url": "https://infographiclist.com/",
+        "da": 45,
+        "pa": 47
+    },
+    {
+        "category": "infographic",
+        "name": "Gifographics",
+        "url": "https://gifographics.co/",
+        "da": 42,
+        "pa": 40
+    },
+    {
+        "category": "infographic",
+        "name": "IngographicLabs",
+        "url": "https://infographiclabs.com/",
+        "da": 41,
+        "pa": 47
+    },
+    {
+        "category": "infographic",
+        "name": "Infographic BEE",
+        "url": "https://www.infographicbee.com/submit-infographics/",
+        "da": 41,
+        "pa": 36
+    },
+    {
+        "category": "infographic",
+        "name": "Love Infographics",
+        "url": "https://www.loveinfographics.com/",
+        "da": 41,
+        "pa": 49
+    },
+    {
+        "category": "infographic",
+        "name": "Media Caffeine",
+        "url": "https://mediacaffeine.com/",
+        "da": 38,
+        "pa": 41
+    },
+    
+{
+    "category": "infographic",
+    "name": "Shit Hot Infographics",
+    "url": "https://www.shithot.co.uk/",
+    "da": 36,
+    "pa": 36
+},
+{
+    "category": "infographic",
+    "name": "InfoCarnivore.com",
+    "url": "https://infocarnivore.com/submit-an-infographic/",
+    "da": 35,
+    "pa": 31
+},
+{
+    "category": "infographic",
+    "name": "Infographic Website",
+    "url": "https://infographicsite.com/submit-infographic/",
+    "da": 32,
+    "pa": 40
+},
+{
+    "category": "infographic",
+    "name": "Infographics Posters",
+    "url": "https://www.infographicsposters.com/",
+    "da": 30,
+    "pa": 46
+},
+{
+    "category": "infographic",
+    "name": "Infographic Plaza",
+    "url": "https://infographicplaza.com/",
+    "da": 30,
+    "pa": 45
+},
+{
+    "category": "infographic",
+    "name": "Infographic Post",
+    "url": "https://www.infographicpost.com/",
+    "da": 30,
+    "pa": 47
+},
+{
+    "category": "infographic",
+    "name": "Cool Daily Infographics",
+    "url": "https://www.cooldailyinfographics.com/",
+    "da": 28,
+    "pa": 51
+},
+{
+    "category": "infographic",
+    "name": "dumbfunded",
+    "url": "https://www.dumbfunded.co.uk/infographics/submit-your-infographic/",
+    "da": 27,
+    "pa": 29
+},
+{
+    "category": "infographic",
+    "name": "The Infographics",
+    "url": "https://theinfographics.blogspot.com/",
+    "da": 26,
+    "pa": 35
+},
+{
+    "category": "infographic",
+    "name": "Video Infographic",
+    "url": "https://videoinfographic.com/",
+    "da": 24,
+    "pa": 41
+},
+{
+    "category": "infographic",
+    "name": "Infographic Database",
+    "url": "https://infographicdatabase.com/",
+    "da": 24,
+    "pa": 39
+},
+{
+    "category": "infographic",
+    "name": "VISUALLATIC",
+    "url": "https://www.visulattic.com/",
+    "da": 24,
+    "pa": 36
+},
+{
+    "category": "social",
+    "name": "Facebook",
+    "url": "https://www.facebook.com/",
+    "da": 96,
+    "pa": 100,
+    "extra": "Year: 2004, MAU: 2.9 billion, Founders: Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz & Chris Hughes"
+},
+{
+    "category": "social",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/",
+    "da": 100,
+    "pa": 100,
+    "extra": "Year: 2005, MAU: 2.2 billion, Founders: Chad Hurley, Steve Chen & Jawed Karim"
+},
+{
+    "category": "social",
+    "name": "Instagram",
+    "url": "https://www.instagram.com/",
+    "da": 94,
+    "pa": 100,
+    "extra": "Year: 2010, MAU: 1.2 billion, Founders: Kevin Systrom & Mike Krieger (Presently owned by Meta)"
+},
+{
+    "category": "social",
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com/",
+    "da": 94,
+    "pa": 97,
+    "extra": "Year: 2009, MAU: 459 million, Founders: Ben Silbermann, Paul Sciarra & Evan Sharp"
+},
+{
+    "category": "social",
+    "name": "Quora",
+    "url": "https://www.quora.com/",
+    "da": 93,
+    "pa": 79,
+    "extra": "Year: 2009, MAU: 300 million, Founders: Adam D’Angelo & Charlie Cheever"
+},
+{
+    "category": "social",
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/",
+    "da": 99,
+    "pa": 86,
+    "extra": "Year: 2003, MAU: 310 million, Founders: Reid Hoffman & Eric Ly"
+},
+{
+    "category": "social",
+    "name": "Twitter",
+    "url": "https://twitter.com/",
+    "da": 94,
+    "pa": 100,
+    "extra": "Year: 2006, MAU: 396 million, Founders: Jack Dorsey, Noah Glass, Biz Stone & Evan Williams"
+},
+{
+    "category": "social",
+    "name": "WhatsApp",
+    "url": "https://www.whatsapp.com/",
+    "da": 91,
+    "pa": 76,
+    "extra": "Year: 2009, MAU: 2 billion, Founders: Brian Acton, Jan Koum (Presently owned by Meta)"
+},
+{
+    "category": "social",
+    "name": "Telegram",
+    "url": "https://telegram.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2013, MAU: 700 million, Founders: Nikolai & Pavel Durov"
+},
+{
+    "category": "social",
+    "name": "Reddit",
+    "url": "https://www.reddit.com/",
+    "da": 92,
+    "pa": 91,
+    "extra": "Year: 2005, MAU: 430 million, Founders: Steve Huffman, Aaron Swartz & Alexis Ohanian"
+},
+{
+    "category": "social",
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com/",
+    "da": 86,
+    "pa": 100,
+    "extra": "Year: 2007, MAU: 376 million, Founders: David Karp"
+},
+{
+    "category": "social",
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com/",
+    "da": 92,
+    "pa": 74,
+    "extra": "Year: 2011, MAU: 528 million, Founders: Evan Spiegel, Bobby Murphy & Reggie Brown (Presently owned by Snap Inc.)"
+},
+{
+    "category": "social",
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/",
+    "da": 92,
+    "pa": 67,
+    "extra": "Year: 2017, MAU: 732 million, Founders: Zhang Yiming (Presently owned by ByteDance)"
+},
+{
+    "category": "social",
+    "name": "Skype",
+    "url": "https://www.skype.com/",
+    "da": 91,
+    "pa": 74,
+    "extra": "Year: 2003, MAU: 300 million, Founders: Priit Kasesalu & Jaan Tallinn (Presently owned by Microsoft)"
+},
+{
+    "category": "social",
+    "name": "Messenger",
+    "url": "https://www.messenger.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.3 billion, Founders: Meta"
+},
+{
+    "category": "social",
+    "name": "WeChat",
+    "url": "https://www.wechat.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.2 billion, Founders: Tencent"
+},
+{
+    "category": "social",
+    "name": "Douyin",
+    "url": "https://www.douyin.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2016, MAU: 600 million, Founders: ByteDance"
+},
+{
+    "category": "social",
+    "name": "QQ",
+    "url": "https://www.qq.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 595 million, Founders: Tencent"
+},
+{
+    "category": "social",
+    "name": "Weibo",
+    "url": "https://www.weibo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 521 million, Founders: Sina Corporation"
+},
+{
+    "category": "social",
+    "name": "Teams",
+    "url": "https://www.microsoft.com/en-us/microsoft-teams/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2016, MAU: 250 million, Founders: Microsoft"
+},
+{
+    "category": "social",
+    "name": "Likee",
+    "url": "https://likee.video/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2017, MAU: 150 million, Founders: Jason Hu (Presently owned by Bigo Live)"
+},
+{
+    "category": "social",
+    "name": "Viber",
+    "url": "https://www.viber.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2010, MAU: 260 million, Founders: Igor Magazinnik & Talmon Marco (Presently owned by Rakuten Group Inc.)"
+},
+{
+    "category": "social",
+    "name": "Zoom",
+    "url": "https://zoom.us/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2012, MAU: 300 million, Founders: Eric Yuan (Presently owned by Zoom Video Communications)"
+},
+{
+    "category": "social",
+    "name": "FaceTime",
+    "url": "https://www.apple.com/facetime/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.4 billion, Founders: Apple"
+},
+{
+    "category": "social",
+    "name": "iMessage",
+    "url": "https://www.apple.com/imessage/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 1.4 billion, Founders: Apple"
+},
+{
+    "category": "social",
+    "name": "Google Meet",
+    "url": "https://meet.google.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2017, MAU: 100 million, Founders: Google"
+},
+{
+    "category": "social",
+    "name": "Photobucket",
+    "url": "https://photobucket.com/",
+    "da": 93,
+    "pa": 88,
+    "extra": "Year: 2003, MAU: 100 million, Founders: Allex Welch & Darren Crystal (Presently owned by Photobucket Corporation)"
+},
+{
+    "category": "social",
+    "name": "Qzone",
+    "url": "https://qzone.qq.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 517 million, Founders: Tencent"
+},
+{
+    "category": "social",
+    "name": "Kuaishou",
+    "url": "https://www.kuaishou.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 481 million, Founders: Beijing Kuaishou Technology Co."
+},
+{
+    "category": "social",
+    "name": "imo",
+    "url": "https://imo.im/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2007, MAU: 200 million, Founders: PageBites"
+},
+{
+    "category": "social",
+    "name": "Tieba",
+    "url": "https://tieba.baidu.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 300 million, Founders: Robin Li Yanhong (Presently owned by Baidu)"
+},
+{
+    "category": "social",
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 140 million, Founders: Justin Kan, Emmett Shear, Michael Seibel, Kyle Vogt & Kevin Lin (Presently owned by Amazon)"
+},
+{
+    "category": "social",
+    "name": "Picsart",
+    "url": "https://picsart.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 150 million, Founders: Hovhannes Avoyan, Artavazd Mehrabyan & Mikayel Vardanyan"
+},
+{
+    "category": "social",
+    "name": "Line",
+    "url": "https://line.me/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 178 million, Founders: NHN Japan (Presently owned by Line Corporation)"
+},
+{
+    "category": "social",
+    "name": "Medium",
+    "url": "https://medium.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2012, MAU: 100 million, Founders: Evan Williams"
+},
+{
+    "category": "social",
+    "name": "Stack Exchange",
+    "url": "https://stackexchange.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 100 million, Founders: Jeff Atwood & Joel Spolsky (Presently owned by Stack Exchange Inc.)"
+},
+{
+    "category": "social",
+    "name": "Discord",
+    "url": "https://discord.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2015, MAU: 140 million, Founders: Discord Inc."
+},
+{
+    "category": "social",
+    "name": "Flickr",
+    "url": "https://www.flickr.com/",
+    "da": 92,
+    "pa": 95,
+    "extra": "Year: 2005, MAU: 100 million, Founders: Stewart Butterfield & Caterina Fake"
+},
+{
+    "category": "social",
+    "name": "Foursquare",
+    "url": "https://foursquare.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 100 million, Founders: Dennis Crowley & Naveen Selvadurai"
+},
+{
+    "category": "social",
+    "name": "Badoo",
+    "url": "https://badoo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 115 million, Founders: Andrey Andreev (Presently owned by Bumble Inc.)"
+},
+{
+    "category": "social",
+    "name": "Vimeo",
+    "url": "https://vimeo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 200 million, Founders: Zach Klein & Jake Lodwick (Presently owned by Connected Ventures)"
+},
+{
+    "category": "social",
+    "name": "Google+",
+    "url": "https://plus.google.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2011, MAU: 198 million, Founders: Vic Gundotra & Bradley Horowitz (Presently owned by Google)"
+},
+{
+    "category": "social",
+    "name": "Digg",
+    "url": "https://digg.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 100 million, Founders: Kevin Rose (Presently owned by BuySellAds Inc.)"
+},
+{
+    "category": "social",
+    "name": "Taringa",
+    "url": "https://www.taringa.net/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 60 million, Founders: Fernando Sanz (Presently owned by Hernán Botbol & Matías Botbol)"
+},
+{
+    "category": "social",
+    "name": "Myspace",
+    "url": "https://myspace.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 15 million, Founders: Chris DeWolfe, Tom Anderson & Jon Hart (Presently owned by Viant Technology LLC)"
+},
+{
+    "category": "social",
+    "name": "Steemit",
+    "url": "https://steemit.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2016, MAU: 1 million, Founders: Steemit Inc."
+},
+{
+    "category": "social",
+    "name": "Scribd",
+    "url": "https://www.scribd.com/",
+    "da": 94,
+    "pa": 81,
+    "extra": "Year: 2007, MAU: 100 million, Founders: Trip Alder, Jared Friedman & Tikhon Bernstam"
+},
+{
+    "category": "social",
+    "name": "Yelp",
+    "url": "https://www.yelp.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 178 million, Founders: Jeremy Stoppelman & Russel Simmons"
+},
+{
+    "category": "social",
+    "name": "Triller",
+    "url": "https://triller.co/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2015, MAU: 65 million, Founders: David Leiberman & Sammy Rubin (Presently owned by TrillerNet)"
+},
+{
+    "category": "social",
+    "name": "Academia",
+    "url": "https://www.academia.edu/",
+    "da": 93,
+    "pa": 75,
+    "extra": "Year: 2008, MAU: 71 million, Founders: Richard Price"
+},
+{
+    "category": "social",
+    "name": "Slashdot",
+    "url": "https://slashdot.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1997, MAU: 3.7 million, Founders: Rob Malda & Jeff Bates (Presently owned by Slashdot Media)"
+},
+{
+    "category": "social",
+    "name": "Goodreads",
+    "url": "https://www.goodreads.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 125 million, Founders: Otis Chandler & Elizabeth Khuri (Presently owned by Amazon)"
+},
+{
+    "category": "social",
+    "name": "Habbo",
+    "url": "https://www.habbo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2000, MAU: 800000, Founders: Sampo Karjalainen & Aapo Kyrölä (Presently owned by Sulake Oy)"
+},
+{
+    "category": "social",
+    "name": "NING",
+    "url": "https://www.ning.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 90000, Founders: Marc Andreessen & Gina Bianchini"
+},
+{
+    "category": "social",
+    "name": "Classmates",
+    "url": "https://www.classmates.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1995, MAU: 70 million, Founders: Randy Conrads (Presently owned by H.I.G. Capital)"
+},
+{
+    "category": "social",
+    "name": "Tagged",
+    "url": "https://www.tagged.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 10 million, Founders: Greg Tseng & Johann Schleier-Smith"
+},
+{
+    "category": "social",
+    "name": "MeetUp",
+    "url": "https://www.meetup.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2002, MAU: 28 million, Founders: AlleyCorp"
+},
+{
+    "category": "social",
+    "name": "Flixster",
+    "url": "https://www.flixster.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 2.98 million, Founders: Joe Greenstien & Saran Chari (Presently owned by Fandango Media)"
+},
+{
+    "category": "social",
+    "name": "MyHeritage",
+    "url": "https://www.myheritage.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 80 million, Founders: Gilad Japhet (Presently owned by MyHeritage ltd.)"
+},
+{
+    "category": "social",
+    "name": "Multiply",
+    "url": "https://multiply.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 11 million, Founders: Peter Pezaris, Michael Gersh, & David Hersh (Presently owned by Stefan Magdalinski)"
+},
+{
+    "category": "social",
+    "name": "Renren",
+    "url": "https://www.renren.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 30 million, Founders: Wang Xing, Wang Huiwen & Lai Binqiang"
+},
+{
+    "category": "social",
+    "name": "Imgur",
+    "url": "https://imgur.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 300 million, Founders: Alan Schaaf (Presently owned by Medialab AI Inc.)"
+},
+{
+    "category": "social",
+    "name": "SkyRock",
+    "url": "https://skyrock.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2002, MAU: 21 million, Founders: Téléfun"
+},
+{
+    "category": "social",
+    "name": "Fotki",
+    "url": "https://www.fotki.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1998, MAU: 1 million, Founders: Fotki Inc."
+},
+{
+    "category": "social",
+    "name": "Zorpia",
+    "url": "https://www.zorpia.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 2 million, Founders: Jeffrey Ng (Presently owned by Zorpia Co. Ltd.)"
+},
+{
+    "category": "social",
+    "name": "Ello",
+    "url": "https://ello.co/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2014, MAU: 1 million, Founders: Talenthouse"
+},
+{
+    "category": "social",
+    "name": "MocoSpace",
+    "url": "https://www.mocospace.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 3.27 million, Founders: Jamie Hall and Justin Siegel"
+},
+{
+    "category": "social",
+    "name": "Netlog",
+    "url": "https://www.netlog.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 92 million, Founders: Lorenz Bogaert and Toon Coppens"
+},
+{
+    "category": "social",
+    "name": "Xing",
+    "url": "https://www.xing.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 10 million, Founders: New Work SE"
+},
+{
+    "category": "social",
+    "name": "Giphy",
+    "url": "https://giphy.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2013, MAU: 250 million, Founders: Jace Cooke & Alex Chung (Presently owned by Meta)"
+},
+{
+    "category": "social",
+    "name": "DeviantArt",
+    "url": "https://www.deviantart.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2000, MAU: 45 million, Founders: Scott Jarkoff, Matthew Stephens & Angelo Sotira (Presently owned by Wix.com)"
+},
+{
+    "category": "social",
+    "name": "Bebo",
+    "url": "https://www.bebo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 10.7 million, Founders: Michael Birch & Xochi Birch (Presently owned by The Monkey Inferno)"
+},
+{
+    "category": "social",
+    "name": "Cyworld",
+    "url": "https://www.cyworld.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2014, MAU: 35 million, Founders: CyworldZ"
+},
+{
+    "category": "social",
+    "name": "SixDegrees",
+    "url": "https://www.sixdegrees.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1997, MAU: 3500000, Founders: Andrew Weinreich"
+},
+{
+    "category": "social",
+    "name": "LiveJournal",
+    "url": "https://www.livejournal.com/",
+    "da": 93,
+    "pa": 99,
+    "extra": "Year: 1999, MAU: 30 million, Founders: Brad Fitzpatrick (Presently owned by Rambler Media Group)"
+},
+{
+    "category": "social",
+    "name": "Tuenti",
+    "url": "https://www.tuenti.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 15 million, Founders: Zaryn Dentzel, Félix Ruiz Hernández, Kenny Bentley, Adeyemi Ajao & Joaquín Ayuso de Pául (Presently owned by Telefonica)"
+},
+{
+    "category": "social",
+    "name": "Mixi",
+    "url": "https://mixi.jp/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 14 million, Founders: Kenji Kasahara & Batara Eto (Presently owned by Mixi Inc.)"
+},
+{
+    "category": "social",
+    "name": "Buffer",
+    "url": "https://buffer.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1999, MAU: 4.5 million, Founders: Joel Gascoigne (Presently owned by Buffer Inc.)"
+},
+{
+    "category": "social",
+    "name": "Nextdoor",
+    "url": "https://nextdoor.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 58 million, Founders: Nirav Tolia, Prakash Janakiraman, David Wiesen & Sarah Leary (Presently owned by Nextdoor Holdings, Inc.)"
+},
+{
+    "category": "social",
+    "name": "8tracks.com",
+    "url": "https://8tracks.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 1 million, Founders: David Porter & Remi Gabillet"
+},
+{
+    "category": "social",
+    "name": "Ravelry",
+    "url": "https://www.ravelry.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2007, MAU: 1 million, Founders: Cassidy & Jessica Forbes (Presently owned by Ravelry LLC)"
+},
+{
+    "category": "social",
+    "name": "Athlinks",
+    "url": "https://www.athlinks.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2001, MAU: 591900, Founders: Life Time Fitness"
+},
+{
+    "category": "social",
+    "name": "beBee",
+    "url": "https://www.bebee.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2020, MAU: 1.4 million, Founders: Rafael García, Juan Imaz & Javier CR"
+},
+{
+    "category": "social",
+    "name": "Brainly",
+    "url": "https://brainly.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2009, MAU: 350 million, Founders: Michał Borkowski, Łukasz Haluch & Tomasz Kraus"
+},
+{
+    "category": "social",
+    "name": "Buzznet",
+    "url": "https://buzznet.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 1 million, Founders: Anthony Batt, Steve Haldane, Marc Brown & Kevin Woolery"
+},
+{
+    "category": "social",
+    "name": "CaringBridge",
+    "url": "https://www.caringbridge.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1997, MAU: 1.3 million, Founders: Sona Mehring"
+},
+{
+    "category": "social",
+    "name": "Fishbrain",
+    "url": "https://fishbrain.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2010, MAU: 8 million, Founders: Jens Persson & Johan Attby"
+},
+{
+    "category": "social",
+    "name": "CafeMom",
+    "url": "https://www.cafemom.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 8.6 million, Founders: Michael Sanchez & Andrew Shue (Presently owned by Wild Sky Media)"
+},
+{
+    "category": "social",
+    "name": "LinguaLeo",
+    "url": "https://lingualeo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2010, MAU: 20 million, Founders: Aynur Abdulnasurov"
+},
+{
+    "category": "social",
+    "name": "LibraryThing",
+    "url": "https://www.librarything.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 2.5 million, Founders: Tim Spalding (Presently owned by AbeBooks, CIG & Tim Spalding)"
+},
+{
+    "category": "social",
+    "name": "Open Diary",
+    "url": "https://www.opendiary.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 1998, MAU: 1 million, Founders: Bruce Ableson (Presently owned by Blather Inc.)"
+},
+{
+    "category": "social",
+    "name": "We Heart It",
+    "url": "https://weheartit.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 45 million, Founders: Fabio Giolito (Presently owned by Super Basic LLC)"
+},
+{
+    "category": "social",
+    "name": "Viadeo",
+    "url": "https://www.viadeo.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2004, MAU: 8 million, Founders: Dan Serfaty & Thierry Lunati"
+},
+{
+    "category": "social",
+    "name": "Delicious",
+    "url": "https://del.icio.us/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2003, MAU: 1 million, Founders: Joshua Schachter & Peter Gadjokov (Presently owned by Maciej Ceglowski)"
+},
+{
+    "category": "social",
+    "name": "Yammer",
+    "url": "https://www.yammer.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2008, MAU: 1 million, Founders: David O. Sacks & Adam Pisoni (Presently owned by Microsoft Corp.)"
+},
+{
+    "category": "social",
+    "name": "Reverbnation",
+    "url": "https://www.reverbnation.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 4 million, Founders: BandLab"
+},
+{
+    "category": "social",
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2013, MAU: 175 million, Founders: Alexander Ljung & Eric Wahlforss (Presently owned by SoundCloud Ltd.)"
+},
+{
+    "category": "social",
+    "name": "Cellufun",
+    "url": "https://www.cellufun.com/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2005, MAU: 2 million, Founders: Stephene Dacek, Cary Torkelson & Arthur Goikhman"
+},
+{
+    "category": "social",
+    "name": "DailyStrength",
+    "url": "https://www.dailystrength.org/",
+    "da": 91,
+    "pa": 67,
+    "extra": "Year: 2006, MAU: 1 million, Founders: Doug Hirsch, Lars Nilsen & Josh DeFord"
+},
+    {
+        "category": "article_submission",
+        "name": "Blogger",
+        "url": "https://www.blogger.com/",
+        "da": 100,
+        "pa": 100
+    },
+    {
+        "category": "article_submission",
+        "name": "LinkedIn",
+        "url": "https://in.linkedin.com/",
+        "da": 99,
+        "pa": 86
+    },
+    {
+        "category": "article_submission",
+        "name": "Google Sites",
+        "url": "https://sites.google.com/",
+        "da": 97,
+        "pa": 85
+    },
+    {
+        "category": "article_submission",
+        "name": "Github",
+        "url": "https://github.com/",
+        "da": 96,
+        "pa": 92
+    },
+    {
+        "category": "article_submission",
+        "name": "Live Journal",
+        "url": "https://www.livejournal.com/",
+        "da": 93,
+        "pa": 99
+    },
+    {
+        "category": "article_submission",
+        "name": "Quora",
+        "url": "https://www.quora.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "article_submission",
+        "name": "Instructables",
+        "url": "https://www.instructables.com/",
+        "da": 93,
+        "pa": 76
+    },
+    {
+        "category": "article_submission",
+        "name": "Academia",
+        "url": "https://www.academia.edu/",
+        "da": 93,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "da": 92,
+        "pa": 91
+    },
+    {
+        "category": "article_submission",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "Scoop.it",
+        "url": "https://www.scoop.it/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "ehow",
+        "url": "https://www.ehow.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "article_submission",
+        "name": "Patreon",
+        "url": "https://www.patreon.com/c/writing",
+        "da": 92,
+        "pa": 57
+    },
+    {
+        "category": "article_submission",
+        "name": "Bored Panda",
+        "url": "https://www.boredpanda.com/",
+        "da": 91,
+        "pa": 71
+    },
+    {
+        "category": "article_submission",
+        "name": "Patch",
+        "url": "https://patch.com/",
+        "da": 91,
+        "pa": 70
+    },
+    {
+        "category": "article_submission",
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/",
+        "da": 90,
+        "pa": 72
+    },
+    {
+        "category": "article_submission",
+        "name": "Your Story",
+        "url": "https://yourstory.com/",
+        "da": 87,
+        "pa": 63
+    },
+    {
+        "category": "article_submission",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "article_submission",
+        "name": "DZone",
+        "url": "https://dzone.com/",
+        "da": 84,
+        "pa": 66
+    },
+    {
+        "category": "article_submission",
+        "name": "HubPages",
+        "url": "https://discover.hubpages.com/",
+        "da": 81,
+        "pa": 57
+    },
+    {
+        "category": "article_submission",
+        "name": "The Free Library",
+        "url": "https://www.thefreelibrary.com/",
+        "da": 80,
+        "pa": 67
+    },
+    {
+        "category": "article_submission",
+        "name": "APSense",
+        "url": "https://www.apsense.com/",
+        "da": 80,
+        "pa": 62
+    },
+    {
+        "category": "article_submission",
+        "name": "buzzle",
+        "url": "https://buzzle.com/",
+        "da": 77,
+        "pa": 61
+    },
+    {
+        "category": "article_submission",
+        "name": "ARTICLESBASE",
+        "url": "https://articlesbase.com/",
+        "da": 77,
+        "pa": 60
+    },
+    {
+        "category": "article_submission",
+        "name": "penzu",
+        "url": "https://penzu.com/",
+        "da": 76,
+        "pa": 68
+    },
+    {
+        "category": "article_submission",
+        "name": "bcz",
+        "url": "https://bcz.com/",
+        "da": 76,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "My Trending Stories",
+        "url": "https://mytrendingstories.com/",
+        "da": 75,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "e27",
+        "url": "https://e27.co/",
+        "da": 71,
+        "pa": 58
+    },
+    {
+        "category": "article_submission",
+        "name": "wakelet",
+        "url": "https://wakelet.com/",
+        "da": 71,
+        "pa": 68
+    },
+    {
+        "category": "article_submission",
+        "name": "write.as",
+        "url": "https://write.as/",
+        "da": 69,
+        "pa": 61
+    },
+    {
+        "category": "article_submission",
+        "name": "Vocal",
+        "url": "https://vocal.media/",
+        "da": 69,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "Nouw",
+        "url": "https://nouw.com/",
+        "da": 65,
+        "pa": 58
+    },
+    {
+        "category": "article_submission",
+        "name": "Let’s Diskuss",
+        "url": "https://www.letsdiskuss.com/",
+        "da": 61,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "TeLeType",
+        "url": "https://teletype.in/",
+        "da": 61,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "storeboard.com",
+        "url": "https://www.storeboard.com/home.asp",
+        "da": 61,
+        "pa": 63
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles Factory",
+        "url": "https://www.articlesfactory.com/",
+        "da": 57,
+        "pa": 63
+    },
+    {
+        "category": "article_submission",
+        "name": "Upload Article",
+        "url": "https://uploadarticle.com/",
+        "da": 57,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "AbiLogic",
+        "url": "https://articles.abilogic.com/s",
+        "da": 56,
+        "pa": 52
+    },
+    {
+        "category": "article_submission",
+        "name": "busika",
+        "url": "https://bukisa.com/",
+        "da": 56,
+        "pa": 52
+    },
+    {
+        "category": "article_submission",
+        "name": "uberant.com",
+        "url": "https://uberant.com/",
+        "da": 56,
+        "pa": 58
+    },
+    {
+        "category": "article_submission",
+        "name": "MindsMag",
+        "url": "https://mindsmag.com/",
+        "da": 54,
+        "pa": 36
+    },
+    {
+        "category": "article_submission",
+        "name": "News To Buzz",
+        "url": "https://newstobuzz.com/",
+        "da": 54,
+        "pa": 34
+    },
+    {
+        "category": "article_submission",
+        "name": "Apkevents",
+        "url": "https://apkevents.com/",
+        "da": 54,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "Easy Business Tricks",
+        "url": "https://easybusinesstricks.com/",
+        "da": 54,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "MarketBusinessTimes",
+        "url": "https://marketbusinesstimes.com/",
+        "da": 53,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "The Publishing Herald",
+        "url": "https://thepublishingherald.com/",
+        "da": 53,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "Know World",
+        "url": "https://knowworld365.com/",
+        "da": 53,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "TechFoodTrip",
+        "url": "https://techfoodtrip.com/",
+        "da": 53,
+        "pa": 39
+    },
+    {
+        "category": "article_submission",
+        "name": "Technolf",
+        "url": "https://technolf.com/",
+        "da": 53,
+        "pa": 39
+    },
+    {
+        "category": "article_submission",
+        "name": "HitUponViews",
+        "url": "https://www.hituponviews.com/",
+        "da": 52,
+        "pa": 33
+    },
+    {
+        "category": "article_submission",
+        "name": "Articleinon",
+        "url": "https://articleinon.com/",
+        "da": 52,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "Tiago Martinho",
+        "url": "www.tiagomartinho.com/",
+        "da": 52,
+        "pa": 27
+    },
+    {
+        "category": "article_submission",
+        "name": "The Mega News",
+        "url": "https://themeganews.com/",
+        "da": 52,
+        "pa": 37
+    },
+    {
+        "category": "article_submission",
+        "name": "SooperArticles",
+        "url": "https://www.sooperarticles.com/",
+        "da": 51,
+        "pa": 60
+    },
+    {
+        "category": "article_submission",
+        "name": "TECHNOLOS",
+        "url": "https://technoloss.com/",
+        "da": 51,
+        "pa": 42
+    },
+    {
+        "category": "article_submission",
+        "name": "Mcnezu",
+        "url": "https://mcnezu.com/",
+        "da": 51,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "Amazines",
+        "url": "https://www.amazines.com/",
+        "da": 49,
+        "pa": 59
+    },
+    {
+        "category": "article_submission",
+        "name": "Fabsswing",
+        "url": "https://fabsswing.com/",
+        "da": 49,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "PromotionWorld",
+        "url": "https://www.promotionworld.com/",
+        "da": 45,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "Article Biz",
+        "url": "https://articlebiz.com/",
+        "da": 43,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "FORTUNE",
+        "url": "https://fortunetelleroracle.com/",
+        "da": 43,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "Business Net",
+        "url": "https://ny.biznet-us.com/",
+        "da": 42,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "Fuzia",
+        "url": "https://www.fuzia.com/",
+        "da": 41,
+        "pa": 53
+    },
+    {
+        "category": "article_submission",
+        "name": "CompleteConnection",
+        "url": "https://www.completeconnection.ca/",
+        "da": 41,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "Author Magazine",
+        "url": "https://www.authormagazine.org/",
+        "da": 39,
+        "pa": 40
+    },
+    {
+        "category": "article_submission",
+        "name": "123ArticleOnline.com",
+        "url": "https://www.123articleonline.com/",
+        "da": 39,
+        "pa": 52
+    },
+    {
+        "category": "article_submission",
+        "name": "Area19Delegate",
+        "url": "https://www.area19delegate.org/",
+        "da": 37,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles For Website",
+        "url": "https://articlesforwebsite.com/",
+        "da": 36,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "POPULARARTICLES",
+        "url": "https://popularticles.com/",
+        "da": 36,
+        "pa": 46
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles@PR3",
+        "url": "https://www.pr3-articles.com/",
+        "da": 34,
+        "pa": 46
+    },
+    {
+        "category": "article_submission",
+        "name": "Other Articles",
+        "url": "https://www.otherarticles.com/",
+        "da": 33,
+        "pa": 50
+    },
+    {
+        "category": "article_submission",
+        "name": "Article Pedia",
+        "url": "https://articlepedia.xyz/",
+        "da": 33,
+        "pa": 45
+    },
+    {
+        "category": "article_submission",
+        "name": "Prolink Directory",
+        "url": "https://www.prolinkdirectory.com/",
+        "da": 32,
+        "pa": 54
+    },
+    {
+        "category": "article_submission",
+        "name": "Articles Reader",
+        "url": "https://www.articlesreader.com/",
+        "da": 30,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "Article Seen",
+        "url": "https://www.articleseen.com/",
+        "da": 30,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "Newsnux",
+        "url": "https://www.newsnux.com/",
+        "da": 27,
+        "pa": 43
+    },
+    {
+        "category": "article_submission",
+        "name": "My Articles",
+        "url": "https://myarticles.io/",
+        "da": 26,
+        "pa": 39
+    },
+    {
+        "category": "article_submission",
+        "name": "Travel & Tourism Directory",
+        "url": "https://www.traveltourismdirectory.net/",
+        "da": 25,
+        "pa": 48
+    },
+    {
+        "category": "article_submission",
+        "name": "The ARTICLE Trunk",
+        "url": "https://www.articletrunk.com/",
+        "da": 23,
+        "pa": 51
+    },
+    {
+        "category": "article_submission",
+        "name": "H1 Ad",
+        "url": "https://articles.h1ad.com/",
+        "da": 22,
+        "pa": 44
+    },
+    {
+        "category": "article_submission",
+        "name": "Storify",
+        "url": "https://storify.me/",
+        "da": 20,
+        "pa": 36
+    },
+    {
+        "category": "article_submission",
+        "name": "Your Tech Guru",
+        "url": "https://yourtechguru.co/",
+        "da": 20,
+        "pa": 15
+    },
+    {
+        "category": "article_submission_paid",
+        "name": "Medium",
+        "url": "https://medium.com/",
+        "da": 95,
+        "pa": 84
+    },
+    {
+        "category": "article_submission_paid",
+        "name": "LONGREADS",
+        "url": "https://longreads.com/",
+        "da": 79,
+        "pa": 70
+    },
+    {
+        "category": "article_submission_paid",
+        "name": "LISTVERSE",
+        "url": "https://listverse.com/",
+        "da": 76,
+        "pa": 68
+    },
+    {
+        "category": "article_submission_paid",
+        "name": "WRITERBAY",
+        "url": "https://www.writerbay.com/",
+        "da": 31,
+        "pa": 49
+    },
+    {
+        "category": "article_submission_paid",
+        "name": "Writers Hub",
+        "url": "https://www.writershub.org/",
+        "da": 23,
+        "pa": 40
+    },
+     {
+        "category": "directory_submission",
+        "name": "Yelp",
+        "url": "https://www.yelp.com/",
+        "da": 93,
+        "pa": 85
+    },
+    {
+        "category": "directory_submission",
+        "name": "FOURSQUARE",
+        "url": "https://foursquare.com/",
+        "da": 92,
+        "pa": 78
+    },
+    {
+        "category": "directory_submission",
+        "name": "24 DIRECTORY",
+        "url": "https://24directory.com.ar/",
+        "da": 68,
+        "pa": 44
+    },
+    {
+        "category": "directory_submission",
+        "name": "Corp Directory",
+        "url": "https://www.corpdirectory.info/",
+        "da": 66,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "my web directory",
+        "url": "https://www.mywebdirectory.com.ar/",
+        "da": 67,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "PRSL DIRECTORY",
+        "url": "https://prsl.info/",
+        "da": 64,
+        "pa": 40
+    },
+    {
+        "category": "directory_submission",
+        "name": "widedir.info",
+        "url": "https://www.widedir.info/",
+        "da": 64,
+        "pa": 39
+    },
+    {
+        "category": "directory_submission",
+        "name": "Linksef.info",
+        "url": "https://linksef.info/",
+        "da": 63,
+        "pa": 40
+    },
+    {
+        "category": "directory_submission",
+        "name": "82470.com Directory",
+        "url": "https://82470.com/",
+        "da": 62,
+        "pa": 40
+    },
+    {
+        "category": "directory_submission",
+        "name": "Work Directory",
+        "url": "https://workdirectory.info/",
+        "da": 63,
+        "pa": 41
+    },
+    {
+        "category": "directory_submission",
+        "name": "Our Directory",
+        "url": "https://www.ourdirectory.info/",
+        "da": 63,
+        "pa": 39
+    },
+    {
+        "category": "directory_submission",
+        "name": "eLocal",
+        "url": "https://www.elocal.com/",
+        "da": 63,
+        "pa": 57
+    },
+    {
+        "category": "directory_submission",
+        "name": "Dark Directory",
+        "url": "https://darkdir.info/",
+        "da": 62,
+        "pa": 41
+    },
+    {
+        "category": "directory_submission",
+        "name": "Deeperlinks.info",
+        "url": "https://deeperlinks.info/",
+        "da": 61,
+        "pa": 40
+    },
+    {
+        "category": "directory_submission",
+        "name": "The Directory",
+        "url": "https://www.thedirectory.com.ar/",
+        "da": 60,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "Add New Link",
+        "url": "https://addnewlink.com.ar/",
+        "da": 60,
+        "pa": 44
+    },
+    {
+        "category": "directory_submission",
+        "name": "Blograma: Blog Directory",
+        "url": "https://www.blogarama.com/",
+        "da": 59,
+        "pa": 71
+    },
+    {
+        "category": "directory_submission",
+        "name": "000 Directory",
+        "url": "https://www.000directory.com.ar/",
+        "da": 59,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission",
+        "name": "VB Directory",
+        "url": "https://www.vbdirectory.info/",
+        "da": 65,
+        "pa": 39
+    },
+    {
+        "category": "directory_submission",
+        "name": "Hotfrog",
+        "url": "https://www.hotfrog.com/",
+        "da": 58,
+        "pa": 63
+    },
+    {
+        "category": "directory_submission",
+        "name": "JASMINE BUSINESS DIRECTORY",
+        "url": "https://www.jasminedirectory.com/",
+        "da": 57,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "Tupalo",
+        "url": "https://tupalo.com/",
+        "da": 56,
+        "pa": 61
+    },
+    {
+        "category": "directory_submission",
+        "name": "Gold Link Directory",
+        "url": "https://golddirectory.info/",
+        "da": 56,
+        "pa": 39
+    },
+    {
+        "category": "directory_submission",
+        "name": "Best Of The Web",
+        "url": "https://botw.org/",
+        "da": 55,
+        "pa": 59
+    },
+    {
+        "category": "directory_submission",
+        "name": "Vise Search",
+        "url": "https://viesearch.com/",
+        "da": 45,
+        "pa": 58
+    },
+    {
+        "category": "directory_submission",
+        "name": "TOP DESIGN FIRMS",
+        "url": "https://topdesignfirms.com/",
+        "da": 45,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "Aviva DIRECTORY",
+        "url": "https://www.avivadirectory.com/",
+        "da": 42,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "Exactseek",
+        "url": "https://www.exactseek.com/",
+        "da": 41,
+        "pa": 63
+    },
+    {
+        "category": "directory_submission",
+        "name": "Aurora Directory",
+        "url": "https://www.aurora-directory.com/",
+        "da": 23,
+        "pa": 41
+    },
+    {
+        "category": "directory_submission",
+        "name": "Local Pages",
+        "url": "https://localpages.com/",
+        "da": 39,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission",
+        "name": "JOEANT",
+        "url": "https://joeant.com/",
+        "da": 38,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "abc directory.com",
+        "url": "https://www.abc-directory.com/",
+        "da": 37,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "Free Ads Time",
+        "url": "https://www.freeadstime.org/",
+        "da": 36,
+        "pa": 54
+    },
+    {
+        "category": "directory_submission",
+        "name": "SoMuch.com",
+        "url": "https://www.somuch.com/",
+        "da": 35,
+        "pa": 58
+    },
+    {
+        "category": "directory_submission",
+        "name": "family friendly sites",
+        "url": "https://familyfriendlysites.com/",
+        "da": 35,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "websquash",
+        "url": "https://www.websquash.com/search/",
+        "da": 35,
+        "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "ProLinkDirectory",
+        "url": "https://www.prolinkdirectory.com/",
+        "da": 32,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "LdmStudio.com",
+        "url": "https://www.directory.ldmstudio.com/",
+        "da": 31,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission",
+        "name": "Pegasus Business Directory",
+        "url": "https://pegasusdirectory.com/",
+        "da": 31,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission",
+        "name": "Just DIRECTORY",
+        "url": "https://www.justdirectory.org/",
+        "da": 31,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "Cipinet",
+        "url": "https://www.cipinet.com/",
+        "da": 30,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "T*section",
+        "url": "https://www.tsection.com/",
+        "da": 30,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "MARKETING INTERNET DIRECTORY",
+        "url": "https://www.marketinginternetdirectory.com/",
+        "da": 30,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission",
+        "name": "MasterMOZ",
+        "url": "https://mastermoz.com/",
+        "da": 30,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission",
+        "name": "One Sublime Directory .com",
+        "url": "https://one-sublime-directory.com/",
+        "da": 31,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission",
+        "name": "HighRankDirectory.com",
+        "url": "https://www.highrankdirectory.com/",
+        "da": 30,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission",
+        "name": "Ellys Directory",
+        "url": "https://ellysdirectory.com/",
+        "da": 29,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "Site Promotion Directory",
+        "url": "https://www.sitepromotiondirectory.com/",
+        "da": 28,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "aLive DIRECTORY",
+        "url": "https://alive-directory.com/",
+        "da": 28,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "1 WEBS DIRECTORY",
+        "url": "https://www.1websdirectory.com/",
+        "da": 28,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission",
+        "name": "9Sites.net",
+        "url": "https://www.9sites.net/",
+        "da": 28,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission",
+        "name": "BusyBits Web Directory",
+        "url": "https://busybits.com/",
+        "da": 28,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "NetInsert",
+        "url": "https://netinsert.com/",
+        "da": 27,
+        "pa": 44
+    },
+    {
+        "category": "directory_submission",
+        "name": "Sonic Rub",
+        "url": "https://www.sonicrun.com/",
+        "da": 27,
+        "pa": 63
+    },
+    {
+        "category": "directory_submission",
+        "name": "Ask Directory .com",
+        "url": "https://ask-directory.com/",
+        "da": 27,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "PR8DIRECTORY.com",
+        "url": "https://www.pr8directory.com/",
+        "da": 27,
+        "pa": 45
+    },
+    {
+        "category": "directory_submission",
+        "name": "QuickLinks.Net",
+        "url": "https://quicklinks.net/",
+        "da": 27,
+        "pa": 41
+    },
+    {
+        "category": "directory_submission",
+        "name": "A1 WEBDIRECTORY.ORG",
+        "url": "https://www.a1webdirectory.org/",
+        "da": 26,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "Just Link.org",
+        "url": "https://www.justlink.org/",
+        "da": 26,
+        "pa": 46
+    },
+    {
+        "category": "directory_submission",
+        "name": "NEW WEB DIRECTORY",
+        "url": "https://newwebdirectory.com/",
+        "da": 26,
+        "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "Gain Web",
+        "url": "https://gainweb.org/",
+        "da": 26,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "The SEO Backlink",
+        "url": "https://www.theseobacklink.com/",
+        "da": 26,
+        "pa": 36
+    },
+    {
+        "category": "directory_submission",
+        "name": "WEBOWORLD",
+        "url": "https://www.weboworld.com/",
+        "da": 25,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "LinkSpurt",
+        "url": "https://linkspurt.com/",
+        "da": 25,
+        "pa": 44
+    },
+    {
+        "category": "directory_submission",
+        "name": "Go www list.com",
+        "url": "https://www.gowwwlist.com/",
+        "da": 25,
+        "pa": 41
+    },
+    {
+        "category": "directory_submission",
+        "name": "Smart SEO Link.org",
+        "url": "https://www.smartseolink.org/",
+        "da": 24,
+        "pa": 46
+    },
+    {
+        "category": "directory_submission",
+        "name": "MoreFunz Web Directory",
+        "url": "https://morefunz.com/",
+        "da": 24,
+        "pa": 45
+    },
+    {
+        "category": "directory_submission",
+        "name": "Best Buy Dir .com",
+        "url": "https://www.bestbuydir.com/",
+        "da": 24,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission",
+        "name": "24/7 Web Directory",
+        "url": "https://www.247webdirectory.com/",
+        "da": 24,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission",
+        "name": "Sites Web Directory",
+        "url": "https://www.siteswebdirectory.com/",
+        "da": 24,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "HIT WEB DIRECTORY",
+        "url": "https://www.hitwebdirectory.com/",
+        "da": 23,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "Travel Tourism Directory",
+        "url": "https://www.traveltourismdirectory.info/",
+        "da": 23,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "10 DIRECTORY",
+        "url": "https://www.10directory.com/",
+        "da": 23,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "fashionlistings.org",
+        "url": "https://www.fashionlistings.org/",
+        "da": 23,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "BlueSparkleDirectory",
+        "url": "https://www.bluesparkledirectory.com/",
+        "da": 22,
+        "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "BrownEdge Directory.com",
+        "url": "https://www.brownedgedirectory.com/",
+        "da": 22,
+        "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "TOP RANK DIRECTORY",
+        "url": "https://www.freetoprankdirectory.com/",
+        "da": 22,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "SKOOPE.BIZ",
+        "url": "https://www.skoobe.biz/",
+        "da": 22,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission",
+        "name": "Findelio",
+        "url": "https://www.findelio.com/",
+        "da": 22,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission",
+        "name": "PromoteBusiness Directory",
+        "url": "https://www.promotebusinessdirectory.com/",
+        "da": 22,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "QUALITY INTERNET DIRECTORY",
+        "url": "https://www.qualityinternetdirectory.com/",
+        "da": 22,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "Black Green Directory.com",
+        "url": "https://www.blackgreendirectory.com/",
+        "da": 22,
+        "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "ATTORNEYS.ORG",
+        "url": "https://www.attorneys.org/",
+        "da": 21,
+        "pa": 43
+    },
+    {
+        "category": "directory_submission",
+        "name": "Hello Web Directory",
+        "url": "https://www.dirhello.com/",
+        "da": 21,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "DIRECTORY-FREE",
+        "url": "https://www.directory-free.com/",
+        "da": 21,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission",
+        "name": "KING OF THE WEB",
+        "url": "https://www.kingoftheweb.net/",
+        "da": 21,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "zopso.com",
+        "url": "https://www.zopso.com/",
+        "da": 21,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission",
+        "name": "International webdirectory",
+        "url": "https://www.intwebdirectory.com/",
+        "da": 20,
+        "pa": 40
+    },
+    {
+        "category": "directory_submission",
+        "name": "HOMEPAGE SEEK",
+        "url": "https://homepageseek.com/",
+        "da": 20,
+        "pa": 46
+    },
+    {
+        "category": "directory_submission",
+        "name": "webDIRECTORY",
+        "url": "https://www.webdirectory.co.in/",
+        "da": 20,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission",
+        "name": "PropellerDir.com",
+        "url": "https://www.propellerdir.com/",
+        "da": 20,
+        "pa": 40
+    },
+    {
+        "category": "directory_submission",
+        "name": "TXT links",
+        "url": "https://www.txtlinks.com/",
+        "da": 20,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "Indiacom",
+        "url": "https://www.indiacom.com/",
+        "da": 54,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "Integrated Government Online Directory",
+        "url": "https://igod.gov.in/",
+        "da": 48,
+        "pa": 41
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "Clickindia",
+        "url": "https://www.clickindia.com/",
+        "da": 48,
+        "pa": 56
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "Surfindia.com",
+        "url": "https://www.surfindia.com/",
+        "da": 47,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "FreeListingIndia.in",
+        "url": "https://www.freelistingindia.in/",
+        "da": 37,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "IndiaBook.com",
+        "url": "https://www.indiabook.com/",
+        "da": 31,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "eindiabusiness.com",
+        "url": "https://www.eindiabusiness.com/",
+        "da": 29,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission_india",
+        "name": "PAPER DOOR INDIA",
+        "url": "https://paperdoor.in/",
+        "da": 28,
+        "pa": 44
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "JAYDE",
+        "url": "https://www.jayde.com/",
+        "da": 42,
+        "pa": 57
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "akama",
+        "url": "https://akama.com/",
+        "da": 35,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "BusinessSeek.biz",
+        "url": "https://www.businessseek.biz/",
+        "da": 31,
+        "pa": 54
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "InfoListings Directory",
+        "url": "https://info-listings.com/",
+        "da": 30,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "USA Websites Directory",
+        "url": "https://www.usawebsitesdirectory.com/",
+        "da": 27,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "US DRE",
+        "url": "https://usdre.com/",
+        "da": 24,
+        "pa": 39
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "All Business Directory .biz",
+        "url": "https://www.allbusinessdirectory.biz/",
+        "da": 21,
+        "pa": 48
+    },
+    {
+        "category": "directory_submission_usa",
+        "name": "All States USA Directory",
+        "url": "https://www.allstatesusadirectory.com/",
+        "da": 20,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "hubbiz",
+        "url": "https://hub.biz/",
+        "da": 53,
+        "pa": 56
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "Britain Business Directory",
+        "url": "https://www.britainbusinessdirectory.com/",
+        "da": 27,
+        "pa": 52
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "UK Internet Directory",
+        "url": "https://www.ukinternetdirectory.net/",
+        "da": 26,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "The Free Directory UK",
+        "url": "https://the-free-directory.co.uk/",
+        "da": 26,
+        "pa": 47
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "YES, IT’S FREE!",
+        "url": "https://yesitsfree.co.uk/",
+        "da": 23,
+        "pa": 35
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "The Web Directory",
+        "url": "https://www.the-web-directory.co.uk/",
+        "da": 22,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission_uk",
+        "name": "DESIGN DIRECTORY",
+        "url": "https://designdirectory.co.uk/",
+        "da": 21,
+        "pa": 43
+    },
+     {
+        "category": "directory_submission_australia",
+        "name": "TRUE LOCAL",
+        "url": "https://www.truelocal.com.au/",
+        "da": 82,
+        "pa": 61
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "word of mouth",
+        "url": "https://www.wordofmouth.com.au/",
+        "da": 57,
+        "pa": 49
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "street-directory.co.au",
+        "url": "https://www.street-directory.com.au/",
+        "da": 43,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "PureLocal",
+        "url": "https://www.purelocal.com.au/",
+        "da": 30,
+        "pa": 46
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "Local Business Guide",
+        "url": "https://www.localbusinessguide.com.au/",
+        "da": 30,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "CYLEX",
+        "url": "https://www.cylex-australia.com/",
+        "da": 24,
+        "pa": 46
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "DIRECTORY.com.au",
+        "url": "https://directory.com.au/",
+        "da": 24,
+        "pa": 45
+    },
+    {
+        "category": "directory_submission_australia",
+        "name": "Submit.biz",
+        "url": "https://www.submit.biz/",
+        "da": 20,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "yp.ca",
+        "url": "https://www.yellowpages.ca/",
+        "da": 64,
+        "pa": 63
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "Show Me Local",
+        "url": "https://ca.showmelocal.com/",
+        "da": 53,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "411",
+        "url": "https://411.ca/",
+        "da": 52,
+        "pa": 53
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "Ourbis",
+        "url": "https://www.ourbis.ca/en",
+        "da": 40,
+        "pa": 46
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "Goldbook",
+        "url": "https://www.goldbook.ca/",
+        "da": 38,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "Yalwa",
+        "url": "https://www.yalwa.ca/",
+        "da": 30,
+        "pa": 50
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "Montreal Web Directory",
+        "url": "https://www.gmawebdirectory.com/",
+        "da": 24,
+        "pa": 51
+    },
+    {
+        "category": "directory_submission_canada",
+        "name": "CANADIAN BUSINESS DIRECTORY",
+        "url": "https://www.canadiandirectory.org/",
+        "da": 21,
+        "pa": 47
+    },
+    {
+        "category": "image_submission",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "VK",
+        "url": "https://vk.com/",
+        "da": 96,
+        "pa": 87
+    },
+    {
+        "category": "image_submission",
+        "name": "SlideShare",
+        "url": "https://www.slideshare.net/",
+        "da": 95,
+        "pa": 86
+    },
+    {
+        "category": "image_submission",
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com/",
+        "da": 94,
+        "pa": 97
+    },
+    {
+        "category": "image_submission",
+        "name": "Twitter",
+        "url": "https://twitter.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "Pixabay",
+        "url": "https://pixabay.com/",
+        "da": 94,
+        "pa": 84
+    },
+    {
+        "category": "image_submission",
+        "name": "Photobucket",
+        "url": "https://photobucket.com/",
+        "da": 93,
+        "pa": 88
+    },
+    {
+        "category": "image_submission",
+        "name": "Pexels",
+        "url": "https://www.pexels.com/",
+        "da": 93,
+        "pa": 80
+    },
+    {
+        "category": "image_submission",
+        "name": "Freepik",
+        "url": "https://www.freepik.com/",
+        "da": 93,
+        "pa": 80
+    },
+    {
+        "category": "image_submission",
+        "name": "Unsplash",
+        "url": "https://unsplash.com/",
+        "da": 93,
+        "pa": 86
+    },
+    {
+        "category": "image_submission",
+        "name": "Flickr",
+        "url": "https://www.flickr.com/",
+        "da": 92,
+        "pa": 95
+    },
+    {
+        "category": "image_submission",
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "da": 92,
+        "pa": 84
+    },
+    {
+        "category": "image_submission",
+        "name": "Imgur",
+        "url": "https://imgur.com/",
+        "da": 92,
+        "pa": 84
+    },
+    {
+        "category": "image_submission",
+        "name": "Reddit images",
+        "url": "https://www.reddit.com/r/Images/",
+        "da": 92,
+        "pa": 55
+    },
+    {
+        "category": "image_submission",
+        "name": "Deviant Art",
+        "url": "https://www.deviantart.com/",
+        "da": 90,
+        "pa": 86
+    },
+    {
+        "category": "image_submission",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "image_submission",
+        "name": "9GAG",
+        "url": "https://9gag.com/",
+        "da": 86,
+        "pa": 73
+    },
+    {
+        "category": "image_submission",
+        "name": "500px",
+        "url": "https://500px.com/",
+        "da": 85,
+        "pa": 78
+    },
+    {
+        "category": "image_submission",
+        "name": "Shutterfly",
+        "url": "https://www.shutterfly.com/",
+        "da": 83,
+        "pa": 71
+    },
+    {
+        "category": "image_submission",
+        "name": "Daily Infographics",
+        "url": "https://dailyinfographic.com/",
+        "da": 81,
+        "pa": 58
+    },
+    {
+        "category": "image_submission",
+        "name": "Infogram",
+        "url": "https://infogram.com/",
+        "da": 80,
+        "pa": 71
+    },
+    {
+        "category": "image_submission",
+        "name": "SmugMug",
+        "url": "https://www.smugmug.com/",
+        "da": 80,
+        "pa": 65
+    },
+    {
+        "category": "image_submission",
+        "name": "Geograph",
+        "url": "https://www.geograph.org.uk/",
+        "da": 80,
+        "pa": 62
+    },
+    {
+        "category": "image_submission",
+        "name": "MorgueFile",
+        "url": "https://morguefile.com/",
+        "da": 77,
+        "pa": 66
+    },
+    {
+        "category": "image_submission",
+        "name": "Snapfish",
+        "url": "https://www.snapfish.com/home",
+        "da": 76,
+        "pa": 58
+    },
+    {
+        "category": "image_submission",
+        "name": "Fotki",
+        "url": "https://www.fotki.com/",
+        "da": 75,
+        "pa": 66
+    },
+    {
+        "category": "image_submission",
+        "name": "JAlbum.net",
+        "url": "https://jalbum.net/en/",
+        "da": 69,
+        "pa": 61
+    },
+    {
+        "category": "image_submission",
+        "name": "Drone Stagger",
+        "url": "https://www.dronestagr.am/",
+        "da": 67,
+        "pa": 58
+    },
+    {
+        "category": "image_submission",
+        "name": "Cool Infographics",
+        "url": "https://coolinfographics.com/",
+        "da": 60,
+        "pa": 52
+    },
+    {
+        "category": "image_submission",
+        "name": "Visualistan",
+        "url": "https://www.visualistan.com/",
+        "da": 59,
+        "pa": 48
+    },
+    {
+        "category": "image_submission",
+        "name": "Elearning images",
+        "url": "https://elearninginfographics.com/",
+        "da": 59,
+        "pa": 55
+    },
+    {
+        "category": "image_submission",
+        "name": "Rankfrog",
+        "url": "https://rankfrog.com/infographic-submission-sites/",
+        "da": 59,
+        "pa": 55
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographics Mania",
+        "url": "https://infographicsmania.com/",
+        "da": 54,
+        "pa": 40
+    },
+    {
+        "category": "image_submission",
+        "name": "I Love Charts",
+        "url": "https://ilovecharts.tumblr.com/",
+        "da": 52,
+        "pa": 75
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographics Archive",
+        "url": "https://www.infographicsarchive.com/",
+        "da": 53,
+        "pa": 53
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographics Zone",
+        "url": "https://www.infographicszone.com/",
+        "da": 47,
+        "pa": 45
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Portal",
+        "url": "https://www.infographicportal.com/",
+        "da": 47,
+        "pa": 42
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic List",
+        "url": "https://infographiclist.com/",
+        "da": 45,
+        "pa": 47
+    },
+    {
+        "category": "image_submission",
+        "name": "Submit Infographics",
+        "url": "https://submitinfographics.com/",
+        "da": 43,
+        "pa": 50
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic BEE",
+        "url": "https://www.infographicbee.com/",
+        "da": 42,
+        "pa": 41
+    },
+    {
+        "category": "image_submission",
+        "name": "InfographicLabs",
+        "url": "https://infographiclabs.com/",
+        "da": 41,
+        "pa": 47
+    },
+    {
+        "category": "image_submission",
+        "name": "Love Infographics",
+        "url": "https://www.loveinfographics.com/",
+        "da": 40,
+        "pa": 46
+    },
+    {
+        "category": "image_submission",
+        "name": "Shit Hot images",
+        "url": "https://www.shithot.co.uk/",
+        "da": 36,
+        "pa": 36
+    },
+    {
+        "category": "image_submission",
+        "name": "InfoCarnivore.com",
+        "url": "https://infocarnivore.com/",
+        "da": 35,
+        "pa": 41
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Website",
+        "url": "https://infographicsite.com/",
+        "da": 33,
+        "pa": 56
+    },
+    {
+        "category": "image_submission",
+        "name": "Gifographics",
+        "url": "https://gifographics.co/",
+        "da": 31,
+        "pa": 40
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Posters",
+        "url": "https://www.infographicsposters.com/",
+        "da": 30,
+        "pa": 46
+    },
+    {
+        "category": "image_submission",
+        "name": "Infographic Plaza",
+        "url": "https://infographicplaza.com/",
+        "da": 30,
+        "pa": 45
+    },
+     {
+        "category": "health_forums",
+        "name": "Bodybuilding Forums",
+        "url": "https://forum.bodybuilding.com/",
+        "da": 86,
+        "pa": 63
+    },
+    {
+        "category": "health_forums",
+        "name": "lowyat.net",
+        "url": "https://forum.lowyat.net/Health&Fitness",
+        "da": 84,
+        "pa": 45
+    },
+    {
+        "category": "health_forums",
+        "name": "The Open Group",
+        "url": "https://www.opengroup.org/forum/healthcare-forum",
+        "da": 79,
+        "pa": 51
+    },
+    {
+        "category": "health_forums",
+        "name": "Patient Community Forums",
+        "url": "https://patient.info/forums",
+        "da": 73,
+        "pa": 54
+    },
+    {
+        "category": "health_forums",
+        "name": "Diabetes UK",
+        "url": "https://forum.diabetes.org.uk/boards/",
+        "da": 67,
+        "pa": 49
+    },
+    {
+        "category": "health_forums",
+        "name": "NERD FITNESS",
+        "url": "https://rebellion.nerdfitness.com/",
+        "da": 65,
+        "pa": 53
+    },
+    {
+        "category": "health_forums",
+        "name": "Mens Health Forum",
+        "url": "https://www.menshealthforum.org.uk/",
+        "da": 57,
+        "pa": 53
+    },
+    {
+        "category": "health_forums",
+        "name": "PSYCH FORUMS",
+        "url": "https://www.psychforums.com/",
+        "da": 53,
+        "pa": 52
+    },
+    {
+        "category": "health_forums",
+        "name": "SoberRecovery",
+        "url": "https://www.soberrecovery.com/forums/",
+        "da": 53,
+        "pa": 51
+    },
+    {
+        "category": "health_forums",
+        "name": "The India Forum",
+        "url": "https://www.theindiaforum.in/health",
+        "da": 48,
+        "pa": 26
+    },
+    {
+        "category": "health_forums",
+        "name": "Mental Health Forum",
+        "url": "https://www.mentalhealthforum.net/forum/",
+        "da": 43,
+        "pa": 44
+    },
+    {
+        "category": "health_forums",
+        "name": "No More Panic",
+        "url": "https://www.nomorepanic.co.uk/forum.php",
+        "da": 42,
+        "pa": 39
+    },
+    {
+        "category": "health_forums",
+        "name": "My Support Forums",
+        "url": "https://mysupportforums.org/",
+        "da": 41,
+        "pa": 39
+    },
+    {
+        "category": "health_forums",
+        "name": "NatMed Talk",
+        "url": "https://www.natmedtalk.com/",
+        "da": 28,
+        "pa": 47
+    },
+    {
+        "category": "tech_forums",
+        "name": "tom’sHARDWARE",
+        "url": "https://forums.tomshardware.com/",
+        "da": 90,
+        "pa": 59
+    },
+    {
+        "category": "tech_forums",
+        "name": "TechRepublic",
+        "url": "https://www.techrepublic.com/forums/",
+        "da": 88,
+        "pa": 58
+    },
+    {
+        "category": "tech_forums",
+        "name": "TechSpot Forums",
+        "url": "https://www.techspot.com/community/",
+        "da": 87,
+        "pa": 56
+    },
+    {
+        "category": "tech_forums",
+        "name": "digit forum",
+        "url": "https://geek.digit.in/community/",
+        "da": 87,
+        "pa": 50
+    },
+    {
+        "category": "tech_forums",
+        "name": "CCM",
+        "url": "https://ccm.net/forum/",
+        "da": 87,
+        "pa": 51
+    },
+    {
+        "category": "tech_forums",
+        "name": "Human Tech Community",
+        "url": "https://community.humanetech.com/",
+        "da": 66,
+        "pa": 46
+    },
+    {
+        "category": "tech_forums",
+        "name": "Tech Support Guy",
+        "url": "https://www.techguy.org/",
+        "da": 62,
+        "pa": 56
+    },
+    {
+        "category": "tech_forums",
+        "name": "RC TECH",
+        "url": "https://www.rctech.net/forum/",
+        "da": 56,
+        "pa": 54
+    },
+    {
+        "category": "tech_forums",
+        "name": "techenclave",
+        "url": "https://techenclave.com/",
+        "da": 50,
+        "pa": 49
+    },
+    {
+        "category": "tech_forums",
+        "name": "TECHIST",
+        "url": "https://www.techist.com/forums/",
+        "da": 47,
+        "pa": 39
+    },
+    {
+        "category": "tech_forums",
+        "name": "OnlyTech",
+        "url": "https://onlytech.com/community/",
+        "da": 40,
+        "pa": 36
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "WordPress.com Forums",
+        "url": "https://wordpress.com/forums/",
+        "da": 94,
+        "pa": 75
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "Moz Community",
+        "url": "https://moz.com/community/q/",
+        "da": 91,
+        "pa": 40
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "SitePoint Forums",
+        "url": "https://www.sitepoint.com/community/",
+        "da": 86,
+        "pa": 60
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "WebmasterWorld Forums",
+        "url": "https://www.webmasterworld.com/",
+        "da": 76,
+        "pa": 61
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "WARRIOR FORUM",
+        "url": "https://www.warriorforum.com/",
+        "da": 74,
+        "pa": 65
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "namePros",
+        "url": "https://www.namepros.com/",
+        "da": 74,
+        "pa": 61
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "Digital Point",
+        "url": "https://forums.digitalpoint.com/",
+        "da": 70,
+        "pa": 61
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "Web Hosting Talk",
+        "url": "https://www.webhostingtalk.com/",
+        "da": 62,
+        "pa": 62
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "Black Hat World",
+        "url": "https://www.blackhatworld.com/",
+        "da": 59,
+        "pa": 61
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "OZZU",
+        "url": "https://www.ozzu.com/questions",
+        "da": 52,
+        "pa": 27
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "WEBMASTER SUN",
+        "url": "https://www.webmastersun.com/",
+        "da": 41,
+        "pa": 50
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "DNForum",
+        "url": "https://www.dnforum.com/",
+        "da": 38,
+        "pa": 54
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "Affiliate Fix",
+        "url": "https://www.affiliatefix.com/",
+        "da": 38,
+        "pa": 48
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "SEO Panel Forums",
+        "url": "https://forum.seopanel.in/index.php",
+        "da": 36,
+        "pa": 28
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "WEBDEV FORUMS",
+        "url": "https://www.webdevforums.com/",
+        "da": 32,
+        "pa": 49
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "SEO Mastering Forum",
+        "url": "https://www.seomastering.com/seo-forum/index.php",
+        "da": 32,
+        "pa": 48
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "SMZ",
+        "url": "https://www.seomotionz.com/",
+        "da": 32,
+        "pa": 32
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "WholesaleForum",
+        "url": "https://www.wholesaleforum.com/discuss/",
+        "da": 31,
+        "pa": 41
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "eWebDisccusion.com",
+        "url": "https://www.ewebdiscussion.com/",
+        "da": 27,
+        "pa": 42
+    },
+    {
+        "category": "digital_marketing_forums",
+        "name": "Social Champs Forum",
+        "url": "https://socialchamps.com/forum/",
+        "da": 27,
+        "pa": 37
+    },
+    {
+        "category": "travel_forums",
+        "name": "Tripadvisor Forum",
+        "url": "https://www.tripadvisor.com/ForumHome",
+        "da": 93,
+        "pa": 67
+    },
+    {
+        "category": "travel_forums",
+        "name": "Rick Steve Europe",
+        "url": "https://www.ricksteves.com/travel-forum",
+        "da": 78,
+        "pa": 53
+    },
+    {
+        "category": "travel_forums",
+        "name": "Travellerspoint",
+        "url": "https://www.travellerspoint.com/forum.cfm",
+        "da": 62,
+        "pa": 50
+    },
+    {
+        "category": "travel_forums",
+        "name": "tripoto",
+        "url": "https://www.tripoto.com/community",
+        "da": 57,
+        "pa": 45
+    },
+    {
+        "category": "travel_forums",
+        "name": "India Travel Forum",
+        "url": "https://www.indiatravelforum.in/",
+        "da": 44,
+        "pa": 40
+    },
+    {
+        "category": "finance_forums",
+        "name": "money control",
+        "url": "https://mmb.moneycontrol.com/",
+        "da": 89,
+        "pa": 63
+    },
+    {
+        "category": "finance_forums",
+        "name": "Whirlpool Forums",
+        "url": "https://forums.whirlpool.net.au/forum/150",
+        "da": 68,
+        "pa": 48
+    },
+    {
+        "category": "finance_forums",
+        "name": "OzBargain",
+        "url": "https://www.ozbargain.com.au/forum/38183",
+        "da": 67,
+        "pa": 43
+    },
+    {
+        "category": "finance_forums",
+        "name": "WSO",
+        "url": "https://www.wallstreetoasis.com/forum",
+        "da": 64,
+        "pa": 46
+    },
+    {
+        "category": "finance_forums",
+        "name": "Financial Wisdom Forum",
+        "url": "https://www.financialwisdomforum.org/forum/",
+        "da": 32,
+        "pa": 38
+    },
+     {
+        "category": "parenting_forums",
+        "name": "mumsnet",
+        "url": "https://www.mumsnet.com/talk",
+        "da": 83,
+        "pa": 50
+    },
+    {
+        "category": "parenting_forums",
+        "name": "the Bump",
+        "url": "https://forums.thebump.com/categories/parenting",
+        "da": 74,
+        "pa": 46
+    },
+    {
+        "category": "parenting_forums",
+        "name": "netmums",
+        "url": "https://www.netmums.com/coffeehouse/",
+        "da": 69,
+        "pa": 51
+    },
+    {
+        "category": "parenting_forums",
+        "name": "baby center",
+        "url": "https://www.babycenter.in/groups/topic/25001435/baby-toddler-groups",
+        "da": 55,
+        "pa": 30
+    },
+    {
+        "category": "parenting_forums",
+        "name": "kids in the house",
+        "url": "https://www.kidsinthehouse.com/forums/parenting",
+        "da": 54,
+        "pa": 32
+    },
+    {
+        "category": "parenting_forums",
+        "name": "The Moms View",
+        "url": "https://www.momsview.com/discus/messages/board-topics.html",
+        "da": 43,
+        "pa": 36
+    },
+    {
+        "category": "education_career_forums",
+        "name": "GALPROP",
+        "url": "https://galprop.stanford.edu/forum/",
+        "da": 93,
+        "pa": 54
+    },
+    {
+        "category": "education_career_forums",
+        "name": "WordReference Forums",
+        "url": "https://forum.wordreference.com/",
+        "da": 91,
+        "pa": 65
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Physics Forums",
+        "url": "https://www.physicsforums.com/",
+        "da": 68,
+        "pa": 61
+    },
+    {
+        "category": "education_career_forums",
+        "name": "The Student Room",
+        "url": "https://www.thestudentroom.co.uk/forum.php",
+        "da": 64,
+        "pa": 54
+    },
+    {
+        "category": "education_career_forums",
+        "name": "College Confidential Forums",
+        "url": "https://talk.collegeconfidential.com/",
+        "da": 61,
+        "pa": 54
+    },
+    {
+        "category": "education_career_forums",
+        "name": "SDN Forums",
+        "url": "https://forums.studentdoctor.net/forums/",
+        "da": 61,
+        "pa": 51
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Education Forum",
+        "url": "https://www.educations.com/forum/",
+        "da": 52,
+        "pa": 43
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Indian Discussion Forums",
+        "url": "https://www.indiastudychannel.com/forum/",
+        "da": 52,
+        "pa": 49
+    },
+    {
+        "category": "education_career_forums",
+        "name": "The Education Forum",
+        "url": "https://educationforum.ipbhost.com/",
+        "da": 59,
+        "pa": 47
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Better Education Forum",
+        "url": "https://bettereducation.com.au/forum/",
+        "da": 32,
+        "pa": 34
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Education And Career Forum",
+        "url": "https://entrance-exam.net/forum/general-discussion/",
+        "da": 42,
+        "pa": 51
+    },
+    {
+        "category": "education_career_forums",
+        "name": "DegreeInfo",
+        "url": "https://www.degreeinfo.com/index.php",
+        "da": 42,
+        "pa": 44
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Education Observer",
+        "url": "https://educationobserver.com/forum/",
+        "da": 29,
+        "pa": 31
+    },
+    {
+        "category": "education_career_forums",
+        "name": "Actuarial Education",
+        "url": "https://acted.co.uk/forums/index.php",
+        "da": 28,
+        "pa": 27
+    },
+    {
+        "category": "education_career_forums",
+        "name": "INHWE Forums",
+        "url": "https://inhwe.org/forum",
+        "da": 25,
+        "pa": 26
+    },
+    {
+        "category": "fashion_forums",
+        "name": "the FASHION SPOT",
+        "url": "https://forums.thefashionspot.com/",
+        "da": 74,
+        "pa": 68
+    },
+    {
+        "category": "fashion_forums",
+        "name": "PriceScope",
+        "url": "https://www.pricescope.com/community/",
+        "da": 59,
+        "pa": 47
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Discord",
+        "url": "https://discord.com/",
+        "da": 94,
+        "pa": 75
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Joomla Forums",
+        "url": "https://forum.joomla.org/",
+        "da": 92,
+        "pa": 76
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Steam Community",
+        "url": "https://steamcommunity.com/",
+        "da": 92,
+        "pa": 71
+    },
+    {
+        "category": "national_international_forums",
+        "name": "MySQL Forums",
+        "url": "https://forums.mysql.com/",
+        "da": 92,
+        "pa": 68
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Autodesk Community",
+        "url": "https://forums.autodesk.com/",
+        "da": 91,
+        "pa": 63
+    },
+    {
+        "category": "national_international_forums",
+        "name": "phpBB",
+        "url": "https://www.phpbb.com/community/",
+        "da": 87,
+        "pa": 66
+    },
+    {
+        "category": "national_international_forums",
+        "name": "FileZilla Forums",
+        "url": "https://forum.filezilla-project.org/index.php",
+        "da": 86,
+        "pa": 49
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Audacity Forums",
+        "url": "https://forum.audacityteam.org/",
+        "da": 84,
+        "pa": 58
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Linux Mint Forums",
+        "url": "https://forums.linuxmint.com/",
+        "da": 80,
+        "pa": 60
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Ubuntu Forums",
+        "url": "https://ubuntuforums.org/",
+        "da": 79,
+        "pa": 65
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Ableton Forums",
+        "url": "https://forum.ableton.com/",
+        "da": 78,
+        "pa": 54
+    },
+    {
+        "category": "national_international_forums",
+        "name": "mozillaZine Forums",
+        "url": "https://forums.mozillazine.org/",
+        "da": 77,
+        "pa": 59
+    },
+    {
+        "category": "national_international_forums",
+        "name": "bbPress",
+        "url": "https://bbpress.org/",
+        "da": 73,
+        "pa": 66
+    },
+    {
+        "category": "national_international_forums",
+        "name": "The Omni Group Users Forum",
+        "url": "https://discourse.omnigroup.com/",
+        "da": 71,
+        "pa": 50
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Wilders Security Forums",
+        "url": "https://www.wilderssecurity.com/",
+        "da": 67,
+        "pa": 55
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Delphi Forums",
+        "url": "https://www.delphiforums.com/",
+        "da": 64,
+        "pa": 59
+    },
+    {
+        "category": "national_international_forums",
+        "name": "HTML.it Forum",
+        "url": "https://forum.html.it/forum/",
+        "da": 61,
+        "pa": 51
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Brigade Of Honor",
+        "url": "https://brigadeofhonor.guildwork.com/forum/",
+        "da": 53,
+        "pa": 45
+    },
+    {
+        "category": "national_international_forums",
+        "name": "From Colibri",
+        "url": "https://framacolibri.org/",
+        "da": 34,
+        "pa": 40
+    },
+    {
+        "category": "national_international_forums",
+        "name": "AntiOnline",
+        "url": "https://www.antionline.com/",
+        "da": 49,
+        "pa": 54
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Awasu",
+        "url": "https://awasu.com/forums/",
+        "da": 49,
+        "pa": 39
+    },
+    {
+        "category": "national_international_forums",
+        "name": "File Sharing Talk",
+        "url": "https://filesharingtalk.com/forum.php",
+        "da": 45,
+        "pa": 47
+    },
+    {
+        "category": "national_international_forums",
+        "name": "geo expat",
+        "url": "https://geoexpat.com/forum/",
+        "da": 44,
+        "pa": 42
+    },
+    {
+        "category": "national_international_forums",
+        "name": "Rocky Themes",
+        "url": "https://rockythemes.com/forum/",
+        "da": 26,
+        "pa": 39
+    },
+    {
+        "category": "classified_websites",
+        "name": "craigslist",
+        "url": "https://delhi.craigslist.org/",
+        "da": 88,
+        "pa": 58
+    },
+    {
+        "category": "classified_websites",
+        "name": "Gumtree",
+        "url": "https://www.gumtree.com/",
+        "da": 83,
+        "pa": 67
+    },
+    {
+        "category": "classified_websites",
+        "name": "Sulekha",
+        "url": "https://www.sulekha.com/",
+        "da": 78,
+        "pa": 63
+    },
+    {
+        "category": "classified_websites",
+        "name": "Classified Ads",
+        "url": "https://www.classifiedads.com/",
+        "da": 63,
+        "pa": 62
+    },
+    {
+        "category": "classified_websites",
+        "name": "OLX",
+        "url": "https://www.olx.in/",
+        "da": 61,
+        "pa": 61
+    },
+    {
+        "category": "classified_websites",
+        "name": "Quikr",
+        "url": "https://www.quikr.com/",
+        "da": 58,
+        "pa": 60
+    },
+    {
+        "category": "classified_websites",
+        "name": "Adpost",
+        "url": "https://www.adpost.com/",
+        "da": 56,
+        "pa": 61
+    },
+    {
+        "category": "classified_websites",
+        "name": "expatriates.com",
+        "url": "https://www.expatriates.com/",
+        "da": 56,
+        "pa": 59
+    },
+    {
+        "category": "classified_websites",
+        "name": "POA",
+        "url": "https://www.postonlineads.com/",
+        "da": 55,
+        "pa": 44
+    },
+    {
+        "category": "classified_websites",
+        "name": "Global-free-classified-ads.com",
+        "url": "https://www.global-free-classified-ads.com/",
+        "da": 50,
+        "pa": 54
+    },
+    {
+        "category": "classified_websites",
+        "name": "SALES SPIDER",
+        "url": "https://www.salespider.com/free-marketplace classifieds-jobs",
+        "da": 50,
+        "pa": 41
+    },
+    {
+        "category": "classified_websites",
+        "name": "PennySaver",
+        "url": "https://www.pennysaverusa.com/",
+        "da": 47,
+        "pa": 56
+    },
+    {
+        "category": "classified_websites",
+        "name": "Muamat Free Classifieds",
+        "url": "https://www.muamat.com/",
+        "da": 43,
+        "pa": 56
+    },
+    {
+        "category": "classified_websites",
+        "name": "TuffClassified",
+        "url": "https://tuffclassified.com/",
+        "da": 43,
+        "pa": 56
+    },
+    {
+        "category": "classified_websites",
+        "name": "Free Ads",
+        "url": "https://freead1.net/",
+        "da": 39,
+        "pa": 52
+    },
+    {
+        "category": "classified_websites",
+        "name": "Qwikad",
+        "url": "https://qwikad.com/",
+        "da": 38,
+        "pa": 51
+    },
+    {
+        "category": "classified_websites",
+        "name": "THE FREE AD FORUM",
+        "url": "https://www.thefreeadforum.com/postclassifieds/",
+        "da": 37,
+        "pa": 52
+    },
+    {
+        "category": "classified_websites",
+        "name": "FREE ADS TIME",
+        "url": "https://www.freeadstime.org/",
+        "da": 35,
+        "pa": 53
+    },
+    {
+        "category": "classified_websites",
+        "name": "Classifieds For Free",
+        "url": "https://classifiedsforfree.com/",
+        "da": 35,
+        "pa": 52
+    },
+    {
+        "category": "classified_websites",
+        "name": "KUGLI",
+        "url": "https://www.kugli.com/",
+        "da": 35,
+        "pa": 52
+    },
+    {
+        "category": "classified_websites",
+        "name": "MONDINION",
+        "url": "https://www.mondinion.com/",
+        "da": 35,
+        "pa": 51
+    },
+    {
+        "category": "classified_websites",
+        "name": "Adeex free classifieds",
+        "url": "https://www.adeex.in/",
+        "da": 34,
+        "pa": 52
+    },
+    {
+        "category": "classified_websites",
+        "name": "TOP CLASSIFIEDS",
+        "url": "https://www.topclassifieds.com/",
+        "da": 34,
+        "pa": 52
+    },
+    {
+        "category": "classified_websites",
+        "name": "JOBIBA.com",
+        "url": "https://www.jobiba.com/",
+        "da": 34,
+        "pa": 44
+    },
+    {
+        "category": "classified_websites",
+        "name": "Bech De Kharid Le",
+        "url": "https://www.sellbuystuffs.com/",
+        "da": 32,
+        "pa": 42
+    },
+    {
+        "category": "classified_websites",
+        "name": "Hot Free List",
+        "url": "https://www.hotfreelist.com/",
+        "da": 31,
+        "pa": 51
+    },
+    {
+        "category": "classified_websites",
+        "name": "Adsnity.com",
+        "url": "https://adsnity.com/",
+        "da": 31,
+        "pa": 46
+    },
+    {
+        "category": "classified_websites",
+        "name": "Prince Classified",
+        "url": "https://www.princeclassified.com/",
+        "da": 30,
+        "pa": 51
+    },
+    {
+        "category": "classified_websites",
+        "name": "Classifieds 4 Free",
+        "url": "https://classified4free.net/",
+        "da": 30,
+        "pa": 51
+    },
+    {
+        "category": "classified_websites",
+        "name": "ibackpage",
+        "url": "https://www.ibackpage.com/",
+        "da": 30,
+        "pa": 44
+    },
+    {
+        "category": "classified_websites",
+        "name": "KOOL BUSINESS",
+        "url": "https://koolbusiness.com/",
+        "da": 30,
+        "pa": 44
+    },
+    {
+        "category": "classified_websites",
+        "name": "Free Web Ads",
+        "url": "https://freewebads.us/",
+        "da": 29,
+        "pa": 48
+    },
+    {
+        "category": "classified_websites",
+        "name": "PostAllAdsForFree",
+        "url": "https://www.postallads4free.com/",
+        "da": 28,
+        "pa": 58
+    },
+    {
+        "category": "classified_websites",
+        "name": "EZ Classifieds",
+        "url": "https://www.ezclassifiedads.com/",
+        "da": 28,
+        "pa": 51
+    },
+    {
+        "category": "classified_websites",
+        "name": "Free Best Ads",
+        "url": "https://freebestads.com/",
+        "da": 28,
+        "pa": 50
+    },
+    {
+        "category": "classified_websites",
+        "name": "Clickooz",
+        "url": "https://clickooz.com/",
+        "da": 28,
+        "pa": 47
+    },
+    {
+        "category": "classified_websites",
+        "name": "E-ONLINE ADS",
+        "url": "https://eonlineads.com/",
+        "da": 27,
+        "pa": 50
+    },
+    {
+        "category": "classified_websites",
+        "name": "ebackpage",
+        "url": "https://www.ebackpage.com/",
+        "da": 25,
+        "pa": 45
+    },
+    {
+        "category": "classified_websites",
+        "name": "Locanto",
+        "url": "https://bhopal.locanto.me/",
+        "da": 25,
+        "pa": 27
+    },
+    {
+        "category": "classified_websites",
+        "name": "CLASSIFIEDS FACTOR",
+        "url": "https://www.classifiedsfactor.com/",
+        "da": 24,
+        "pa": 46
+    },
+    {
+        "category": "classified_websites",
+        "name": "FinderMaster",
+        "url": "https://www.findermaster.com/",
+        "da": 22,
+        "pa": 48
+    },
+    {
+        "category": "classified_websites",
+        "name": "WallClassifieds",
+        "url": "https://www.wallclassifieds.com/",
+        "da": 22,
+        "pa": 47
+    },
+    {
+        "category": "classified_websites",
+        "name": "twarak",
+        "url": "https://www.twarak.com/",
+        "da": 21,
+        "pa": 50
+    },
+    {
+        "category": "classified_websites",
+        "name": "H1Ad",
+        "url": "https://www.h1ad.com/",
+        "da": 21,
+        "pa": 46
+    },
+    {
+        "category": "classified_websites",
+        "name": "AdvertiseEra",
+        "url": "https://www.advertiseera.com/",
+        "da": 21,
+        "pa": 45
+    },
+    {
+        "category": "classified_websites",
+        "name": "PostHereAds",
+        "url": "https://posthereads.com/",
+        "da": 32,
+        "pa": 39
+    },
+    {
+        "category": "classified_websites",
+        "name": "Free Classified Sites",
+        "url": "https://www.freeclassifiedssites.com/",
+        "da": 28,
+        "pa": 50
+    },
+    {
+        "category": "classified_websites",
+        "name": "Citynews",
+        "url": "https://www.citynews.com/",
+        "da": 31,
+        "pa": 50
+    },
+    {
+        "category": "classified_websites",
+        "name": "GVANGA",
+        "url": "https://gvanga.com/en/",
+        "da": 23,
+        "pa": 37
+    },
+
+    {
+        "category": "social_bookmarking",
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "da": 99,
+        "pa": 100
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "X (formerly Twitter)",
+        "url": "https://x.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Pinterest",
+        "url": "https://in.pinterest.com/",
+        "da": 94,
+        "pa": 85
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Linktree",
+        "url": "https://linktr.ee/",
+        "da": 93,
+        "pa": 76
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Quora",
+        "url": "https://www.quora.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "da": 92,
+        "pa": 91
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Trello",
+        "url": "https://trello.com/",
+        "da": 92,
+        "pa": 79
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Evernote",
+        "url": "https://evernote.com/",
+        "da": 92,
+        "pa": 79
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Scoop.it!",
+        "url": "https://www.scoop.it/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Slashdot",
+        "url": "https://slashdot.org/",
+        "da": 91,
+        "pa": 76
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "diigo",
+        "url": "https://www.diigo.com/",
+        "da": 91,
+        "pa": 76
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Flipboard",
+        "url": "https://flipboard.com/",
+        "da": 91,
+        "pa": 74
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "pocket",
+        "url": "https://getpocket.com/",
+        "da": 91,
+        "pa": 68
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "slack",
+        "url": "https://slack.com/",
+        "da": 90,
+        "pa": 65
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Soup.io",
+        "url": "https://www.soup.io/",
+        "da": 89,
+        "pa": 96
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Feedly",
+        "url": "https://feedly.com/",
+        "da": 89,
+        "pa": 77
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Last Pass",
+        "url": "https://www.lastpass.com/",
+        "da": 89,
+        "pa": 72
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Instapaper",
+        "url": "https://www.instapaper.com/",
+        "da": 89,
+        "pa": 73
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "steemit",
+        "url": "https://steemit.com/",
+        "da": 89,
+        "pa": 68
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "plurk",
+        "url": "https://www.plurk.com/portal/",
+        "da": 89,
+        "pa": 60
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "MetaFilter",
+        "url": "https://www.metafilter.com/",
+        "da": 88,
+        "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Listly",
+        "url": "https://list.ly/",
+        "da": 87,
+        "pa": 86
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Padlet",
+        "url": "https://padlet.com/",
+        "da": 87,
+        "pa": 74
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "intense debate",
+        "url": "https://www.intensedebate.com/",
+        "da": 87,
+        "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 100
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "pearltrees",
+        "url": "https://www.pearltrees.com/",
+        "da": 86,
+        "pa": 72
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "DZone",
+        "url": "https://dzone.com/",
+        "da": 84,
+        "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Contently",
+        "url": "https://contently.com/",
+        "da": 84,
+        "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Folkd",
+        "url": "https://folkd.com/",
+        "da": 80,
+        "pa": 64
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "We Heart It",
+        "url": "https://weheartit.com/",
+        "da": 79,
+        "pa": 95
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Mind Meister",
+        "url": "https://www.mindmeister.com/",
+        "da": 79,
+        "pa": 69
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "tech dirt",
+        "url": "https://www.techdirt.com/",
+        "da": 79,
+        "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Tagged",
+        "url": "https://www.tagged.com/",
+        "da": 77,
+        "pa": 65
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Fark",
+        "url": "https://www.fark.com/",
+        "da": 76,
+        "pa": 68
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "NewsBlur",
+        "url": "https://newsblur.com/",
+        "da": 75,
+        "pa": 60
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "miro",
+        "url": "https://miro.com/",
+        "da": 73,
+        "pa": 67
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "bubbl.us",
+        "url": "https://bubbl.us/",
+        "da": 73,
+        "pa": 67
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Wakelet",
+        "url": "https://wakelet.com/",
+        "da": 71,
+        "pa": 68
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "start me",
+        "url": "https://about.start.me/",
+        "da": 70,
+        "pa": 51
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "blog engage",
+        "url": "https://www.blogengage.com/",
+        "da": 68,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "SiteJot",
+        "url": "https://www.sitejot.com/",
+        "da": 66,
+        "pa": 61
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "symbaloo",
+        "url": "https://www.symbaloo.com/",
+        "da": 83,
+        "pa": 66
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "solo.to",
+        "url": "https://solo.to/",
+        "da": 66,
+        "pa": 57
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "blokube",
+        "url": "https://blokube.com/",
+        "da": 65,
+        "pa": 49
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "AllMyFaves",
+        "url": "https://allmyfaves.com/",
+        "da": 61,
+        "pa": 58
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Citeulike",
+        "url": "https://citeulike.org/",
+        "da": 62,
+        "pa": 56
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "storeboard.com",
+        "url": "https://www.storeboard.com/home.asp",
+        "da": 62,
+        "pa": 44
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "social media in uk",
+        "url": "https://socialmediainuk.com/",
+        "da": 60,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "gorilla social work",
+        "url": "https://gorillasocialwork.com/",
+        "da": 60,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "social network ads info",
+        "url": "https://socialnetworkadsinfo.com/",
+        "da": 60,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "RAINDROP",
+        "url": "https://raindrop.io/",
+        "da": 59,
+        "pa": 59
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "strat.io",
+        "url": "https://www.start.io/",
+        "da": 59,
+        "pa": 52
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "get social pr",
+        "url": "https://getsocialpr.com/",
+        "da": 59,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Dropmark",
+        "url": "https://www.dropmark.com/",
+        "da": 59,
+        "pa": 57
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "bookmark port",
+        "url": "https://bookmarkport.com/",
+        "da": 59,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Protopage",
+        "url": "https://www.protopage.com/",
+        "da": 58,
+        "pa": 60
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "bookmark range",
+        "url": "https://bookmarkrange.com/",
+        "da": 58,
+        "pa": 54
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "bookmark birth",
+        "url": "https://bookmarkbirth.com/",
+        "da": 58,
+        "pa": 54
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Listbookmarking",
+        "url": "https://listbookmarking.com/",
+        "da": 58,
+        "pa": 47
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "THE BRAIN",
+        "url": "https://app.thebrain.com/",
+        "da": 58,
+        "pa": 43
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "LiveBinders",
+        "url": "https://www.livebinders.com/",
+        "da": 58,
+        "pa": 41
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "tipoto",
+        "url": "https://www.tripoto.com/",
+        "da": 57,
+        "pa": 56
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "BibSonomy",
+        "url": "https://www.bibsonomy.org/",
+        "da": 56,
+        "pa": 62
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "mind42",
+        "url": "https://mind42.com/",
+        "da": 54,
+        "pa": 59
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "BlogMarks.net",
+        "url": "https://blogmarks.net/",
+        "da": 54,
+        "pa": 61
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "BizSugar",
+        "url": "https://www.bizsugar.com/",
+        "da": 52,
+        "pa": 60
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Stampsy",
+        "url": "https://stampsy.com/about",
+        "da": 52,
+        "pa": 46
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "NETBOARDS",
+        "url": "https://goldenhome.netboard.me/",
+        "da": 51,
+        "pa": 44
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "FREE BOOKMARKING SITES",
+        "url": "https://freebookmarkingsites.xyz/",
+        "da": 51,
+        "pa": 44
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "TOP SITE NET.COM",
+        "url": "https://topsitenet.com/",
+        "da": 51,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Wise mapping",
+        "url": "https://www.wisemapping.com/",
+        "da": 48,
+        "pa": 30
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "papaly",
+        "url": "https://papaly.com/",
+        "da": 48,
+        "pa": 57
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Clipix",
+        "url": "https://www.clipix.com/",
+        "da": 48,
+        "pa": 52
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "kirtsy",
+        "url": "https://www.kirtsy.com/",
+        "da": 45,
+        "pa": 54
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "netvouz",
+        "url": "https://netvouz.com/",
+        "da": 44,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "LinkARENA",
+        "url": "https://linkarena.com/",
+        "da": 43,
+        "pa": 58
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "myfav.es",
+        "url": "https://www.myfav.es/",
+        "da": 43,
+        "pa": 49
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Linqto.me",
+        "url": "https://www.linqto.me/",
+        "da": 43,
+        "pa": 44
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Akonter Bookmarks",
+        "url": "https://www.akonter.com/",
+        "da": 42,
+        "pa": 55
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "BOOKMAX",
+        "url": "https://public.bookmax.net/",
+        "da": 42,
+        "pa": 47
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Bookmark4You",
+        "url": "https://www.bookmark4you.com/",
+        "da": 41,
+        "pa": 56
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Humsurfer",
+        "url": "https://www.humsurfer.com/",
+        "da": 40,
+        "pa": 54
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "World Rank List",
+        "url": "https://www.worldranklist.com/",
+        "da": 39,
+        "pa": 47
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "1look4",
+        "url": "https://1look4.com/",
+        "da": 39,
+        "pa": 51
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "DotNetKicks",
+        "url": "https://dotnetkicks.com/",
+        "da": 38,
+        "pa": 51
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "FreeAdsTime Blog",
+        "url": "https://blog.freeadstime.org/",
+        "da": 35,
+        "pa": 48
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "Bookmarkbay.com",
+        "url": "https://www.bookmarkbay.com/",
+        "da": 32,
+        "pa": 50
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "BookMarking Page",
+        "url": "https://bookmarkingpage.com/",
+        "da": 32,
+        "pa": 50
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "icio",
+        "url": "https://www.icio.de/",
+        "da": 32,
+        "pa": 56
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "EzySpot",
+        "url": "https://www.ezyspot.com/",
+        "da": 31,
+        "pa": 51
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "CoolPot",
+        "url": "https://coolpot.com/",
+        "da": 30,
+        "pa": 51
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "WIREFAN",
+        "url": "https://www.wirefan.com/",
+        "da": 28,
+        "pa": 53
+    },
+    {
+        "category": "social_bookmarking",
+        "name": "OLO Games",
+        "url": "https://www.ologames.com/",
+        "da": 25,
+        "pa": 41
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Google My Business",
+        "url": "https://www.google.com/intl/en_in/business/",
+        "da": 100,
+        "pa": 79
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Yelp",
+        "url": "https://www.yelp.com/",
+        "da": 93,
+        "pa": 84
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Foursquare Business",
+        "url": "https://business.foursquare.com/",
+        "da": 92,
+        "pa": 66
+    },
+    {
+        "category": "business_listing_india",
+        "name": "IndiaMart",
+        "url": "https://dir.indiamart.com/",
+        "da": 75,
+        "pa": 62
+    },
+    {
+        "category": "business_listing_india",
+        "name": "MapQuest Business",
+        "url": "https://business.mapquest.com/products/business-listing",
+        "da": 89,
+        "pa": 50
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Indian Yellow Pages",
+        "url": "https://www.indianyellowpages.com/",
+        "da": 36,
+        "pa": 52
+    },
+    {
+        "category": "business_listing_india",
+        "name": "TradeIndia",
+        "url": "https://www.tradeindia.com/",
+        "da": 78,
+        "pa": 73
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Brownbook",
+        "url": "https://www.brownbook.net/free-listing",
+        "da": 61,
+        "pa": 45
+    },
+    {
+        "category": "business_listing_india",
+        "name": "CitySquares",
+        "url": "https://citysquares.com/add_business",
+        "da": 50,
+        "pa": 51
+    },
+    {
+        "category": "business_listing_india",
+        "name": "JustDial",
+        "url": "https://www.justdial.com/",
+        "da": 61,
+        "pa": 61
+    },
+    {
+        "category": "business_listing_india",
+        "name": "FreeListingIndia",
+        "url": "https://www.freelistingindia.in/",
+        "da": 36,
+        "pa": 45
+    },
+    {
+        "category": "business_listing_india",
+        "name": "PoweredIndia",
+        "url": "https://www.poweredindia.com/register/",
+        "da": 21,
+        "pa": 32
+    },
+    {
+        "category": "business_listing_india",
+        "name": "AskLaila",
+        "url": "https://www.asklaila.com/Bangalore/addlisting",
+        "da": 44,
+        "pa": 38
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Facebook Business",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "business_listing_india",
+        "name": "LinkedIn Business",
+        "url": "https://business.linkedin.com/",
+        "da": 99,
+        "pa": 78
+    },
+    {
+        "category": "business_listing_india",
+        "name": "EIndiaBusiness",
+        "url": "https://www.eindiabusiness.com/",
+        "da": 31,
+        "pa": 51
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Indian Industries Directory",
+        "url": "https://www.indianindustriesdirectory.com/",
+        "da": 14,
+        "pa": 33
+    },
+    {
+        "category": "business_listing_india",
+        "name": "Superpages",
+        "url": "https://www.superpages.com/",
+        "da": 70,
+        "pa": 66
+    },
+    {
+        "category": "business_listing_india",
+        "name": "SubmitLocalBusiness",
+        "url": "https://www.submitlocalbusiness.com/",
+        "da": 19,
+        "pa": 33
+    },
+    {
+        "category": "business_listing_india",
+        "name": "EZLocal",
+        "url": "https://ezlocal.com/",
+        "da": 56,
+        "pa": 59
+    },
+    {
+        "category": "profile_creation",
+        "name": "YouTube",
+        "url": "https://www.youtube.com/",
+        "da": 100,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "WordPress",
+        "url": "https://wordpress.org/",
+        "da": 99,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/",
+        "da": 99,
+        "pa": 86
+    },
+    {
+        "category": "profile_creation",
+        "name": "WhatsApp",
+        "url": "https://www.whatsapp.com/",
+        "da": 97,
+        "pa": 87
+    },
+    {
+        "category": "profile_creation",
+        "name": "Adobe Community",
+        "url": "https://community.adobe.com/",
+        "da": 97,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "Vimeo",
+        "url": "https://vimeo.com/",
+        "da": 96,
+        "pa": 97
+    },
+    {
+        "category": "profile_creation",
+        "name": "Github",
+        "url": "https://github.com/",
+        "da": 96,
+        "pa": 92
+    },
+    {
+        "category": "profile_creation",
+        "name": "vk",
+        "url": "https://vk.com/",
+        "da": 96,
+        "pa": 87
+    },
+    {
+        "category": "profile_creation",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/",
+        "da": 96,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "Gravatar",
+        "url": "https://gravatar.com/",
+        "da": 95,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "slide share",
+        "url": "https://www.slideshare.net/",
+        "da": 95,
+        "pa": 86
+    },
+    {
+        "category": "profile_creation",
+        "name": "Medium",
+        "url": "https://medium.com/",
+        "da": 95,
+        "pa": 84
+    },
+    {
+        "category": "profile_creation",
+        "name": "Dailymotion",
+        "url": "https://www.dailymotion.com/in",
+        "da": 95,
+        "pa": 83
+    },
+    {
+        "category": "profile_creation",
+        "name": "Myspace",
+        "url": "https://myspace.com/",
+        "da": 95,
+        "pa": 82
+    },
+    {
+        "category": "profile_creation",
+        "name": "Line",
+        "url": "https://line.me/en/",
+        "da": 95,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "Weebly",
+        "url": "https://www.weebly.com/in",
+        "da": 95,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/about",
+        "da": 95,
+        "pa": 67
+    },
+    {
+        "category": "profile_creation",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/",
+        "da": 94,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "X (previously Twitter)",
+        "url": "https://about.twitter.com/en",
+        "da": 94,
+        "pa": 91
+    },
+    {
+        "category": "profile_creation",
+        "name": "Pinterest",
+        "url": "https://in.pinterest.com/",
+        "da": 94,
+        "pa": 97
+    },
+    {
+        "category": "profile_creation",
+        "name": "Scribd",
+        "url": "https://www.scribd.com/",
+        "da": 94,
+        "pa": 81
+    },
+    {
+        "category": "profile_creation",
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com/",
+        "da": 94,
+        "pa": 86
+    },
+    {
+        "category": "profile_creation",
+        "name": "issuu",
+        "url": "https://issuu.com/",
+        "da": 94,
+        "pa": 83
+    },
+    {
+        "category": "profile_creation",
+        "name": "ResearchGate",
+        "url": "https://www.researchgate.net/",
+        "da": 94,
+        "pa": 78
+    },
+    {
+        "category": "profile_creation",
+        "name": "Change.org",
+        "url": "https://www.change.org/",
+        "da": 94,
+        "pa": 77
+    },
+    {
+        "category": "profile_creation",
+        "name": "Discord",
+        "url": "https://discord.com/",
+        "da": 94,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "after nic",
+        "url": "https://www.afternic.com/",
+        "da": 94,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "Hatena",
+        "url": "https://profile.hatena.ne.jp/",
+        "da": 94,
+        "pa": 66
+    },
+    {
+        "category": "profile_creation",
+        "name": "Dropbox",
+        "url": "https://dropbox.com",
+        "da": 93,
+        "pa": 82
+    },
+    {
+        "category": "profile_creation",
+        "name": "Goodreads",
+        "url": "https://www.goodreads.com/",
+        "da": 93,
+        "pa": 84
+    },
+    {
+        "category": "profile_creation",
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/",
+        "da": 93,
+        "pa": 81
+    },
+    {
+        "category": "profile_creation",
+        "name": "Skype",
+        "url": "https://www.skype.com/en/",
+        "da": 93,
+        "pa": 78
+    },
+    {
+        "category": "profile_creation",
+        "name": "Bandcamp",
+        "url": "https://bandcamp.com/",
+        "da": 93,
+        "pa": 78
+    },
+    {
+        "category": "profile_creation",
+        "name": "dreams time",
+        "url": "https://www.dreamstime.com/",
+        "da": 93,
+        "pa": 77
+    },
+    {
+        "category": "profile_creation",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "da": 93,
+        "pa": 76
+    },
+    {
+        "category": "profile_creation",
+        "name": "Academia",
+        "url": "https://www.academia.edu/",
+        "da": 93,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "QQ",
+        "url": "https://im.qq.com/",
+        "da": 93,
+        "pa": 68
+    },
+    {
+        "category": "profile_creation",
+        "name": "Buzzfeed",
+        "url": "https://www.buzzfeed.com/in",
+        "da": 93,
+        "pa": 63
+    },
+    {
+        "category": "profile_creation",
+        "name": "TED",
+        "url": "https://www.ted.com/",
+        "da": 93,
+        "pa": 83
+    },
+    {
+        "category": "profile_creation",
+        "name": "DISQUS",
+        "url": "https://disqus.com/",
+        "da": 93,
+        "pa": 88
+    },
+    {
+        "category": "profile_creation",
+        "name": "Quora",
+        "url": "https://www.quora.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "profile_creation",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/",
+        "da": 92,
+        "pa": 91
+    },
+    {
+        "category": "profile_creation",
+        "name": "Mixcloud",
+        "url": "https://www.mixcloud.com/",
+        "da": 92,
+        "pa": 77
+    },
+    {
+        "category": "profile_creation",
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/",
+        "da": 92,
+        "pa": 75
+    },
+    {
+        "category": "profile_creation",
+        "name": "Snapchat",
+        "url": "https://www.snapchat.com/",
+        "da": 92,
+        "pa": 76
+    },
+    {
+        "category": "profile_creation",
+        "name": "Messenger",
+        "url": "https://www.messenger.com/",
+        "da": 92,
+        "pa": 71
+    },
+    {
+        "category": "profile_creation",
+        "name": "Stack Exchange",
+        "url": "https://stackexchange.com/",
+        "da": 91,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "Foursquare",
+        "url": "https://foursquare.com/",
+        "da": 94,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "Behance",
+        "url": "https://www.behance.net/",
+        "da": 92,
+        "pa": 84
+    },
+    {
+        "category": "profile_creation",
+        "name": "Last FM",
+        "url": "https://www.last.fm/",
+        "da": 92,
+        "pa": 80
+    },
+    {
+        "category": "profile_creation",
+        "name": "about.me",
+        "url": "https://about.me/",
+        "da": 92,
+        "pa": 74
+    },
+    {
+        "category": "profile_creation",
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/",
+        "da": 91,
+        "pa": 73
+    },
+    {
+        "category": "profile_creation",
+        "name": "ask fm",
+        "url": "https://ask.fm/",
+        "da": 91,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "Prnewswire",
+        "url": "https://prnewswire.com",
+        "da": 91,
+        "pa": 80
+    },
+    {
+        "category": "profile_creation",
+        "name": "SB NATION",
+        "url": "https://www.sbnation.com/",
+        "da": 90,
+        "pa": 69
+    },
+    {
+        "category": "profile_creation",
+        "name": "Product Hunt",
+        "url": "https://www.producthunt.com/",
+        "da": 90,
+        "pa": 70
+    },
+    {
+        "category": "profile_creation",
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/",
+        "da": 90,
+        "pa": 71
+    },
+    {
+        "category": "profile_creation",
+        "name": "Spreaker",
+        "url": "https://www.spreaker.com/",
+        "da": 89,
+        "pa": 70
+    },
+    {
+        "category": "profile_creation",
+        "name": "PB Works",
+        "url": "https://www.smashwords.com/",
+        "da": 89,
+        "pa": 65
+    },
+    {
+        "category": "profile_creation",
+        "name": "Telegram",
+        "url": "https://telegram.me",
+        "da": 88,
+        "pa": 77
+    },
+    {
+        "category": "profile_creation",
+        "name": "Smashwords",
+        "url": "https://www.smashwords.com/",
+        "da": 88,
+        "pa": 70
+    },
+    {
+        "category": "profile_creation",
+        "name": "Techinasia",
+        "url": "https://www.pbworks.com/",
+        "da": 88,
+        "pa": 64
+    },
+    {
+        "category": "profile_creation",
+        "name": "Coub",
+        "url": "https://coub.com/hot",
+        "da": 88,
+        "pa": 53
+    },
+    {
+        "category": "profile_creation",
+        "name": "phpBB",
+        "url": "https://www.phpbb.com/",
+        "da": 87,
+        "pa": 83
+    },
+    {
+        "category": "profile_creation",
+        "name": "Zazzle",
+        "url": "https://www.zazzle.com/",
+        "da": 87,
+        "pa": 73
+    },
+    {
+        "category": "profile_creation",
+        "name": "Listly",
+        "url": "https://list.ly/",
+        "da": 87,
+        "pa": 67
+    },
+    {
+        "category": "profile_creation",
+        "name": "Tumblr",
+        "url": "https://www.tumblr.com/",
+        "da": 86,
+        "pa": 73
+    },
+    {
+        "category": "profile_creation",
+        "name": "Pexels",
+        "url": "https://pexels.com",
+        "da": 86,
+        "pa": 74
+    },
+    {
+        "category": "profile_creation",
+        "name": "MINDS",
+        "url": "https://www.minds.com/",
+        "da": 86,
+        "pa": 66
+    },
+    {
+        "category": "profile_creation",
+        "name": "Speaker Deck",
+        "url": "https://speakerdeck.com/",
+        "da": 85,
+        "pa": 65
+    },
+    {
+        "category": "profile_creation",
+        "name": "Getpocket",
+        "url": "https://getpocket.com",
+        "da": 85,
+        "pa": 72
+    },
+    {
+        "category": "profile_creation",
+        "name": "500px",
+        "url": "https://500px.com/",
+        "da": 85,
+        "pa": 78
+    },
+    {
+        "category": "profile_creation",
+        "name": "Viber",
+        "url": "https://www.viber.com/en/",
+        "da": 85,
+        "pa": 64
+    },
+    {
+        "category": "profile_creation",
+        "name": "Peatix",
+        "url": "https://peatix.com/",
+        "da": 84,
+        "pa": 69
+    },
+    {
+        "category": "profile_creation",
+        "name": "We Chat",
+        "url": "https://www.wechat.com/",
+        "da": 84,
+        "pa": 65
+    },
+    {
+        "category": "profile_creation",
+        "name": "Douyin",
+        "url": "https://www.douyin.com/",
+        "da": 81,
+        "pa": 66
+    },
+    {
+        "category": "profile_creation",
+        "name": "Picsart",
+        "url": "https://picsart.com/",
+        "da": 83,
+        "pa": 68
+    },
+    {
+        "category": "profile_creation",
+        "name": "MagCloud",
+        "url": "https://www.magcloud.com/",
+        "da": 82,
+        "pa": 64
+    },
+    {
+        "category": "profile_creation",
+        "name": "make a gif",
+        "url": "https://makeagif.com/",
+        "da": 81,
+        "pa": 66
+    },
+    {
+        "category": "profile_creation",
+        "name": "APSense",
+        "url": "https://www.apsense.com/",
+        "da": 80,
+        "pa": 62
+    },
+    {
+        "category": "profile_creation",
+        "name": "Parallels",
+        "url": "https://parallels.com",
+        "da": 78,
+        "pa": 65
+    },
+    {
+        "category": "profile_creation",
+        "name": "Free-Ebooks.net",
+        "url": "https://www.free-ebooks.net/",
+        "da": 73,
+        "pa": 67
+    },
+    {
+        "category": "profile_creation",
+        "name": "IDEA",
+        "url": "https://www.ideafit.com/",
+        "da": 72,
+        "pa": 61
+    },
+    {
+        "category": "profile_creation",
+        "name": "YUDU",
+        "url": "https://www.yudu.com/",
+        "da": 71,
+        "pa": 62
+    },
+    {
+        "category": "profile_creation",
+        "name": "imo",
+        "url": "https://imo.im/",
+        "da": 71,
+        "pa": 60
+    },
+    {
+        "category": "profile_creation",
+        "name": "Telegram",
+        "url": "https://telegram.org/",
+        "da": 69,
+        "pa": 91
+    },
+    {
+        "category": "profile_creation",
+        "name": "Threads",
+        "url": "https://www.threads.net/login",
+        "da": 68,
+        "pa": 59
+    },
+    {
+        "category": "profile_creation",
+        "name": "Zimbra",
+        "url": "https://zimbra.com",
+        "da": 68,
+        "pa": 58
+    },
+    {
+        "category": "profile_creation",
+        "name": "Kuaishou",
+        "url": "https://www.kuaishou.com/new-reco",
+        "da": 67,
+        "pa": 52
+    },
+    {
+        "category": "profile_creation",
+        "name": "Dive Photo Guide",
+        "url": "https://www.divephotoguide.com/",
+        "da": 66,
+        "pa": 63
+    },
+    {
+        "category": "profile_creation",
+        "name": "Abstract Fonts",
+        "url": "https://www.abstractfonts.com/",
+        "da": 60,
+        "pa": 63
+    },
+    {
+        "category": "profile_creation",
+        "name": "Growth Hackers",
+        "url": "https://growthhackers.com/",
+        "da": 66,
+        "pa": 60
+    },
+    {
+        "category": "profile_creation",
+        "name": "Meme",
+        "url": "https://mewe.com/register",
+        "da": 65,
+        "pa": 64
+    },
+    {
+        "category": "profile_creation",
+        "name": "Blogger",
+        "url": "https://www.blogger.com/",
+        "da": 58,
+        "pa": 100
+    },
+    {
+        "category": "profile_creation",
+        "name": "Likee",
+        "url": "https://likee.video/",
+        "da": 53,
+        "pa": 54
+    },
+    {
+        "category": "profile_creation",
+        "name": "Themeansar",
+        "url": "https://themeansar.com",
+        "da": 42,
+        "pa": 38
+    },
+    {
+        "category": "profile_creation",
+        "name": "Heylink",
+        "url": "https://heylink.me",
+        "da": 35,
+        "pa": 30
+    },
+    {
+        "category": "guest_posting",
+        "name": "Africanbusinessreview",
+        "url": "https://www.africanbusinessreview.co.za/",
+        "da": 65,
+        "pa": 49
+    },
+    {
+        "category": "guest_posting",
+        "name": "hdhub4you",
+        "url": "https://www.hdhub4you.com/",
+        "da": 58,
+        "pa": 36
+    },
+    {
+        "category": "guest_posting",
+        "name": "tasteful space",
+        "url": "https://www.tastefulspace.com/",
+        "da": 54,
+        "pa": 50
+    },
+    {
+        "category": "guest_posting",
+        "name": "Wake Posts",
+        "url": "https://wakeposts.com/",
+        "da": 53,
+        "pa": 43
+    },
+    {
+        "category": "guest_posting",
+        "name": "GeniusUpdates",
+        "url": "https://www.geniusupdates.com/",
+        "da": 55,
+        "pa": 46
+    },
+    {
+        "category": "guest_posting",
+        "name": "SERIES MAZA",
+        "url": "https://www.seriesmaza.com/",
+        "da": 53,
+        "pa": 37
+    },
+    {
+        "category": "guest_posting",
+        "name": "TERRACE HOUSE FUN",
+        "url": "https://terracehouse-fun.net/",
+        "da": 58,
+        "pa": 1
+    },
+    {
+        "category": "guest_posting",
+        "name": "NetWorthScape",
+        "url": "https://networthscape.com/",
+        "da": 56,
+        "pa": 39
+    },
+    {
+        "category": "guest_posting",
+        "name": "TechWiki",
+        "url": "https://www.techwiki.in/",
+        "da": 51,
+        "pa": 20
+    },
+    {
+        "category": "guest_posting",
+        "name": "CITY GOLDMEDIA",
+        "url": "https://citygoldmedia.net/",
+        "da": 50,
+        "pa": 48
+    },
+    {
+        "category": "guest_posting",
+        "name": "BIOGRAPHY TALK",
+        "url": "https://biographytalk.org/",
+        "da": 52,
+        "pa": 24
+    },
+    {
+        "category": "guest_posting",
+        "name": "LATEST PHONE ZONE",
+        "url": "https://www.latestphonezone.net/",
+        "da": 55,
+        "pa": 22
+    },
+    {
+        "category": "guest_posting",
+        "name": "Colorfy",
+        "url": "https://colorfy.org/",
+        "da": 53,
+        "pa": 25
+    },
+    {
+        "category": "guest_posting",
+        "name": "Trends We",
+        "url": "https://trendswe.com/",
+        "da": 54,
+        "pa": 34
+    },
+    {
+        "category": "guest_posting",
+        "name": "EDITORIAL MASH",
+        "url": "https://editorialmash.com/",
+        "da": 31,
+        "pa": 35
+    },
+    {
+        "category": "guest_posting",
+        "name": "ZOMG! CANDY",
+        "url": "https://zomgcandy.com/",
+        "da": 54,
+        "pa": 47
+    },
+    {
+        "category": "guest_posting",
+        "name": "Espbr",
+        "url": "https://espbr.com/",
+        "da": 54,
+        "pa": 48
+    },
+    {
+        "category": "guest_posting",
+        "name": "CelebrityNews",
+        "url": "https://www.celebritynews.website/",
+        "da": 55,
+        "pa": 15
+    },
+    {
+        "category": "guest_posting",
+        "name": "all sim code",
+        "url": "https://allsimcode.com/",
+        "da": 56,
+        "pa": 41
+    },
+    {
+        "category": "guest_posting",
+        "name": "How to Guide Wiki",
+        "url": "https://howtoguidewiki.com/",
+        "da": 55,
+        "pa": 39
+    },
+    {
+        "category": "guest_posting",
+        "name": "Dresses Khazana",
+        "url": "https://dresseskhazana.org/",
+        "da": 72,
+        "pa": 22
+    },
+    {
+        "category": "guest_posting",
+        "name": "HDvb5.com",
+        "url": "https://hdbv5.com/",
+        "da": 53,
+        "pa": 28
+    },
+    {
+        "category": "guest_posting",
+        "name": "STYLE VANITY",
+        "url": "https://stylevanity.com/",
+        "da": 58,
+        "pa": 54
+    },
+    {
+        "category": "guest_posting",
+        "name": "PLAYCAST MEDIA.COM",
+        "url": "https://www.playcast-media.com/",
+        "da": 53,
+        "pa": 46
+    },
+    {
+        "category": "guest_posting",
+        "name": "THE TECHY INFO",
+        "url": "https://thetechyinfo.org/",
+        "da": 49,
+        "pa": 24
+    },
+    {
+        "category": "guest_posting",
+        "name": "tattoo MAGZ",
+        "url": "https://tattoomagz.org/",
+        "da": 54,
+        "pa": 24
+    },
+    {
+        "category": "guest_posting",
+        "name": "Born2Gamer",
+        "url": "https://born2gamer.org/",
+        "da": 57,
+        "pa": 26
+    },
+    {
+        "category": "guest_posting",
+        "name": "THE RICH NET WORTH",
+        "url": "https://therichnetworth.com/",
+        "da": 53,
+        "pa": 46
+    },
+    {
+        "category": "guest_posting",
+        "name": "SCOOPIFY",
+        "url": "https://www.scoopify.net/",
+        "da": 49,
+        "pa": 23
+    },
+    {
+        "category": "guest_posting",
+        "name": "BANKING SUPPORT",
+        "url": "https://www.bankingsupport.org/",
+        "da": 55,
+        "pa": 19
+    },
+    {
+        "category": "guest_posting",
+        "name": "INTEREST LIBRARY",
+        "url": "https://interest-library.com/",
+        "da": 54,
+        "pa": 44
+    },
+    {
+        "category": "guest_posting",
+        "name": "BUFFALO CHRISTIAN",
+        "url": "https://buffalochristian.com/",
+        "da": 62,
+        "pa": 45
+    },
+    {
+        "category": "guest_posting",
+        "name": "Wedding Vyapar.com",
+        "url": "https://weddingvyapar.com/",
+        "da": 36,
+        "pa": 34
+    },
+    {
+        "category": "guest_posting",
+        "name": "DOCTOR XIAOMI",
+        "url": "https://www.doctorxiaomi.com/",
+        "da": 61,
+        "pa": 38
+    },
+    {
+        "category": "guest_posting",
+        "name": "FREE MOD APK",
+        "url": "https://free-modapk.com/",
+        "da": 57,
+        "pa": 42
+    },
+    {
+        "category": "guest_posting",
+        "name": "HEALTH TIPS LIVE",
+        "url": "https://www.healthtipslive.com/",
+        "da": 49,
+        "pa": 50
+    },
+    {
+        "category": "guest_posting",
+        "name": "all about GOA",
+        "url": "https://allaboutgoa.com/",
+        "da": 59,
+        "pa": 38
+    },
+    {
+        "category": "guest_posting",
+        "name": "Lost Virtual Tour",
+        "url": "https://www.lostvirtualtour.com/",
+        "da": 52,
+        "pa": 45
+    },
+    {
+        "category": "guest_posting",
+        "name": "DESIGN DARE",
+        "url": "https://www.designdare.com/",
+        "da": 58,
+        "pa": 42
+    },
+    {
+        "category": "guest_posting",
+        "name": "CIRCLE PLUS",
+        "url": "https://circleplus.org/",
+        "da": 56,
+        "pa": 22
+    },
+    {
+        "category": "guest_posting",
+        "name": "urdu nama",
+        "url": "https://urdunama.net/",
+        "da": 58,
+        "pa": 19
+    },
+    {
+        "category": "guest_posting",
+        "name": "MOD APK DOWNLOAD",
+        "url": "https://modapkdownload.org/",
+        "da": 56,
+        "pa": 41
+    },
+    {
+        "category": "guest_posting",
+        "name": "CIVIL CONSTRUCTION",
+        "url": "https://civiltej.com/",
+        "da": 52,
+        "pa": 42
+    },
+    {
+        "category": "guest_posting",
+        "name": "GET ME WP",
+        "url": "https://getmewp.com/",
+        "da": 52,
+        "pa": 41
+    },
+    {
+        "category": "guest_posting",
+        "name": "cnlawblog",
+        "url": "http://www.cnlawblog.com/",
+        "da": 52,
+        "pa": 53
+    },
+    {
+        "category": "guest_posting",
+        "name": "T20 World Cup LiveScore",
+        "url": "https://t20worldcuplivescore.com/",
+        "da": 50,
+        "pa": 46
+    },
+    {
+        "category": "guest_posting",
+        "name": "SMARTEST COMPUTING",
+        "url": "https://smartestcomputing.us.com/",
+        "da": 57,
+        "pa": 49
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "creative commons (CC Search)",
+        "url": "https://search.creativecommons.org/",
+        "da": 95,
+        "pa": 81
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Internet Archive",
+        "url": "https://archive.org/",
+        "da": 94,
+        "pa": 84
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Naver",
+        "url": "https://www.naver.com/",
+        "da": 93,
+        "pa": 77
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Aol.",
+        "url": "https://www.aol.com/",
+        "da": 93,
+        "pa": 79
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "LYCOS",
+        "url": "https://www.lycos.com/",
+        "da": 92,
+        "pa": 82
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "WolframAlpha",
+        "url": "https://www.wolframalpha.com/",
+        "da": 90,
+        "pa": 74
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Ask.com",
+        "url": "https://www.ask.com/",
+        "da": 89,
+        "pa": 75
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Elastic",
+        "url": "https://www.elastic.co/elasticsearch/",
+        "da": 86,
+        "pa": 61
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Ecosia",
+        "url": "https://www.ecosia.org/",
+        "da": 86,
+        "pa": 68
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Brave Search",
+        "url": "https://search.brave.com/",
+        "da": 83,
+        "pa": 64
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Qwant",
+        "url": "https://www.qwant.com/",
+        "da": 83,
+        "pa": 65
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "SEZNAM.CZ",
+        "url": "https://www.seznam.cz/",
+        "da": 83,
+        "pa": 57
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "info.com",
+        "url": "https://info.com/",
+        "da": 80,
+        "pa": 56
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Startpage",
+        "url": "https://www.startpage.com/",
+        "da": 75,
+        "pa": 65
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "DISCONNECT Search",
+        "url": "https://search.disconnect.me/",
+        "da": 71,
+        "pa": 55
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "dogpile",
+        "url": "https://www.dogpile.com/",
+        "da": 79,
+        "pa": 61
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "excite",
+        "url": "https://www.excite.com/",
+        "da": 79,
+        "pa": 36
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Sogou",
+        "url": "https://www.sogou.com/",
+        "da": 78,
+        "pa": 89
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "HotBot",
+        "url": "https://www.hotbot.com/",
+        "da": 62,
+        "pa": 67
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Youdao",
+        "url": "https://www.youdao.com/",
+        "da": 60,
+        "pa": 79
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "meta crawler",
+        "url": "https://www.metacrawler.com/",
+        "da": 60,
+        "pa": 63
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "You.com",
+        "url": "https://you.com/",
+        "da": 58,
+        "pa": 59
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "OpenSearch",
+        "url": "https://www.opensearch.org/",
+        "da": 54,
+        "pa": 55
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "WebWiki",
+        "url": "https://www.webwiki.com/info/add-website.html",
+        "da": 53,
+        "pa": 52
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "SWISSCOWS",
+        "url": "https://swisscows.com/en",
+        "da": 53,
+        "pa": 50
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Wiki.com",
+        "url": "https://www.wiki.com/",
+        "da": 50,
+        "pa": 55
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Mojeek",
+        "url": "https://www.mojeek.com/",
+        "da": 47,
+        "pa": 55
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Openverse",
+        "url": "https://openverse.org/en-gb",
+        "da": 47,
+        "pa": 34
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Million Short",
+        "url": "https://millionshort.com/submit-site",
+        "da": 47,
+        "pa": 27
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Carrot",
+        "url": "https://search.carrot2.org/#/search/web",
+        "da": 45,
+        "pa": 48
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Yep",
+        "url": "https://yep.com/",
+        "da": 44,
+        "pa": 53
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Search Encrypt",
+        "url": "https://www.searchencrypt.com/home",
+        "da": 44,
+        "pa": 46
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Gibiru",
+        "url": "https://gibiru.com/",
+        "da": 42,
+        "pa": 54
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "SearX",
+        "url": "https://searx.space/",
+        "da": 39,
+        "pa": 54
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "metager",
+        "url": "https://metager.org/",
+        "da": 39,
+        "pa": 52
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "iseek",
+        "url": "https://www.iseek.com/#/web",
+        "da": 38,
+        "pa": 50
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Oscobo",
+        "url": "https://www.oscobo.com/",
+        "da": 37,
+        "pa": 47
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "yippy",
+        "url": "https://yippyinc.com/",
+        "da": 34,
+        "pa": 36
+    },
+    {
+        "category": "search_engine_submission",
+        "name": "Lukol",
+        "url": "https://www.lukol.com/s",
+        "da": 33,
+        "pa": 25
+    },
+    {
+        "category": "web_submission",
+        "name": "entire web",
+        "url": "https://www.entireweb.com/free_submission/",
+        "da": 59,
+        "pa": 59
+    },
+    {
+        "category": "web_submission",
+        "name": "ebusiness pages",
+        "url": "https://ebusinesspages.com/AddCompany.aspx",
+        "da": 56,
+        "pa": 53
+    },
+    {
+        "category": "web_submission",
+        "name": "Exact Seek",
+        "url": "https://www.exactseek.com/add.html",
+        "da": 41,
+        "pa": 58
+    },
+    {
+        "category": "web_submission",
+        "name": "Exalead",
+        "url": "https://www.exalead.com/search/web/submit/",
+        "da": 56,
+        "pa": 52
+    },
+    {
+        "category": "web_submission",
+        "name": "JAYDE",
+        "url": "https://jayde.com/submit.html",
+        "da": 42,
+        "pa": 41
+    },
+    {
+        "category": "web_submission",
+        "name": "what U seek",
+        "url": "https://www.whatuseek.com/addurl.shtml",
+        "da": 41,
+        "pa": 52
+    },
+    {
+        "category": "web_submission",
+        "name": "Active Search Results (ASR)",
+        "url": "https://www.activesearchresults.com/addwebsite.php",
+        "da": 38,
+        "pa": 56
+    },
+    {
+        "category": "web_submission",
+        "name": "1-HiT",
+        "url": "https://www.1-hit.com/free-search-engine-submit.php",
+        "da": 36,
+        "pa": 45
+    },
+    {
+        "category": "web_submission",
+        "name": "SoMuch.com",
+        "url": "https://somuch.com/submit-links/",
+        "da": 35,
+        "pa": 46
+    },
+    {
+        "category": "web_submission",
+        "name": "websquash",
+        "url": "https://www.websquash.com/submit.php",
+        "da": 35,
+        "pa": 38
+    },
+    {
+        "category": "web_submission",
+        "name": "splatserach.com",
+        "url": "https://www.splatsearch.com/submit.html",
+        "da": 31,
+        "pa": 49
+    },
+    {
+        "category": "web_submission",
+        "name": "LOOK SEEK",
+        "url": "https://lookseek.com/cgi-bin/submit/addurl.cgi",
+        "da": 30,
+        "pa": 46
+    },
+    {
+        "category": "web_submission",
+        "name": "Official Web Submission",
+        "url": "https://www.official.my/addurl.php",
+        "da": 29,
+        "pa": 50
+    },
+    {
+        "category": "web_submission",
+        "name": "SONIC RUN",
+        "url": "https://www.sonicrun.com/freelisting.html",
+        "da": 27,
+        "pa": 44
+    }
+]

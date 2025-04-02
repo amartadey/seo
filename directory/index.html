@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO Directory</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <div class="header-content">
+                <div class="logo-container">
+                    <i class="fas fa-chart-line logo-icon"></i>
+                    <div class="title-container">
+                        <h1>SEO Directory</h1>
+                        <p>Your ultimate resource for SEO submission sites</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+        <main class="app-main">
+            <div class="search-panel">
+                <div class="search-container">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="search" placeholder="Search by site name or URL...">
+                </div>
+                
+                <div class="filter-sort-container">
+                    <div class="filter-container">
+                        <i class="fas fa-filter filter-icon"></i>
+                        <select id="category">
+                            <option value="all">All Categories</option>
+                            <option value="doc">DOC/PDF/PPT Submission</option>
+                            <option value="blog">Blog Submission</option>
+                            <option value="infographic">Infographic Submission</option>
+                            <option value="social">Social Media Sites</option>
+                            <option value="article_submission">Article Submission</option>
+                            <option value="article_submission_paid">Article Submission (Paid)</option>
+                            <option value="directory_submission">Directory Submission</option>
+                            <option value="directory_submission_india">Directory Submission India</option>
+                            <option value="directory_submission_usa">Directory Submission USA</option>
+                            <option value="directory_submission_uk">Directory Submission UK</option>
+                            <option value="directory_submission_australia">Directory Submission Australia</option>
+                            <option value="directory_submission_canada">Directory Submission Canada</option>
+                            <option value="image_submission">Image Submission</option>
+                            <option value="health_forums">Health Forums</option>
+                            <option value="tech_forums">Tech Forums</option>
+                            <option value="digital_marketing_forums">Digital Marketing Forums</option>
+                            <option value="travel_forums">Travel Forums</option>
+                            <option value="finance_forums">Finance Forums</option>
+                            <option value="parenting_forums">Parenting Forums</option>
+                            <option value="education_career_forums">Education Career Forums</option>
+                            <option value="fashion_forums">Fashion Forums</option>
+                            <option value="national_international_forums">National International Forums</option>
+                            <option value="classified_websites">Classified Websites</option>
+                            <option value="social_bookmarking">Social Bookmarking</option>
+                            <option value="business_listing_india">Business Listing India</option>
+                            <option value="profile_creation">Profile Creation</option>
+                            <option value="guest_posting">Guest Posting</option>
+                            <option value="search_engine_submission">Search Engine Submission</option>
+                            <option value="web_submission">Web Submission</option>
+                        </select>
+                    </div>
+                    
+                    <div class="sort-container">
+                        <i class="fas fa-sort-amount-down sort-icon"></i>
+                        <select id="sort">
+                            <option value="da-desc">Sort by DA (High to Low)</option>
+                            <option value="da-asc">Sort by DA (Low to High)</option>
+                            <option value="pa-desc">Sort by PA (High to Low)</option>
+                            <option value="pa-asc">Sort by PA (Low to High)</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="results-container">
+                <div class="results-header">
+                    <h2>Directory Results</h2>
+                    <div class="results-count" id="results-count">Loading sites...</div>
+                </div>
+                
+                <div id="directory-list" class="directory-list"></div>
+                
+                <div class="pagination">
+                    <button id="prev" class="pagination-button">
+                        <i class="fas fa-chevron-left"></i> Previous
+                    </button>
+                    <span id="page-info" class="page-info"></span>
+                    <button id="next" class="pagination-button">
+                        Next <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </main>
+        
+        <footer class="app-footer">
+            <p>© 2025 SEO Directory. All rights reserved.</p>
+            <div class="footer-links">
+                <!-- <a href="#" class="footer-link">Privacy Policy</a>
+                <a href="#" class="footer-link">Terms of Service</a>
+                <a href="#" class="footer-link">Contact Us</a> -->
+            </div>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+
+    <script>
+        window.RobotBlockerConfig = {
+            blockBots: false,
+           blockRightClick: false,
+           blockDevTools: false,
+       };
+   </script>
+   <script src="https://cdn.jsdelivr.net/gh/amartadey/robotBlocker@latest/robotBlocker.js"></script>
+</body>
+</html>
